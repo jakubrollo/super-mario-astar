@@ -1,8 +1,10 @@
 package mff.agents.common;
 
+import engine.core.MarioGame;
 import engine.core.MarioLevelGenerator;
 import engine.core.MarioLevelModel;
 import engine.core.MarioTimer;
+import levelGenerators.GenerateLevel;
 import mff.LevelLoader;
 import mff.agents.astarGrid.AStarTree;
 import mff.agents.benchmark.AgentBenchmarkGame;
@@ -13,27 +15,38 @@ import java.util.ArrayList;
 public class AgentMain {
     public static void main(String[] args) {
         //testLevel();
-        //testLevelGrid();
+        //testLevelBaumgarten();
+        testLevelGrid();
         //testLevelBenchmark();
         //testLevelWaypoints();
 
-        testAllOriginalLevels();
+        //testAllOriginalLevels();
         //testAllOriginalLevelsGrid();
         //testAllKrysLevelsGrid();
 
         //testGeneratedLevels();
         //testAllAgents();
+
+        //testAllTOADGENLevelsAstarGridBenchmark(1);
+        //testAllTOADGENLevelsBaumgartenBenchmark(1);
     }
 
     private static void testLevel() {
         AgentMarioGame game = new AgentMarioGame();
-        game.runGame(new mff.agents.astar.Agent(), LevelLoader.getLevel("./levels/original/lvl-1.txt"),
+        game.runGame(new mff.agents.astar.Agent(), LevelLoader.getLevel("./levels/random-orig-lvls/lvl-140.txt"),
                 200,0,true);
+    }
+
+    private static void testLevelBaumgarten() {
+        String level = LevelLoader.getLevel("./levels/random-orig-lvls/lvl-140.txt");
+        MarioGame game = new MarioGame();
+        System.out.println("-------");
+        GenerateLevel.printResults(game.runGame(new agents.robinBaumgarten.Agent(), level, 30, 0, true));
     }
 
     private static void testLevelGrid() {
         AgentMarioGame game = new AgentMarioGame();
-        String levelPath = "./levels/original/lvl-1.txt";
+        String levelPath = "./levels/random-orig-lvls/lvl-15.txt";
         IMarioAgentMFF astarGridAgent = new mff.agents.astarGrid.Agent();
         AStarTree.NODE_DEPTH_WEIGHT = 1f;
         AStarTree.TIME_TO_FINISH_WEIGHT = 2f;
@@ -148,6 +161,46 @@ public class AgentMain {
             AgentMarioGame game = new AgentMarioGame();
             System.out.println("Testing " + agent.getAgentName());
             game.runGame(agent, LevelLoader.getLevel("./levels/original/lvl-1.txt"), 200, 0, true);
+        }
+    }
+
+    private static void testAllTOADGENLevelsAstarGridBenchmark(int origLevelnum){
+        for(int i = 140; i <= 1000; i++){
+            System.out.println("./levels/random-orig-lvls/lvl-"+i+".txt");
+            String level = LevelLoader.getLevel("./levels/random-orig-lvls/lvl-"+i+".txt");
+            AgentBenchmarkGame game = new AgentBenchmarkGame();
+            IMarioAgentMFF astarGridAgent = new mff.agents.astarGrid.Agent();
+            AStarTree.NODE_DEPTH_WEIGHT = 2f;
+            AStarTree.TIME_TO_FINISH_WEIGHT = 2f;
+            AStarTree.DISTANCE_FROM_PATH_TOLERANCE = 1f;
+            AStarTree.DISTANCE_FROM_PATH_ADDITIVE_PENALTY = 20f;
+            AStarTree.DISTANCE_FROM_PATH_MULTIPLICATIVE_PENALTY = 7f;
+            AStarGridHelper.giveLevelTilesWithPath(astarGridAgent,"./levels/random-orig-lvls/lvl-"+i+".txt");
+            var agentStats = game.runGame(astarGridAgent, level, 30, 0, false);
+            agentStats.level = "original-"+origLevelnum+"-"+origLevelnum;
+            var mostBacktrackedNodes = ((IAgentBenchmarkBacktrack)astarGridAgent).getMostBacktrackedNodes();
+    
+            System.out.println("level: " + agentStats.level);
+            System.out.println("win: " + agentStats.win);
+            //System.out.println("percentageTravelled: " + agentStats.percentageTravelled);
+            //System.out.println("runTime: " + agentStats.runTime);
+            //System.out.println("totalGameTicks: " + agentStats.totalGameTicks);
+            //System.out.println("totalPlanningTime: " + agentStats.totalPlanningTime);
+            //System.out.println("searchCalls: " + agentStats.searchCalls);
+            //System.out.println("nodesEvaluated: " + agentStats.nodesEvaluated);
+            //System.out.println("mostBacktrackedNodes: " + mostBacktrackedNodes);
+            
+        }
+    }
+
+    private static void testAllTOADGENLevelsBaumgartenBenchmark(int origLevelnum){
+        for(int i = 99; i <= 100; i++){
+            //String level = LevelLoader.getLevel("./levels/orig-lvl-"+origLevelnum+"/lvl-"+i+".txt");
+            String level = LevelLoader.getLevel("./levels/random-orig-lvls/lvl-"+i+".txt");
+            MarioGame game = new MarioGame();
+            System.out.println("-------");
+            System.out.println("level: Orig" + "1" + "_lvl-"+i);
+            GenerateLevel.printResults(game.runGame(new agents.robinBaumgarten.Agent(), level, 30, 0, false));
         }
     }
 }
