@@ -1,10 +1,14 @@
-### Introduction
-This project is based on the framework created by [Ahmed Khalifa](https://scholar.google.com/citations?user=DRcyg5kAAAAJ&hl=en), which can be found [here](https://github.com/amidos2006/Mario-AI-Framework). As a part of my bachelor thesis, I created a better forward model for this framework, and to prove its functionality, I built a few intelligent agents on top of it.
+This is my ISP (Individual software project) researching papers focusing on the utilization of Generative Adversarial Networks (GANs) in generating Super Mario levels, particularly those employing the A* algorithm by Baumgarten. My aim is to replicate the findings of these papers and subsequently enhance them by implementing an improved pathfinding agent developed by David Šosvald, anticipating the achievement of distinct and potentially superior results in level generation.
 
-The work on this project was continued as a part of my diploma thesis, where I created even better agents, especially the `astarGrid` agent (also referred to as `MFF A* Grid`) and the `astarWaypoints` (`MFF A* Waypoints`) agent.
+The following information was forked from here https://gitlab.com/gamedev-cuni-cz/theses/super-mario-astar .
+
+### Introduction
+This project is based on the framework created by [Ahmed Khalifa](https://scholar.google.com/citations?user=DRcyg5kAAAAJ&hl=en), which can be found [here](https://github.com/amidos2006/Mario-AI-Framework). As a part of my bachelor thesis, David Šosvald created a better forward model for this framework, and to prove its functionality, he built a few intelligent agents on top of it.
+
+The work on this project was continued as a part of David Šosvald's diploma thesis, where he created even better agents, especially the `astarGrid` agent (also referred to as `MFF A* Grid`) and the `astarWaypoints` (`MFF A* Waypoints`) agent.
 
 ### Requirements
-The framework works on Windows (tested on Win 10/11), but should also work on Linux (not tested). I tried to support different working directory settings of various IDEs. It is guaranteed to work with working directory set in the `Mario-AI-Framework` folder, which contains folders such as `src` and `levels`.  Java OpenJDK 17 might be required, but the framework probably runs on earlier versions too.
+The framework works on Windows (tested on Win 10/11), but should also work on Linux (not tested). He tried to support different working directory settings of various IDEs. It is guaranteed to work with working directory set in the `Mario-AI-Framework` folder, which contains folders such as `src` and `levels`.  Java OpenJDK 17 might be required, but the framework probably runs on earlier versions too.
 
 ### Project overview
 
@@ -70,4 +74,4 @@ This framework is not endorsed by Nintendo and is only intended for research pur
 
 ### Contact
 
-In case of any problems, questions, or suggestions, feel free to contact me at <david.sosvald@email.cz>.
+In case of any problems, questions, or suggestions, feel free to contact me at <jakubrollo10@gmail.com>.
