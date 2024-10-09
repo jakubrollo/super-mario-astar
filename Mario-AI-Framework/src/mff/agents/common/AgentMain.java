@@ -10,13 +10,17 @@ import mff.agents.astarGrid.AStarTree;
 import mff.agents.benchmark.AgentBenchmarkGame;
 import mff.agents.benchmark.IAgentBenchmarkBacktrack;
 
+import java.io.FileWriter;
+import java.io.IOException;
+import java.io.PrintWriter;
+
 import java.util.ArrayList;
 
 public class AgentMain {
     public static void main(String[] args) {
         //testLevel();
         //testLevelBaumgarten();
-        testLevelGrid();
+        //testLevelGrid();
         //testLevelBenchmark();
         //testLevelWaypoints();
 
@@ -27,35 +31,37 @@ public class AgentMain {
         //testGeneratedLevels();
         //testAllAgents();
 
-        //testAllTOADGENLevelsAstarGridBenchmark(1);
+        testAllTOADGENLevelsAstarGridBenchmark(1);
         //testAllTOADGENLevelsBaumgartenBenchmark(1);
     }
 
     private static void testLevel() {
         AgentMarioGame game = new AgentMarioGame();
-        game.runGame(new mff.agents.astar.Agent(), LevelLoader.getLevel("./levels/random-orig-lvls/lvl-140.txt"),
+        game.runGame(new mff.agents.astar.Agent(), LevelLoader.getLevel("./levels/notWorking/lvl-1.txt"),
                 200,0,true);
     }
 
     private static void testLevelBaumgarten() {
-        String level = LevelLoader.getLevel("./levels/random-orig-lvls/lvl-140.txt");
+        String level = LevelLoader.getLevel("./levels/rewritten_level.txt");
         MarioGame game = new MarioGame();
         System.out.println("-------");
         GenerateLevel.printResults(game.runGame(new agents.robinBaumgarten.Agent(), level, 30, 0, true));
     }
 
     private static void testLevelGrid() {
-        AgentMarioGame game = new AgentMarioGame();
-        String levelPath = "./levels/random-orig-lvls/lvl-15.txt";
+        var game = new AgentBenchmarkGame();
+        String levelPath = "./levels/krys-levels-TOADGAN/lvl-6.txt";
         IMarioAgentMFF astarGridAgent = new mff.agents.astarGrid.Agent();
         AStarTree.NODE_DEPTH_WEIGHT = 1f;
         AStarTree.TIME_TO_FINISH_WEIGHT = 2f;
-        AStarTree.DISTANCE_FROM_PATH_TOLERANCE = 2f;
-        AStarTree.DISTANCE_FROM_PATH_ADDITIVE_PENALTY = 5f;
+        AStarTree.DISTANCE_FROM_PATH_TOLERANCE = 0f;
+        AStarTree.DISTANCE_FROM_PATH_ADDITIVE_PENALTY = 100f;
         AStarTree.DISTANCE_FROM_PATH_MULTIPLICATIVE_PENALTY = 7f;
         AStarGridHelper.giveLevelTilesWithPath(astarGridAgent, levelPath);
-        game.runGame(astarGridAgent, LevelLoader.getLevel(levelPath),
+        var result = game.runGame(astarGridAgent, LevelLoader.getLevel(levelPath),
                 200, 0, true);
+
+        System.out.println("win: " + result.win);
     }
 
     private static void testLevelBenchmark() {
@@ -160,36 +166,43 @@ public class AgentMain {
         for (var agent : agents) {
             AgentMarioGame game = new AgentMarioGame();
             System.out.println("Testing " + agent.getAgentName());
-            game.runGame(agent, LevelLoader.getLevel("./levels/original/lvl-1.txt"), 200, 0, true);
+            game.runGame(agent, LevelLoader.getLevel("./levels/notWorking/lvl-9.txt"), 200, 0, true);
         }
     }
 
-    private static void testAllTOADGENLevelsAstarGridBenchmark(int origLevelnum){
-        for(int i = 140; i <= 1000; i++){
-            System.out.println("./levels/random-orig-lvls/lvl-"+i+".txt");
-            String level = LevelLoader.getLevel("./levels/random-orig-lvls/lvl-"+i+".txt");
-            AgentBenchmarkGame game = new AgentBenchmarkGame();
-            IMarioAgentMFF astarGridAgent = new mff.agents.astarGrid.Agent();
-            AStarTree.NODE_DEPTH_WEIGHT = 2f;
-            AStarTree.TIME_TO_FINISH_WEIGHT = 2f;
-            AStarTree.DISTANCE_FROM_PATH_TOLERANCE = 1f;
-            AStarTree.DISTANCE_FROM_PATH_ADDITIVE_PENALTY = 20f;
-            AStarTree.DISTANCE_FROM_PATH_MULTIPLICATIVE_PENALTY = 7f;
-            AStarGridHelper.giveLevelTilesWithPath(astarGridAgent,"./levels/random-orig-lvls/lvl-"+i+".txt");
-            var agentStats = game.runGame(astarGridAgent, level, 30, 0, false);
-            agentStats.level = "original-"+origLevelnum+"-"+origLevelnum;
-            var mostBacktrackedNodes = ((IAgentBenchmarkBacktrack)astarGridAgent).getMostBacktrackedNodes();
-    
-            System.out.println("level: " + agentStats.level);
-            System.out.println("win: " + agentStats.win);
-            //System.out.println("percentageTravelled: " + agentStats.percentageTravelled);
-            //System.out.println("runTime: " + agentStats.runTime);
-            //System.out.println("totalGameTicks: " + agentStats.totalGameTicks);
-            //System.out.println("totalPlanningTime: " + agentStats.totalPlanningTime);
-            //System.out.println("searchCalls: " + agentStats.searchCalls);
-            //System.out.println("nodesEvaluated: " + agentStats.nodesEvaluated);
-            //System.out.println("mostBacktrackedNodes: " + mostBacktrackedNodes);
-            
+    private static void testAllTOADGENLevelsAstarGridBenchmark(int origLevelnum) {
+        try (PrintWriter writer = new PrintWriter(new FileWriter("outputKrysTOADGAN5.txt", true))) {
+            writer.println("original level: krys-1");
+            for (int i = 400; i <= 1000; i++) {
+                String level = LevelLoader.getLevel("./levels/krys-levels-TOADGAN/lvl-" + i + ".txt");
+                AgentBenchmarkGame game = new AgentBenchmarkGame();
+                IMarioAgentMFF astarGridAgent = new mff.agents.astarGrid.Agent();
+                AStarTree.NODE_DEPTH_WEIGHT = 2f;
+                AStarTree.TIME_TO_FINISH_WEIGHT = 2f;
+                AStarTree.DISTANCE_FROM_PATH_TOLERANCE = 1f;
+                AStarTree.DISTANCE_FROM_PATH_ADDITIVE_PENALTY = 20f;
+                AStarTree.DISTANCE_FROM_PATH_MULTIPLICATIVE_PENALTY = 7f;
+                AStarGridHelper.giveLevelTilesWithPath(astarGridAgent, "./levels/krys-levels-TOADGAN/lvl-" + i + ".txt");
+                var agentStats = game.runGame(astarGridAgent, level, 20, 0, true);
+                agentStats.level = "krys_TOADGAN-" + i + ".txt";
+                var mostBacktrackedNodes = ((IAgentBenchmarkBacktrack) astarGridAgent).getMostBacktrackedNodes();
+
+                System.out.println("level: " + agentStats.level);
+                System.out.println("win: " + agentStats.win);
+                // Write output to the file
+                writer.println("level: " + agentStats.level);
+                writer.println("win: " + agentStats.win);
+                //writer.println("percentageTravelled: " + agentStats.percentageTravelled);
+                //writer.println("runTime: " + agentStats.runTime);
+                //writer.println("totalGameTicks: " + agentStats.totalGameTicks);
+                //writer.println("totalPlanningTime: " + agentStats.totalPlanningTime);
+                //writer.println("searchCalls: " + agentStats.searchCalls);
+                //writer.println("nodesEvaluated: " + agentStats.nodesEvaluated);
+                //writer.println("mostBacktrackedNodes: " + mostBacktrackedNodes);
+                writer.println();
+            }
+        } catch (IOException e) {
+            e.printStackTrace();
         }
     }
 

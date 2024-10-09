@@ -8,7 +8,7 @@ import java.util.ArrayList;
 
 public class GridSearchMain {
     public static void main(String[] args) {
-        findGridPathForLevel("./levels/original/lvl-1.txt", 0, true);
+        findGridPathForLevel("./levels/krys-levels-TOADGAN/lvl-48.txt", 1, true);
     }
 
     public static void findGridPathForLevel(String levelPath, int horizontalJumpBoost, boolean verbose) {

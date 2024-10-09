@@ -126,7 +126,7 @@ public class GridSearch {
         }
 
         return recoverFullPath(furthest);
-//        throw new IllegalStateException("Level is not solvable!");
+        //throw new IllegalStateException("Level is not solvable!");
     }
 
     private float calculateCost(GridSearchNode newState) {
