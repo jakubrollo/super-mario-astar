@@ -1,0 +1,301 @@
+original level: orig_3-3
+level: orig_3-3_TOADGAN-1.txt
+win: true
+
+level: orig_3-3_TOADGAN-2.txt
+win: false
+
+level: orig_3-3_TOADGAN-3.txt
+win: false
+
+level: orig_3-3_TOADGAN-4.txt
+win: false
+
+level: orig_3-3_TOADGAN-5.txt
+win: true
+
+level: orig_3-3_TOADGAN-6.txt
+win: false
+
+level: orig_3-3_TOADGAN-7.txt
+win: true
+
+level: orig_3-3_TOADGAN-8.txt
+win: true
+
+level: orig_3-3_TOADGAN-9.txt
+win: true
+
+level: orig_3-3_TOADGAN-10.txt
+win: false
+
+level: orig_3-3_TOADGAN-11.txt
+win: true
+
+level: orig_3-3_TOADGAN-12.txt
+win: true
+
+level: orig_3-3_TOADGAN-13.txt
+win: true
+
+level: orig_3-3_TOADGAN-14.txt
+win: true
+
+level: orig_3-3_TOADGAN-15.txt
+win: false
+
+level: orig_3-3_TOADGAN-16.txt
+win: true
+
+level: orig_3-3_TOADGAN-17.txt
+win: false
+
+level: orig_3-3_TOADGAN-18.txt
+win: false
+
+level: orig_3-3_TOADGAN-19.txt
+win: true
+
+level: orig_3-3_TOADGAN-20.txt
+win: true
+
+level: orig_3-3_TOADGAN-21.txt
+win: false
+
+level: orig_3-3_TOADGAN-22.txt
+win: true
+
+level: orig_3-3_TOADGAN-23.txt
+win: true
+
+level: orig_3-3_TOADGAN-24.txt
+win: true
+
+level: orig_3-3_TOADGAN-25.txt
+win: false
+
+level: orig_3-3_TOADGAN-26.txt
+win: false
+
+level: orig_3-3_TOADGAN-27.txt
+win: true
+
+level: orig_3-3_TOADGAN-28.txt
+win: true
+
+level: orig_3-3_TOADGAN-29.txt
+win: true
+
+level: orig_3-3_TOADGAN-30.txt
+win: false
+
+level: orig_3-3_TOADGAN-31.txt
+win: true
+
+level: orig_3-3_TOADGAN-32.txt
+win: true
+
+level: orig_3-3_TOADGAN-33.txt
+win: true
+
+level: orig_3-3_TOADGAN-34.txt
+win: false
+
+level: orig_3-3_TOADGAN-35.txt
+win: false
+
+level: orig_3-3_TOADGAN-36.txt
+win: false
+
+level: orig_3-3_TOADGAN-37.txt
+win: false
+
+level: orig_3-3_TOADGAN-38.txt
+win: false
+
+level: orig_3-3_TOADGAN-39.txt
+win: true
+
+level: orig_3-3_TOADGAN-40.txt
+win: true
+
+level: orig_3-3_TOADGAN-41.txt
+win: false
+
+level: orig_3-3_TOADGAN-42.txt
+win: false
+
+level: orig_3-3_TOADGAN-43.txt
+win: true
+
+level: orig_3-3_TOADGAN-44.txt
+win: false
+
+level: orig_3-3_TOADGAN-45.txt
+win: true
+
+level: orig_3-3_TOADGAN-46.txt
+win: false
+
+level: orig_3-3_TOADGAN-47.txt
+win: true
+
+level: orig_3-3_TOADGAN-48.txt
+win: true
+
+level: orig_3-3_TOADGAN-49.txt
+win: true
+
+level: orig_3-3_TOADGAN-50.txt
+win: true
+
+level: orig_3-3_TOADGAN-51.txt
+win: true
+
+level: orig_3-3_TOADGAN-52.txt
+win: false
+
+level: orig_3-3_TOADGAN-53.txt
+win: false
+
+level: orig_3-3_TOADGAN-54.txt
+win: true
+
+level: orig_3-3_TOADGAN-55.txt
+win: false
+
+level: orig_3-3_TOADGAN-56.txt
+win: true
+
+level: orig_3-3_TOADGAN-57.txt
+win: false
+
+level: orig_3-3_TOADGAN-58.txt
+win: false
+
+level: orig_3-3_TOADGAN-59.txt
+win: false
+
+level: orig_3-3_TOADGAN-60.txt
+win: false
+
+level: orig_3-3_TOADGAN-61.txt
+win: true
+
+level: orig_3-3_TOADGAN-62.txt
+win: false
+
+level: orig_3-3_TOADGAN-63.txt
+win: false
+
+level: orig_3-3_TOADGAN-64.txt
+win: false
+
+level: orig_3-3_TOADGAN-65.txt
+win: true
+
+level: orig_3-3_TOADGAN-66.txt
+win: false
+
+level: orig_3-3_TOADGAN-67.txt
+win: false
+
+level: orig_3-3_TOADGAN-68.txt
+win: true
+
+level: orig_3-3_TOADGAN-69.txt
+win: false
+
+level: orig_3-3_TOADGAN-70.txt
+win: true
+
+level: orig_3-3_TOADGAN-71.txt
+win: false
+
+level: orig_3-3_TOADGAN-72.txt
+win: true
+
+level: orig_3-3_TOADGAN-73.txt
+win: false
+
+level: orig_3-3_TOADGAN-74.txt
+win: false
+
+level: orig_3-3_TOADGAN-75.txt
+win: false
+
+level: orig_3-3_TOADGAN-76.txt
+win: true
+
+level: orig_3-3_TOADGAN-77.txt
+win: false
+
+level: orig_3-3_TOADGAN-78.txt
+win: false
+
+level: orig_3-3_TOADGAN-79.txt
+win: false
+
+level: orig_3-3_TOADGAN-80.txt
+win: true
+
+level: orig_3-3_TOADGAN-81.txt
+win: true
+
+level: orig_3-3_TOADGAN-82.txt
+win: false
+
+level: orig_3-3_TOADGAN-83.txt
+win: false
+
+level: orig_3-3_TOADGAN-84.txt
+win: false
+
+level: orig_3-3_TOADGAN-85.txt
+win: false
+
+level: orig_3-3_TOADGAN-86.txt
+win: true
+
+level: orig_3-3_TOADGAN-87.txt
+win: true
+
+level: orig_3-3_TOADGAN-88.txt
+win: true
+
+level: orig_3-3_TOADGAN-89.txt
+win: true
+
+level: orig_3-3_TOADGAN-90.txt
+win: false
+
+level: orig_3-3_TOADGAN-91.txt
+win: false
+
+level: orig_3-3_TOADGAN-92.txt
+win: true
+
+level: orig_3-3_TOADGAN-93.txt
+win: true
+
+level: orig_3-3_TOADGAN-94.txt
+win: false
+
+level: orig_3-3_TOADGAN-95.txt
+win: true
+
+level: orig_3-3_TOADGAN-96.txt
+win: true
+
+level: orig_3-3_TOADGAN-97.txt
+win: true
+
+level: orig_3-3_TOADGAN-98.txt
+win: false
+
+level: orig_3-3_TOADGAN-99.txt
+win: false
+
+level: orig_3-3_TOADGAN-100.txt
+win: true
+

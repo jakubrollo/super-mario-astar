@@ -1,0 +1,801 @@
+original level: orig_3-3
+level: orig_3-3_lvl-1
+****************************************************************
+Game Status: LOSE Percentage Completion: 0.7454703
+Lives: 0 Coins: 2 Remaining Time: 26
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 0 (Stomps: 0 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 9 Max X Jump: 130.9082 Max Air Time: 11
+****************************************************************
+level: orig_3-3_lvl-2
+****************************************************************
+Game Status: LOSE Percentage Completion: 0.08570026
+Lives: 0 Coins: 0 Remaining Time: 30
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 0 (Stomps: 0 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 1 Max X Jump: 0.0 Max Air Time: 0
+****************************************************************
+level: orig_3-3_lvl-3
+****************************************************************
+Game Status: LOSE Percentage Completion: 0.24010348
+Lives: 0 Coins: 0 Remaining Time: 29
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 0 (Stomps: 0 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 3 Max X Jump: 94.89655 Max Air Time: 10
+****************************************************************
+level: orig_3-3_lvl-4
+****************************************************************
+Game Status: LOSE Percentage Completion: 0.36414152
+Lives: 0 Coins: 0 Remaining Time: 28
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 0 (Stomps: 0 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 4 Max X Jump: 141.75482 Max Air Time: 12
+****************************************************************
+level: orig_3-3_lvl-5
+****************************************************************
+Game Status: LOSE Percentage Completion: 0.09444128
+Lives: 0 Coins: 0 Remaining Time: 30
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 0 (Stomps: 0 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 1 Max X Jump: 114.71003 Max Air Time: 12
+****************************************************************
+level: orig_3-3_lvl-6
+****************************************************************
+Game Status: LOSE Percentage Completion: 0.103280574
+Lives: 0 Coins: 0 Remaining Time: 30
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 0 (Stomps: 0 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 1 Max X Jump: 0.0 Max Air Time: 0
+****************************************************************
+level: orig_3-3_lvl-7
+****************************************************************
+Game Status: WIN Percentage Completion: 1.0
+Lives: 0 Coins: 2 Remaining Time: 23
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 0 (Stomps: 0 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 10 Max X Jump: 119.97687 Max Air Time: 11
+****************************************************************
+level: orig_3-3_lvl-8
+****************************************************************
+Game Status: LOSE Percentage Completion: 0.16000976
+Lives: 0 Coins: 0 Remaining Time: 29
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 0 (Stomps: 0 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 2 Max X Jump: 79.98956 Max Air Time: 10
+****************************************************************
+level: orig_3-3_lvl-9
+****************************************************************
+Game Status: LOSE Percentage Completion: 0.9495221
+Lives: 0 Coins: 4 Remaining Time: 24
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 0 (Stomps: 0 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 12 Max X Jump: 150.98584 Max Air Time: 14
+****************************************************************
+level: orig_3-3_lvl-10
+****************************************************************
+Game Status: LOSE Percentage Completion: 0.10480224
+Lives: 0 Coins: 0 Remaining Time: 29
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 0 (Stomps: 0 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 2 Max X Jump: 95.67461 Max Air Time: 13
+****************************************************************
+level: orig_3-3_lvl-11
+****************************************************************
+Game Status: LOSE Percentage Completion: 0.15047447
+Lives: 0 Coins: 0 Remaining Time: 29
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 0 (Stomps: 0 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 1 Max X Jump: 0.0 Max Air Time: 0
+****************************************************************
+level: orig_3-3_lvl-12
+****************************************************************
+Game Status: LOSE Percentage Completion: 0.5500571
+Lives: 0 Coins: 1 Remaining Time: 27
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 0 (Stomps: 0 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 5 Max X Jump: 119.85101 Max Air Time: 10
+****************************************************************
+level: orig_3-3_lvl-13
+****************************************************************
+Game Status: LOSE Percentage Completion: 0.541043
+Lives: 0 Coins: 3 Remaining Time: 27
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 0 (Stomps: 0 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 4 Max X Jump: 160.84619 Max Air Time: 14
+****************************************************************
+level: orig_3-3_lvl-14
+****************************************************************
+Game Status: WIN Percentage Completion: 1.0
+Lives: 0 Coins: 3 Remaining Time: 24
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 0 (Stomps: 0 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 11 Max X Jump: 185.39526 Max Air Time: 16
+****************************************************************
+level: orig_3-3_lvl-15
+****************************************************************
+Game Status: LOSE Percentage Completion: 0.121176526
+Lives: 0 Coins: 0 Remaining Time: 29
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 0 (Stomps: 0 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 1 Max X Jump: 0.0 Max Air Time: 0
+****************************************************************
+level: orig_3-3_lvl-16
+****************************************************************
+Game Status: LOSE Percentage Completion: 0.43600646
+Lives: 0 Coins: 0 Remaining Time: 27
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 0 (Stomps: 0 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 4 Max X Jump: 174.54016 Max Air Time: 15
+****************************************************************
+level: orig_3-3_lvl-17
+****************************************************************
+Game Status: LOSE Percentage Completion: 0.53596365
+Lives: 0 Coins: 0 Remaining Time: 26
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 0 (Stomps: 0 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 7 Max X Jump: 130.55792 Max Air Time: 11
+****************************************************************
+level: orig_3-3_lvl-18
+****************************************************************
+Game Status: LOSE Percentage Completion: 0.09444128
+Lives: 0 Coins: 0 Remaining Time: 30
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 0 (Stomps: 0 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 1 Max X Jump: 0.0 Max Air Time: 0
+****************************************************************
+level: orig_3-3_lvl-19
+****************************************************************
+Game Status: WIN Percentage Completion: 1.0
+Lives: 0 Coins: 11 Remaining Time: 24
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 1 (Stomps: 1 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 14 Max X Jump: 140.28076 Max Air Time: 13
+****************************************************************
+level: orig_3-3_lvl-20
+****************************************************************
+Game Status: LOSE Percentage Completion: 0.9357167
+Lives: 0 Coins: 3 Remaining Time: 24
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 0 (Stomps: 0 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 10 Max X Jump: 147.53387 Max Air Time: 13
+****************************************************************
+level: orig_3-3_lvl-21
+****************************************************************
+Game Status: LOSE Percentage Completion: 0.07411091
+Lives: 0 Coins: 0 Remaining Time: 30
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 0 (Stomps: 0 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 1 Max X Jump: 0.0 Max Air Time: 0
+****************************************************************
+level: orig_3-3_lvl-22
+****************************************************************
+Game Status: WIN Percentage Completion: 1.0
+Lives: 0 Coins: 2 Remaining Time: 23
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 0 (Stomps: 0 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 13 Max X Jump: 134.08032 Max Air Time: 13
+****************************************************************
+level: orig_3-3_lvl-23
+****************************************************************
+Game Status: LOSE Percentage Completion: 0.41515332
+Lives: 0 Coins: 0 Remaining Time: 27
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 0 (Stomps: 0 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 4 Max X Jump: 103.71625 Max Air Time: 11
+****************************************************************
+level: orig_3-3_lvl-24
+****************************************************************
+Game Status: LOSE Percentage Completion: 0.82077664
+Lives: 0 Coins: 0 Remaining Time: 25
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 1 (Stomps: 0 Fireballs: 0 Shells: 0 Falls: 1)
+Bricks: 0 Jumps: 12 Max X Jump: 166.63538 Max Air Time: 16
+****************************************************************
+level: orig_3-3_lvl-25
+****************************************************************
+Game Status: LOSE Percentage Completion: 0.95597064
+Lives: 0 Coins: 4 Remaining Time: 24
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 1 (Stomps: 1 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 7 Max X Jump: 240.65186 Max Air Time: 22
+****************************************************************
+level: orig_3-3_lvl-26
+****************************************************************
+Game Status: LOSE Percentage Completion: 0.10367676
+Lives: 0 Coins: 0 Remaining Time: 29
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 0 (Stomps: 0 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 2 Max X Jump: 34.512764 Max Air Time: 10
+****************************************************************
+level: orig_3-3_lvl-27
+****************************************************************
+Game Status: WIN Percentage Completion: 1.0
+Lives: 0 Coins: 7 Remaining Time: 24
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 0 (Stomps: 0 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 12 Max X Jump: 158.02173 Max Air Time: 14
+****************************************************************
+level: orig_3-3_lvl-28
+****************************************************************
+Game Status: WIN Percentage Completion: 1.0
+Lives: 0 Coins: 4 Remaining Time: 24
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 0 (Stomps: 0 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 10 Max X Jump: 141.78076 Max Air Time: 12
+****************************************************************
+level: orig_3-3_lvl-29
+****************************************************************
+Game Status: LOSE Percentage Completion: 0.5097163
+Lives: 0 Coins: 0 Remaining Time: 27
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 0 (Stomps: 0 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 5 Max X Jump: 95.987015 Max Air Time: 9
+****************************************************************
+level: orig_3-3_lvl-30
+****************************************************************
+Game Status: LOSE Percentage Completion: 0.25029078
+Lives: 0 Coins: 1 Remaining Time: 29
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 0 (Stomps: 0 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 2 Max X Jump: 99.00427 Max Air Time: 12
+****************************************************************
+level: orig_3-3_lvl-31
+****************************************************************
+Game Status: LOSE Percentage Completion: 0.7513926
+Lives: 0 Coins: 4 Remaining Time: 25
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 1 (Stomps: 1 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 9 Max X Jump: 206.67957 Max Air Time: 19
+****************************************************************
+level: orig_3-3_lvl-32
+****************************************************************
+Game Status: LOSE Percentage Completion: 0.3276181
+Lives: 0 Coins: 0 Remaining Time: 28
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 0 (Stomps: 0 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 4 Max X Jump: 142.94725 Max Air Time: 13
+****************************************************************
+level: orig_3-3_lvl-33
+****************************************************************
+Game Status: LOSE Percentage Completion: 0.5686842
+Lives: 0 Coins: 1 Remaining Time: 27
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 0 (Stomps: 0 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 6 Max X Jump: 160.84619 Max Air Time: 14
+****************************************************************
+level: orig_3-3_lvl-34
+****************************************************************
+Game Status: LOSE Percentage Completion: 0.0827935
+Lives: 0 Coins: 0 Remaining Time: 30
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 0 (Stomps: 0 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 1 Max X Jump: 62.205143 Max Air Time: 8
+****************************************************************
+level: orig_3-3_lvl-35
+****************************************************************
+Game Status: LOSE Percentage Completion: 0.267723
+Lives: 0 Coins: 0 Remaining Time: 29
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 0 (Stomps: 0 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 3 Max X Jump: 144.0124 Max Air Time: 13
+****************************************************************
+level: orig_3-3_lvl-36
+****************************************************************
+Game Status: LOSE Percentage Completion: 0.078943506
+Lives: 0 Coins: 0 Remaining Time: 30
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 0 (Stomps: 0 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 1 Max X Jump: 0.0 Max Air Time: 0
+****************************************************************
+level: orig_3-3_lvl-37
+****************************************************************
+Game Status: LOSE Percentage Completion: 0.19821505
+Lives: 0 Coins: 1 Remaining Time: 29
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 0 (Stomps: 0 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 2 Max X Jump: 113.79961 Max Air Time: 10
+****************************************************************
+level: orig_3-3_lvl-38
+****************************************************************
+Game Status: LOSE Percentage Completion: 0.49806604
+Lives: 0 Coins: 0 Remaining Time: 27
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 2 (Stomps: 2 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 3 Max X Jump: 295.5105 Max Air Time: 29
+****************************************************************
+level: orig_3-3_lvl-39
+****************************************************************
+Game Status: LOSE Percentage Completion: 0.3414149
+Lives: 0 Coins: 1 Remaining Time: 28
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 0 (Stomps: 0 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 4 Max X Jump: 97.841675 Max Air Time: 8
+****************************************************************
+level: orig_3-3_lvl-40
+****************************************************************
+Game Status: WIN Percentage Completion: 1.0
+Lives: 0 Coins: 6 Remaining Time: 24
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 0 (Stomps: 0 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 13 Max X Jump: 130.81165 Max Air Time: 11
+****************************************************************
+level: orig_3-3_lvl-41
+****************************************************************
+Game Status: LOSE Percentage Completion: 0.08086766
+Lives: 0 Coins: 0 Remaining Time: 30
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 0 (Stomps: 0 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 1 Max X Jump: 0.0 Max Air Time: 0
+****************************************************************
+level: orig_3-3_lvl-42
+****************************************************************
+Game Status: LOSE Percentage Completion: 0.14330888
+Lives: 0 Coins: 0 Remaining Time: 29
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 0 (Stomps: 0 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 1 Max X Jump: 0.0 Max Air Time: 0
+****************************************************************
+level: orig_3-3_lvl-43
+****************************************************************
+Game Status: WIN Percentage Completion: 1.0
+Lives: 0 Coins: 3 Remaining Time: 24
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 2 (Stomps: 2 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 12 Max X Jump: 131.43787 Max Air Time: 15
+****************************************************************
+level: orig_3-3_lvl-44
+****************************************************************
+Game Status: LOSE Percentage Completion: 0.63070774
+Lives: 0 Coins: 6 Remaining Time: 26
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 0 (Stomps: 0 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 9 Max X Jump: 130.73242 Max Air Time: 11
+****************************************************************
+level: orig_3-3_lvl-45
+****************************************************************
+Game Status: LOSE Percentage Completion: 0.21440046
+Lives: 0 Coins: 0 Remaining Time: 29
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 1 (Stomps: 1 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 2 Max X Jump: 186.81407 Max Air Time: 19
+****************************************************************
+level: orig_3-3_lvl-46
+****************************************************************
+Game Status: WIN Percentage Completion: 1.0
+Lives: 0 Coins: 3 Remaining Time: 24
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 0 (Stomps: 0 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 12 Max X Jump: 141.73596 Max Air Time: 13
+****************************************************************
+level: orig_3-3_lvl-47
+****************************************************************
+Game Status: LOSE Percentage Completion: 0.7790652
+Lives: 0 Coins: 2 Remaining Time: 25
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 0 (Stomps: 0 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 8 Max X Jump: 130.86353 Max Air Time: 11
+****************************************************************
+level: orig_3-3_lvl-48
+****************************************************************
+Game Status: LOSE Percentage Completion: 0.17578503
+Lives: 0 Coins: 0 Remaining Time: 29
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 0 (Stomps: 0 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 1 Max X Jump: 0.0 Max Air Time: 0
+****************************************************************
+level: orig_3-3_lvl-49
+****************************************************************
+Game Status: LOSE Percentage Completion: 0.56845915
+Lives: 0 Coins: 3 Remaining Time: 27
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 1 (Stomps: 1 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 7 Max X Jump: 192.27362 Max Air Time: 17
+****************************************************************
+level: orig_3-3_lvl-50
+****************************************************************
+Game Status: LOSE Percentage Completion: 0.078943506
+Lives: 0 Coins: 0 Remaining Time: 30
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 0 (Stomps: 0 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 1 Max X Jump: 0.0 Max Air Time: 0
+****************************************************************
+level: orig_3-3_lvl-51
+****************************************************************
+Game Status: LOSE Percentage Completion: 0.26014447
+Lives: 0 Coins: 0 Remaining Time: 29
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 0 (Stomps: 0 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 3 Max X Jump: 64.78262 Max Air Time: 8
+****************************************************************
+level: orig_3-3_lvl-52
+****************************************************************
+Game Status: LOSE Percentage Completion: 0.281772
+Lives: 0 Coins: 0 Remaining Time: 28
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 0 (Stomps: 0 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 4 Max X Jump: 110.117775 Max Air Time: 10
+****************************************************************
+level: orig_3-3_lvl-53
+****************************************************************
+Game Status: LOSE Percentage Completion: 0.3469395
+Lives: 0 Coins: 0 Remaining Time: 27
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 0 (Stomps: 0 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 4 Max X Jump: 144.99635 Max Air Time: 18
+****************************************************************
+level: orig_3-3_lvl-54
+****************************************************************
+Game Status: WIN Percentage Completion: 1.0
+Lives: 0 Coins: 3 Remaining Time: 24
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 0 (Stomps: 0 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 9 Max X Jump: 147.25934 Max Air Time: 13
+****************************************************************
+level: orig_3-3_lvl-55
+****************************************************************
+Game Status: LOSE Percentage Completion: 0.3185644
+Lives: 0 Coins: 2 Remaining Time: 28
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 0 (Stomps: 0 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 4 Max X Jump: 128.25989 Max Air Time: 12
+****************************************************************
+level: orig_3-3_lvl-56
+****************************************************************
+Game Status: LOSE Percentage Completion: 0.456077
+Lives: 0 Coins: 3 Remaining Time: 27
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 1 (Stomps: 1 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 4 Max X Jump: 174.54016 Max Air Time: 15
+****************************************************************
+level: orig_3-3_lvl-57
+****************************************************************
+Game Status: LOSE Percentage Completion: 0.078943506
+Lives: 0 Coins: 0 Remaining Time: 30
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 0 (Stomps: 0 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 1 Max X Jump: 0.0 Max Air Time: 0
+****************************************************************
+level: orig_3-3_lvl-58
+****************************************************************
+Game Status: LOSE Percentage Completion: 0.29269564
+Lives: 0 Coins: 0 Remaining Time: 28
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 0 (Stomps: 0 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 4 Max X Jump: 156.54861 Max Air Time: 14
+****************************************************************
+level: orig_3-3_lvl-59
+****************************************************************
+Game Status: LOSE Percentage Completion: 0.078943506
+Lives: 0 Coins: 0 Remaining Time: 30
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 0 (Stomps: 0 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 1 Max X Jump: 0.0 Max Air Time: 0
+****************************************************************
+level: orig_3-3_lvl-60
+****************************************************************
+Game Status: LOSE Percentage Completion: 0.16863781
+Lives: 0 Coins: 1 Remaining Time: 29
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 0 (Stomps: 0 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 2 Max X Jump: 117.44342 Max Air Time: 13
+****************************************************************
+level: orig_3-3_lvl-61
+****************************************************************
+Game Status: LOSE Percentage Completion: 0.267723
+Lives: 0 Coins: 0 Remaining Time: 29
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 0 (Stomps: 0 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 1 Max X Jump: 0.0 Max Air Time: 0
+****************************************************************
+level: orig_3-3_lvl-62
+****************************************************************
+Game Status: LOSE Percentage Completion: 0.4704044
+Lives: 0 Coins: 2 Remaining Time: 27
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 0 (Stomps: 0 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 5 Max X Jump: 152.68628 Max Air Time: 13
+****************************************************************
+level: orig_3-3_lvl-63
+****************************************************************
+Game Status: LOSE Percentage Completion: 0.16512021
+Lives: 0 Coins: 0 Remaining Time: 29
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 0 (Stomps: 0 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 2 Max X Jump: 71.54396 Max Air Time: 10
+****************************************************************
+level: orig_3-3_lvl-64
+****************************************************************
+Game Status: LOSE Percentage Completion: 0.08086766
+Lives: 0 Coins: 0 Remaining Time: 30
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 0 (Stomps: 0 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 1 Max X Jump: 0.0 Max Air Time: 0
+****************************************************************
+level: orig_3-3_lvl-65
+****************************************************************
+Game Status: LOSE Percentage Completion: 0.82336557
+Lives: 0 Coins: 3 Remaining Time: 24
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 1 (Stomps: 0 Fireballs: 0 Shells: 0 Falls: 1)
+Bricks: 0 Jumps: 12 Max X Jump: 157.59283 Max Air Time: 15
+****************************************************************
+level: orig_3-3_lvl-66
+****************************************************************
+Game Status: LOSE Percentage Completion: 0.057200547
+Lives: 0 Coins: 0 Remaining Time: 30
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 0 (Stomps: 0 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 1 Max X Jump: 0.0 Max Air Time: 0
+****************************************************************
+level: orig_3-3_lvl-67
+****************************************************************
+Game Status: LOSE Percentage Completion: 0.5072793
+Lives: 0 Coins: 3 Remaining Time: 27
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 0 (Stomps: 0 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 8 Max X Jump: 161.58441 Max Air Time: 14
+****************************************************************
+level: orig_3-3_lvl-68
+****************************************************************
+Game Status: WIN Percentage Completion: 1.0
+Lives: 0 Coins: 2 Remaining Time: 24
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 0 (Stomps: 0 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 13 Max X Jump: 163.60992 Max Air Time: 14
+****************************************************************
+level: orig_3-3_lvl-69
+****************************************************************
+Game Status: LOSE Percentage Completion: 0.16155018
+Lives: 0 Coins: 0 Remaining Time: 29
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 0 (Stomps: 0 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 2 Max X Jump: 94.89655 Max Air Time: 10
+****************************************************************
+level: orig_3-3_lvl-70
+****************************************************************
+Game Status: LOSE Percentage Completion: 0.33404726
+Lives: 0 Coins: 0 Remaining Time: 28
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 0 (Stomps: 0 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 3 Max X Jump: 75.60922 Max Air Time: 8
+****************************************************************
+level: orig_3-3_lvl-71
+****************************************************************
+Game Status: LOSE Percentage Completion: 0.2257942
+Lives: 0 Coins: 0 Remaining Time: 29
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 0 (Stomps: 0 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 2 Max X Jump: 112.17226 Max Air Time: 10
+****************************************************************
+level: orig_3-3_lvl-72
+****************************************************************
+Game Status: WIN Percentage Completion: 1.0
+Lives: 0 Coins: 3 Remaining Time: 24
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 1 (Stomps: 1 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 12 Max X Jump: 184.0509 Max Air Time: 17
+****************************************************************
+level: orig_3-3_lvl-73
+****************************************************************
+Game Status: LOSE Percentage Completion: 0.11219772
+Lives: 0 Coins: 0 Remaining Time: 30
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 0 (Stomps: 0 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 1 Max X Jump: 0.0 Max Air Time: 0
+****************************************************************
+level: orig_3-3_lvl-74
+****************************************************************
+Game Status: LOSE Percentage Completion: 0.18495284
+Lives: 0 Coins: 1 Remaining Time: 29
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 0 (Stomps: 0 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 2 Max X Jump: 79.98956 Max Air Time: 10
+****************************************************************
+level: orig_3-3_lvl-75
+****************************************************************
+Game Status: LOSE Percentage Completion: 0.18495284
+Lives: 0 Coins: 1 Remaining Time: 29
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 0 (Stomps: 0 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 2 Max X Jump: 110.117775 Max Air Time: 10
+****************************************************************
+level: orig_3-3_lvl-76
+****************************************************************
+Game Status: LOSE Percentage Completion: 0.53494614
+Lives: 0 Coins: 1 Remaining Time: 27
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 0 (Stomps: 0 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 4 Max X Jump: 111.02429 Max Air Time: 12
+****************************************************************
+level: orig_3-3_lvl-77
+****************************************************************
+Game Status: LOSE Percentage Completion: 0.6731065
+Lives: 0 Coins: 0 Remaining Time: 26
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 0 (Stomps: 0 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 7 Max X Jump: 152.72491 Max Air Time: 13
+****************************************************************
+level: orig_3-3_lvl-78
+****************************************************************
+Game Status: LOSE Percentage Completion: 0.132468
+Lives: 0 Coins: 0 Remaining Time: 30
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 0 (Stomps: 0 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 1 Max X Jump: 0.0 Max Air Time: 0
+****************************************************************
+level: orig_3-3_lvl-79
+****************************************************************
+Game Status: LOSE Percentage Completion: 0.078943506
+Lives: 0 Coins: 0 Remaining Time: 30
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 0 (Stomps: 0 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 1 Max X Jump: 0.0 Max Air Time: 0
+****************************************************************
+level: orig_3-3_lvl-80
+****************************************************************
+Game Status: WIN Percentage Completion: 1.0
+Lives: 0 Coins: 3 Remaining Time: 23
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 1 (Stomps: 1 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 12 Max X Jump: 137.44312 Max Air Time: 13
+****************************************************************
+level: orig_3-3_lvl-81
+****************************************************************
+Game Status: LOSE Percentage Completion: 0.5256868
+Lives: 0 Coins: 2 Remaining Time: 27
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 0 (Stomps: 0 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 5 Max X Jump: 152.51785 Max Air Time: 14
+****************************************************************
+level: orig_3-3_lvl-82
+****************************************************************
+Game Status: LOSE Percentage Completion: 0.2257942
+Lives: 0 Coins: 0 Remaining Time: 29
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 1 (Stomps: 1 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 2 Max X Jump: 198.50092 Max Air Time: 19
+****************************************************************
+level: orig_3-3_lvl-83
+****************************************************************
+Game Status: LOSE Percentage Completion: 0.057200547
+Lives: 0 Coins: 0 Remaining Time: 30
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 0 (Stomps: 0 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 1 Max X Jump: 0.0 Max Air Time: 0
+****************************************************************
+level: orig_3-3_lvl-84
+****************************************************************
+Game Status: LOSE Percentage Completion: 0.11679411
+Lives: 0 Coins: 0 Remaining Time: 30
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 0 (Stomps: 0 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 1 Max X Jump: 0.0 Max Air Time: 0
+****************************************************************
+level: orig_3-3_lvl-85
+****************************************************************
+Game Status: LOSE Percentage Completion: 0.09444128
+Lives: 0 Coins: 0 Remaining Time: 30
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 0 (Stomps: 0 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 1 Max X Jump: 0.0 Max Air Time: 0
+****************************************************************
+level: orig_3-3_lvl-86
+****************************************************************
+Game Status: LOSE Percentage Completion: 0.4665057
+Lives: 0 Coins: 1 Remaining Time: 27
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 0 (Stomps: 0 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 5 Max X Jump: 141.55188 Max Air Time: 12
+****************************************************************
+level: orig_3-3_lvl-87
+****************************************************************
+Game Status: LOSE Percentage Completion: 0.20574926
+Lives: 0 Coins: 0 Remaining Time: 29
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 0 (Stomps: 0 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 2 Max X Jump: 79.98956 Max Air Time: 10
+****************************************************************
+level: orig_3-3_lvl-88
+****************************************************************
+Game Status: LOSE Percentage Completion: 0.46500367
+Lives: 0 Coins: 0 Remaining Time: 27
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 0 (Stomps: 0 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 5 Max X Jump: 152.67554 Max Air Time: 15
+****************************************************************
+level: orig_3-3_lvl-89
+****************************************************************
+Game Status: WIN Percentage Completion: 1.0
+Lives: 0 Coins: 2 Remaining Time: 24
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 0 (Stomps: 0 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 10 Max X Jump: 163.63586 Max Air Time: 14
+****************************************************************
+level: orig_3-3_lvl-90
+****************************************************************
+Game Status: LOSE Percentage Completion: 0.078943506
+Lives: 0 Coins: 0 Remaining Time: 30
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 0 (Stomps: 0 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 1 Max X Jump: 0.0 Max Air Time: 0
+****************************************************************
+level: orig_3-3_lvl-91
+****************************************************************
+Game Status: LOSE Percentage Completion: 0.20574926
+Lives: 0 Coins: 0 Remaining Time: 29
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 0 (Stomps: 0 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 3 Max X Jump: 98.612595 Max Air Time: 12
+****************************************************************
+level: orig_3-3_lvl-92
+****************************************************************
+Game Status: LOSE Percentage Completion: 0.90384096
+Lives: 0 Coins: 2 Remaining Time: 24
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 1 (Stomps: 1 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 13 Max X Jump: 170.07141 Max Air Time: 23
+****************************************************************
+level: orig_3-3_lvl-93
+****************************************************************
+Game Status: LOSE Percentage Completion: 0.1666293
+Lives: 0 Coins: 0 Remaining Time: 29
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 0 (Stomps: 0 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 2 Max X Jump: 85.17925 Max Air Time: 9
+****************************************************************
+level: orig_3-3_lvl-94
+****************************************************************
+Game Status: LOSE Percentage Completion: 0.3516658
+Lives: 0 Coins: 0 Remaining Time: 28
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 0 (Stomps: 0 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 3 Max X Jump: 109.60445 Max Air Time: 13
+****************************************************************
+level: orig_3-3_lvl-95
+****************************************************************
+Game Status: LOSE Percentage Completion: 0.3893656
+Lives: 0 Coins: 0 Remaining Time: 28
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 0 (Stomps: 0 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 4 Max X Jump: 102.55994 Max Air Time: 12
+****************************************************************
+level: orig_3-3_lvl-96
+****************************************************************
+Game Status: LOSE Percentage Completion: 0.61057323
+Lives: 0 Coins: 0 Remaining Time: 26
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 1 (Stomps: 1 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 9 Max X Jump: 129.31296 Max Air Time: 11
+****************************************************************
+level: orig_3-3_lvl-97
+****************************************************************
+Game Status: LOSE Percentage Completion: 0.1666293
+Lives: 0 Coins: 0 Remaining Time: 29
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 0 (Stomps: 0 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 2 Max X Jump: 45.47945 Max Air Time: 6
+****************************************************************
+level: orig_3-3_lvl-98
+****************************************************************
+Game Status: LOSE Percentage Completion: 0.59939665
+Lives: 0 Coins: 1 Remaining Time: 26
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 0 (Stomps: 0 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 8 Max X Jump: 119.9928 Max Air Time: 10
+****************************************************************
+level: orig_3-3_lvl-99
+****************************************************************
+Game Status: LOSE Percentage Completion: 0.6611294
+Lives: 0 Coins: 4 Remaining Time: 26
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 1 (Stomps: 1 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 6 Max X Jump: 161.88574 Max Air Time: 14
+****************************************************************
+level: orig_3-3_lvl-100
+****************************************************************
+Game Status: LOSE Percentage Completion: 0.6548471
+Lives: 0 Coins: 1 Remaining Time: 26
+Mario State: 0 (Mushrooms: 0 Fire Flowers: 0)
+Total Kills: 0 (Stomps: 0 Fireballs: 0 Shells: 0 Falls: 0)
+Bricks: 0 Jumps: 9 Max X Jump: 130.84796 Max Air Time: 11
+****************************************************************
