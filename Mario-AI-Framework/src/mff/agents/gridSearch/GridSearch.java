@@ -45,6 +45,7 @@ public class GridSearch {
 
     public int totalNodesVisited = 0;
     public boolean success = false;
+    public int jumpCount = 0;
 
     public GridSearch(int[][] levelTiles, int marioTileX, int marioTileY) {
         this.levelTiles = levelTiles;
@@ -103,6 +104,7 @@ public class GridSearch {
                 furthest = current;
 
             if (finished(current)) {
+                jumpCount += current.jumpCount;
                 success = true;
                 return recoverFullPath(current);
             }
@@ -200,6 +202,7 @@ public class GridSearch {
                         }
                     }
                     case UP -> {
+                        next.jumpCount = current.jumpCount + 1;
                         next.jumpDirection = GridJumpDirection.UNDEFINED;
                         next.jumpState = GridJumpState.STRAIGHT_UP;
                         next.jumpUpTravelled = 1;
@@ -218,6 +221,7 @@ public class GridSearch {
                         next.jumpUpTravelled = 0;
                     }
                     case UP -> {
+                        next.jumpCount = current.jumpCount + 1;
                         next.jumpDirection = GridJumpDirection.UNDEFINED;
                         next.jumpState = GridJumpState.STRAIGHT_UP;
                         next.jumpUpTravelled = 1;
@@ -331,6 +335,7 @@ public class GridSearch {
                         next.jumpUpTravelled = 0;
                     }
                     case UP -> {
+                        next.jumpUpTravelled = current.jumpUpTravelled + 1;
                         next.jumpDirection = current.jumpDirection;
                         next.jumpUpTravelled = current.jumpUpTravelled + 1;
                         if (next.jumpUpTravelled < MAX_JUMP_HEIGHT)
@@ -759,5 +764,9 @@ public class GridSearch {
         }
         Collections.reverse(resultPath);
         return resultPath;
+    }
+
+    public int getTotalJumps(){
+        return jumpCount;
     }
 }

@@ -8,7 +8,7 @@ import java.util.ArrayList;
 
 public class GridSearchMain {
     public static void main(String[] args) {
-        findGridPathForLevel("./levels/krys-levels-TOADGAN/lvl-48.txt", 1, true);
+        findGridPathForLevel("./levels/gridJump/lvl-3.txt", 0, true);
     }
 
     public static void findGridPathForLevel(String levelPath, int horizontalJumpBoost, boolean verbose) {
@@ -22,6 +22,7 @@ public class GridSearchMain {
 
         GridSearch gridSearch = new GridSearch(levelTiles, marioTileX, marioTileY, horizontalJumpBoost);
         ArrayList<GridSearchNode> resultPath = gridSearch.findGridPath();
+        System.out.println(gridSearch.getTotalJumps());
 
         if (verbose) {
             System.out.println("Total nodes visited: " + gridSearch.totalNodesVisited);

@@ -17,7 +17,7 @@ public class AgentMain {
     public static void main(String[] args) {
         //testLevel();
         //testLevelBaumgarten();
-        testLevelGrid();
+        //testLevelGrid();
         testLevelBenchmark();
         //testLevelWaypoints();
 
@@ -42,12 +42,15 @@ public class AgentMain {
         String level = LevelLoader.getLevel("./levels/DagstuhlGAN/lvl-4.txt");
         MarioGame game = new MarioGame();
         System.out.println("-------");
-        GenerateLevel.printResults(game.runGame(new agents.robinBaumgarten.Agent(), level, 30, 0, true));
+        var agent = new agents.robinBaumgarten.Agent();
+        GenerateLevel.printResults(game.runGame(agent, level, 30, 0, true));
+        var mostBacktrackedNodes = ((IAgentBenchmarkBacktrack) agent).getMostBacktrackedNodes();
+        System.out.println("BAUMGARTEN Most Backtracked Nodes: " + mostBacktrackedNodes);
     }
 
     private static void testLevelGrid() {
         var game = new AgentBenchmarkGame();
-        String levelPath = "./levels/DagstuhlGAN/lvl-4.txt";
+        String levelPath = "./levels/krys-levels-TOADGAN/lvl-48.txt";
         IMarioAgentMFF astarGridAgent = new mff.agents.astarGrid.Agent();
         AStarTree.NODE_DEPTH_WEIGHT = 1f;
         AStarTree.TIME_TO_FINISH_WEIGHT = 2f;
@@ -62,7 +65,7 @@ public class AgentMain {
     }
 
     private static void testLevelBenchmark() {
-        String level = LevelLoader.getLevel("./levels/DagstuhlGAN/lvl-4.txt");
+        String level = LevelLoader.getLevel("./levels/gridJump/lvl-2.txt");
         AgentBenchmarkGame game = new AgentBenchmarkGame();
         IMarioAgentMFF astarGridAgent = new mff.agents.astarGrid.Agent();
         AStarTree.NODE_DEPTH_WEIGHT = 2f;
@@ -70,8 +73,8 @@ public class AgentMain {
         AStarTree.DISTANCE_FROM_PATH_TOLERANCE = 1f;
         AStarTree.DISTANCE_FROM_PATH_ADDITIVE_PENALTY = 20f;
         AStarTree.DISTANCE_FROM_PATH_MULTIPLICATIVE_PENALTY = 7f;
-        AStarGridHelper.giveLevelTilesWithPath(astarGridAgent, "./levels/original/lvl-1.txt");
-        var agentStats = game.runGame(astarGridAgent, level, 30, 0, false);
+        AStarGridHelper.giveLevelTilesWithPath(astarGridAgent, "./levels/gridJump/lvl-2.txt");
+        var agentStats = game.runGame(astarGridAgent, level, 30, 0, true);
         agentStats.level = "original-1";
         var mostBacktrackedNodes = ((IAgentBenchmarkBacktrack)astarGridAgent).getMostBacktrackedNodes();
 
