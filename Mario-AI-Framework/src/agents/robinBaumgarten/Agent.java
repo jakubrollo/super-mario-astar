@@ -5,11 +5,12 @@ import engine.core.MarioForwardModel;
 import engine.core.MarioTimer;
 import engine.helper.MarioActions;
 import mff.agents.benchmark.IAgentBenchmark;
+import mff.agents.benchmark.IAgentBenchmarkBacktrack;
 
 /**
  * @author RobinBaumgarten
  */
-public class Agent implements MarioAgent, IAgentBenchmark {
+public class Agent implements MarioAgent, IAgentBenchmark, IAgentBenchmarkBacktrack {
     private boolean[] action;
     private AStarTree tree;
     private int totalSearchCalls = 0;
@@ -42,4 +43,8 @@ public class Agent implements MarioAgent, IAgentBenchmark {
         return "RobinBaumgartenAgent";
     }
 
+    @Override
+    public int getMostBacktrackedNodes() {
+        return tree.mostBacktrackedNodes;
+    }
 }

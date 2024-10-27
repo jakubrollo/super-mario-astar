@@ -18,11 +18,13 @@ public class AStarTree {
     int ticksBeforeReplanning = 0;
 
     public int nodesEvaluated = 0;
+    public int mostBacktrackedNodes = 0; // Counter for backtracked nodes
 
     private MarioForwardModel search(MarioTimer timer) {
         SearchNode current = bestPosition;
         boolean currentGood = false;
         int maxRight = 176;
+        int currentBacktrackedCount = 0; // Count for current search session
         while (posPool.size() != 0
                 && ((bestPosition.sceneSnapshot.getMarioFloatPos()[0] - currentSearchStartingMarioXPos < maxRight) || !currentGood)
                 && timer.getRemainingTime() > 0) {
@@ -44,9 +46,10 @@ public class AStarTree {
                 current.remainingTimeEstimated = realRemainingTime;
                 posPool.add(current);
             } else if (realRemainingTime - current.remainingTimeEstimated > 0.1) {
-                // current item is not as good as anticipated. put it back in pool and look for best again
+                // Current item is not as good as anticipated. Backtrack.
                 current.remainingTimeEstimated = realRemainingTime;
                 posPool.add(current);
+                currentBacktrackedCount++; // Increment backtrack count
             } else {
                 currentGood = true;
                 visited((int) current.sceneSnapshot.getMarioFloatPos()[0], (int) current.sceneSnapshot.getMarioFloatPos()[1], current.timeElapsed);
@@ -59,9 +62,14 @@ public class AStarTree {
                     furthestPosition = current;
             }
         }
+        // Update the maximum backtracked nodes if current session exceeds it
+        if (currentBacktrackedCount > mostBacktrackedNodes) {
+            mostBacktrackedNodes = currentBacktrackedCount;
+        }
+
         if (current.sceneSnapshot.getMarioFloatPos()[0] - currentSearchStartingMarioXPos < maxRight
                 && furthestPosition.sceneSnapshot.getMarioFloatPos()[0] > bestPosition.sceneSnapshot.getMarioFloatPos()[0] + 20)
-            // Couldnt plan till end of screen, take furthest
+            // Couldn't plan till end of screen, take furthest
             bestPosition = furthestPosition;
 
         return current.sceneSnapshot;
@@ -83,7 +91,7 @@ public class AStarTree {
     private ArrayList<boolean[]> extractPlan() {
         ArrayList<boolean[]> actions = new ArrayList<boolean[]>();
 
-        // just move forward if no best position exists
+        // Just move forward if no best position exists
         if (bestPosition == null) {
             for (int i = 0; i < 10; i++) {
                 actions.add(Helper.createAction(false, true, false, false, true));
@@ -107,7 +115,7 @@ public class AStarTree {
         SearchNode bestPos = null;
         float bestPosCost = 10000000;
         for (SearchNode current : posPool) {
-            float currentCost = current.getRemainingTime() + current.timeElapsed * 0.90f; // slightly bias towards furthest positions
+            float currentCost = current.getRemainingTime() + current.timeElapsed * 0.90f; // Slightly bias towards furthest positions
             if (currentCost < bestPosCost) {
                 bestPos = current;
                 bestPosCost = currentCost;
@@ -130,7 +138,7 @@ public class AStarTree {
                 planAhead = currentActionPlan.size();
             }
 
-            // simulate ahead to predicted future state, and then plan for this future state
+            // Simulate ahead to predicted future state, and then plan for this future state
             for (int i = 0; i < planAhead; i++) {
                 model.advance(currentActionPlan.get(i));
             }
@@ -164,5 +172,4 @@ public class AStarTree {
         }
         return false;
     }
-
 }

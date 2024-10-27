@@ -3,6 +3,7 @@ package mff.agents.benchmark;
 import engine.core.MarioForwardModel;
 import engine.core.MarioRender;
 import engine.core.MarioWorld;
+import engine.helper.EventType;
 import engine.helper.GameStatus;
 import engine.helper.MarioActions;
 import mff.agents.common.IMarioAgentMFF;
@@ -10,6 +11,9 @@ import mff.agents.common.MarioTimerSlim;
 import mff.forwardmodel.common.Converter;
 import mff.forwardmodel.slim.core.MarioForwardModelSlim;
 
+import engine.core.MarioEvent;
+
+import java.util.ArrayList;
 import javax.swing.*;
 import java.awt.*;
 import java.awt.image.VolatileImage;
@@ -91,6 +95,7 @@ public class AgentBenchmarkGame {
         int totalGameTicks = 0;
         long totalPlanningTime = 0;
         long runStart = System.currentTimeMillis();
+        ArrayList<MarioEvent> gameEvents = new ArrayList<>();
         while (world.gameStatus == GameStatus.RUNNING) {
             if (!this.pause) {
                 //get actions
@@ -102,6 +107,7 @@ public class AgentBenchmarkGame {
 
                 // update world
                 world.update(actions);
+                gameEvents.addAll(world.lastFrameEvents);
                 totalGameTicks++;
 
                 // keep forward model up with world
@@ -129,8 +135,17 @@ public class AgentBenchmarkGame {
         agentStats.totalPlanningTime = totalPlanningTime;
         agentStats.win = world.gameStatus == GameStatus.WIN;
 
+
         agentStats.percentageTravelled = (world.mario.x - world.level.marioTileX * 16)
                 / (world.level.exitTileX * 16 - world.level.marioTileX * 16);
+
+        int jumps = 0;
+        for (MarioEvent e : gameEvents) {
+            if (e.getEventType() == EventType.JUMP.getValue()) {
+                jumps += 1;
+            }
+        }
+        agentStats.numberOfJumps = jumps;
 
         try {
             IAgentBenchmark agentBenchmark = (IAgentBenchmark) this.agent;
