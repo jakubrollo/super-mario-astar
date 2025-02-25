@@ -3,3 +3,5 @@ out
 *.iml
 Mario-AI-Framework/agent-benchmark
 Mario-AI-Framework/clone-benchmark
+.DS_Store
+._*

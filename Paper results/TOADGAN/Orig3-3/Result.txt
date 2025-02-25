@@ -1,7 +1,0 @@
-Mff Astar Grid:
-Win Rate: 50%
-
-Baumgarten:
-Wins: 14%
-Time outs: 0%
-Lose: 86%
