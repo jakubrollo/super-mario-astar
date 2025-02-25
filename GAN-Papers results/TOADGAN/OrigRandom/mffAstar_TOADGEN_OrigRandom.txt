@@ -1,0 +1,2001 @@
+./levels/random-orig-lvls/lvl-1.txt
+win: true
+./levels/random-orig-lvls/lvl-2.txt
+win: true
+./levels/random-orig-lvls/lvl-3.txt
+win: true
+./levels/random-orig-lvls/lvl-4.txt
+win: true
+./levels/random-orig-lvls/lvl-5.txt
+win: true
+./levels/random-orig-lvls/lvl-6.txt
+win: true
+./levels/random-orig-lvls/lvl-7.txt
+win: true
+./levels/random-orig-lvls/lvl-8.txt
+win: true
+./levels/random-orig-lvls/lvl-9.txt
+win: true
+./levels/random-orig-lvls/lvl-10.txt
+win: true
+./levels/random-orig-lvls/lvl-11.txt
+win: true
+./levels/random-orig-lvls/lvl-12.txt
+win: true
+./levels/random-orig-lvls/lvl-13.txt
+win: true
+./levels/random-orig-lvls/lvl-14.txt
+win: true
+./levels/random-orig-lvls/lvl-15.txt
+win: false
+./levels/random-orig-lvls/lvl-16.txt
+win: true
+./levels/random-orig-lvls/lvl-17.txt
+win: true
+./levels/random-orig-lvls/lvl-18.txt
+win: true
+./levels/random-orig-lvls/lvl-19.txt
+win: true
+./levels/random-orig-lvls/lvl-20.txt
+win: true
+./levels/random-orig-lvls/lvl-21.txt
+win: true
+./levels/random-orig-lvls/lvl-22.txt
+win: true
+./levels/random-orig-lvls/lvl-23.txt
+win: false
+./levels/random-orig-lvls/lvl-24.txt
+win: true
+./levels/random-orig-lvls/lvl-25.txt
+win: true
+./levels/random-orig-lvls/lvl-26.txt
+win: true
+./levels/random-orig-lvls/lvl-27.txt
+win: true
+./levels/random-orig-lvls/lvl-28.txt
+win: false
+./levels/random-orig-lvls/lvl-29.txt
+win: true
+./levels/random-orig-lvls/lvl-30.txt
+win: true
+./levels/random-orig-lvls/lvl-31.txt
+win: true
+./levels/random-orig-lvls/lvl-32.txt
+win: false
+./levels/random-orig-lvls/lvl-33.txt
+win: true
+./levels/random-orig-lvls/lvl-34.txt
+win: true
+./levels/random-orig-lvls/lvl-35.txt
+win: true
+./levels/random-orig-lvls/lvl-36.txt
+win: true
+./levels/random-orig-lvls/lvl-37.txt
+win: true
+./levels/random-orig-lvls/lvl-38.txt
+win: true
+./levels/random-orig-lvls/lvl-39.txt
+win: true
+./levels/random-orig-lvls/lvl-40.txt
+win: false
+./levels/random-orig-lvls/lvl-41.txt
+win: false
+./levels/random-orig-lvls/lvl-42.txt
+win: true
+./levels/random-orig-lvls/lvl-43.txt
+win: true
+./levels/random-orig-lvls/lvl-44.txt
+win: true
+./levels/random-orig-lvls/lvl-45.txt
+win: false
+./levels/random-orig-lvls/lvl-46.txt
+win: true
+./levels/random-orig-lvls/lvl-47.txt
+win: true
+./levels/random-orig-lvls/lvl-48.txt
+win: true
+./levels/random-orig-lvls/lvl-49.txt
+win: true
+./levels/random-orig-lvls/lvl-50.txt
+win: true
+./levels/random-orig-lvls/lvl-51.txt
+win: true
+./levels/random-orig-lvls/lvl-52.txt
+win: true
+./levels/random-orig-lvls/lvl-53.txt
+win: true
+./levels/random-orig-lvls/lvl-54.txt
+win: true
+./levels/random-orig-lvls/lvl-55.txt
+win: true
+./levels/random-orig-lvls/lvl-56.txt
+win: false
+./levels/random-orig-lvls/lvl-57.txt
+win: true
+./levels/random-orig-lvls/lvl-58.txt
+win: true
+./levels/random-orig-lvls/lvl-59.txt
+win: false
+./levels/random-orig-lvls/lvl-60.txt
+win: false
+./levels/random-orig-lvls/lvl-61.txt
+win: true
+./levels/random-orig-lvls/lvl-62.txt
+win: true
+./levels/random-orig-lvls/lvl-63.txt
+win: true
+./levels/random-orig-lvls/lvl-64.txt
+win: true
+./levels/random-orig-lvls/lvl-65.txt
+win: false
+./levels/random-orig-lvls/lvl-66.txt
+win: true
+./levels/random-orig-lvls/lvl-67.txt
+win: false
+./levels/random-orig-lvls/lvl-68.txt
+win: false
+./levels/random-orig-lvls/lvl-69.txt
+win: true
+./levels/random-orig-lvls/lvl-70.txt
+win: true
+./levels/random-orig-lvls/lvl-71.txt
+win: true
+./levels/random-orig-lvls/lvl-72.txt
+win: true
+./levels/random-orig-lvls/lvl-73.txt
+win: true
+./levels/random-orig-lvls/lvl-74.txt
+win: true
+./levels/random-orig-lvls/lvl-75.txt
+win: false
+./levels/random-orig-lvls/lvl-76.txt
+win: true
+./levels/random-orig-lvls/lvl-77.txt
+win: true
+./levels/random-orig-lvls/lvl-78.txt
+win: true
+./levels/random-orig-lvls/lvl-79.txt
+win: true
+./levels/random-orig-lvls/lvl-80.txt
+win: true
+./levels/random-orig-lvls/lvl-81.txt
+win: true
+./levels/random-orig-lvls/lvl-82.txt
+win: false
+./levels/random-orig-lvls/lvl-83.txt
+win: true
+./levels/random-orig-lvls/lvl-84.txt
+win: true
+./levels/random-orig-lvls/lvl-85.txt
+win: true
+./levels/random-orig-lvls/lvl-86.txt
+win: true
+./levels/random-orig-lvls/lvl-87.txt
+win: true
+./levels/random-orig-lvls/lvl-88.txt
+win: true
+./levels/random-orig-lvls/lvl-89.txt
+win: true
+./levels/random-orig-lvls/lvl-90.txt
+win: true
+./levels/random-orig-lvls/lvl-91.txt
+win: true
+./levels/random-orig-lvls/lvl-92.txt
+win: false
+./levels/random-orig-lvls/lvl-93.txt
+win: false
+./levels/random-orig-lvls/lvl-94.txt
+win: false
+./levels/random-orig-lvls/lvl-95.txt
+win: true
+./levels/random-orig-lvls/lvl-96.txt
+win: false
+./levels/random-orig-lvls/lvl-97.txt
+win: true
+./levels/random-orig-lvls/lvl-98.txt
+win: false
+./levels/random-orig-lvls/lvl-99.txt
+win: true
+./levels/random-orig-lvls/lvl-100.txt
+win: true
+./levels/random-orig-lvls/lvl-101.txt
+win: true
+./levels/random-orig-lvls/lvl-102.txt
+win: true
+./levels/random-orig-lvls/lvl-103.txt
+win: true
+./levels/random-orig-lvls/lvl-104.txt
+win: true
+./levels/random-orig-lvls/lvl-105.txt
+win: true
+./levels/random-orig-lvls/lvl-106.txt
+win: true
+./levels/random-orig-lvls/lvl-107.txt
+win: true
+./levels/random-orig-lvls/lvl-108.txt
+win: true
+./levels/random-orig-lvls/lvl-109.txt
+win: true
+./levels/random-orig-lvls/lvl-110.txt
+win: true
+./levels/random-orig-lvls/lvl-111.txt
+win: true
+./levels/random-orig-lvls/lvl-112.txt
+win: false
+./levels/random-orig-lvls/lvl-113.txt
+win: true
+./levels/random-orig-lvls/lvl-114.txt
+win: false
+./levels/random-orig-lvls/lvl-115.txt
+win: false
+./levels/random-orig-lvls/lvl-116.txt
+win: true
+./levels/random-orig-lvls/lvl-117.txt
+win: true
+./levels/random-orig-lvls/lvl-118.txt
+win: true
+./levels/random-orig-lvls/lvl-119.txt
+win: false
+./levels/random-orig-lvls/lvl-120.txt
+win: false
+./levels/random-orig-lvls/lvl-121.txt
+win: true
+./levels/random-orig-lvls/lvl-122.txt
+win: true
+./levels/random-orig-lvls/lvl-123.txt
+win: true
+./levels/random-orig-lvls/lvl-124.txt
+win: true
+./levels/random-orig-lvls/lvl-125.txt
+win: true
+./levels/random-orig-lvls/lvl-126.txt
+win: true
+./levels/random-orig-lvls/lvl-127.txt
+win: false
+./levels/random-orig-lvls/lvl-128.txt
+win: true
+./levels/random-orig-lvls/lvl-129.txt
+win: true
+./levels/random-orig-lvls/lvl-130.txt
+win: true
+./levels/random-orig-lvls/lvl-131.txt
+win: true
+./levels/random-orig-lvls/lvl-132.txt
+win: true
+./levels/random-orig-lvls/lvl-133.txt
+win: false
+./levels/random-orig-lvls/lvl-134.txt
+win: true
+./levels/random-orig-lvls/lvl-135.txt
+win: true
+./levels/random-orig-lvls/lvl-136.txt
+win: false
+./levels/random-orig-lvls/lvl-137.txt
+win: true
+./levels/random-orig-lvls/lvl-138.txt
+win: true
+./levels/random-orig-lvls/lvl-139.txt
+win: false
+./levels/random-orig-lvls/lvl-140.txt
+win: false
+./levels/random-orig-lvls/lvl-141.txt
+win: true
+./levels/random-orig-lvls/lvl-142.txt
+win: true
+./levels/random-orig-lvls/lvl-143.txt
+win: true
+./levels/random-orig-lvls/lvl-144.txt
+win: true
+./levels/random-orig-lvls/lvl-145.txt
+win: true
+./levels/random-orig-lvls/lvl-146.txt
+win: false
+./levels/random-orig-lvls/lvl-147.txt
+win: true
+./levels/random-orig-lvls/lvl-148.txt
+win: true
+./levels/random-orig-lvls/lvl-149.txt
+win: true
+./levels/random-orig-lvls/lvl-150.txt
+win: false
+./levels/random-orig-lvls/lvl-151.txt
+win: true
+./levels/random-orig-lvls/lvl-152.txt
+win: true
+./levels/random-orig-lvls/lvl-153.txt
+win: true
+./levels/random-orig-lvls/lvl-154.txt
+win: true
+./levels/random-orig-lvls/lvl-155.txt
+win: true
+./levels/random-orig-lvls/lvl-156.txt
+win: true
+./levels/random-orig-lvls/lvl-157.txt
+win: true
+./levels/random-orig-lvls/lvl-158.txt
+win: true
+./levels/random-orig-lvls/lvl-159.txt
+win: true
+./levels/random-orig-lvls/lvl-160.txt
+win: false
+./levels/random-orig-lvls/lvl-161.txt
+win: true
+./levels/random-orig-lvls/lvl-162.txt
+win: true
+./levels/random-orig-lvls/lvl-163.txt
+win: true
+./levels/random-orig-lvls/lvl-164.txt
+win: true
+./levels/random-orig-lvls/lvl-165.txt
+win: false
+./levels/random-orig-lvls/lvl-166.txt
+win: true
+./levels/random-orig-lvls/lvl-167.txt
+win: true
+./levels/random-orig-lvls/lvl-168.txt
+win: true
+./levels/random-orig-lvls/lvl-169.txt
+win: true
+./levels/random-orig-lvls/lvl-170.txt
+win: true
+./levels/random-orig-lvls/lvl-171.txt
+win: true
+./levels/random-orig-lvls/lvl-172.txt
+win: true
+./levels/random-orig-lvls/lvl-173.txt
+win: false
+./levels/random-orig-lvls/lvl-174.txt
+win: true
+./levels/random-orig-lvls/lvl-175.txt
+win: true
+./levels/random-orig-lvls/lvl-176.txt
+win: false
+./levels/random-orig-lvls/lvl-177.txt
+win: true
+./levels/random-orig-lvls/lvl-178.txt
+win: true
+./levels/random-orig-lvls/lvl-179.txt
+win: true
+./levels/random-orig-lvls/lvl-180.txt
+win: false
+./levels/random-orig-lvls/lvl-181.txt
+win: false
+./levels/random-orig-lvls/lvl-182.txt
+win: true
+./levels/random-orig-lvls/lvl-183.txt
+win: true
+./levels/random-orig-lvls/lvl-184.txt
+win: false
+./levels/random-orig-lvls/lvl-185.txt
+win: false
+./levels/random-orig-lvls/lvl-186.txt
+win: true
+./levels/random-orig-lvls/lvl-187.txt
+win: true
+./levels/random-orig-lvls/lvl-188.txt
+win: true
+./levels/random-orig-lvls/lvl-189.txt
+win: true
+./levels/random-orig-lvls/lvl-190.txt
+win: true
+./levels/random-orig-lvls/lvl-191.txt
+win: true
+./levels/random-orig-lvls/lvl-192.txt
+win: true
+./levels/random-orig-lvls/lvl-193.txt
+win: false
+./levels/random-orig-lvls/lvl-194.txt
+win: true
+./levels/random-orig-lvls/lvl-195.txt
+win: true
+./levels/random-orig-lvls/lvl-196.txt
+win: true
+./levels/random-orig-lvls/lvl-197.txt
+win: false
+./levels/random-orig-lvls/lvl-198.txt
+win: false
+./levels/random-orig-lvls/lvl-199.txt
+win: true
+./levels/random-orig-lvls/lvl-200.txt
+win: true
+./levels/random-orig-lvls/lvl-201.txt
+win: true
+./levels/random-orig-lvls/lvl-202.txt
+win: true
+./levels/random-orig-lvls/lvl-203.txt
+win: true
+./levels/random-orig-lvls/lvl-204.txt
+win: true
+./levels/random-orig-lvls/lvl-205.txt
+win: true
+./levels/random-orig-lvls/lvl-206.txt
+win: true
+./levels/random-orig-lvls/lvl-207.txt
+win: true
+./levels/random-orig-lvls/lvl-208.txt
+win: true
+./levels/random-orig-lvls/lvl-209.txt
+win: true
+./levels/random-orig-lvls/lvl-210.txt
+win: true
+./levels/random-orig-lvls/lvl-211.txt
+win: true
+./levels/random-orig-lvls/lvl-212.txt
+win: true
+./levels/random-orig-lvls/lvl-213.txt
+win: true
+./levels/random-orig-lvls/lvl-214.txt
+win: true
+./levels/random-orig-lvls/lvl-215.txt
+win: true
+./levels/random-orig-lvls/lvl-216.txt
+win: true
+./levels/random-orig-lvls/lvl-217.txt
+win: true
+./levels/random-orig-lvls/lvl-218.txt
+win: true
+./levels/random-orig-lvls/lvl-219.txt
+win: true
+./levels/random-orig-lvls/lvl-220.txt
+win: true
+./levels/random-orig-lvls/lvl-221.txt
+win: true
+./levels/random-orig-lvls/lvl-222.txt
+win: true
+./levels/random-orig-lvls/lvl-223.txt
+win: true
+./levels/random-orig-lvls/lvl-224.txt
+win: true
+./levels/random-orig-lvls/lvl-225.txt
+win: true
+./levels/random-orig-lvls/lvl-226.txt
+win: false
+./levels/random-orig-lvls/lvl-227.txt
+win: false
+./levels/random-orig-lvls/lvl-228.txt
+win: true
+./levels/random-orig-lvls/lvl-229.txt
+win: true
+./levels/random-orig-lvls/lvl-230.txt
+win: false
+./levels/random-orig-lvls/lvl-231.txt
+win: true
+./levels/random-orig-lvls/lvl-232.txt
+win: true
+./levels/random-orig-lvls/lvl-233.txt
+win: true
+./levels/random-orig-lvls/lvl-234.txt
+win: true
+./levels/random-orig-lvls/lvl-235.txt
+win: false
+./levels/random-orig-lvls/lvl-236.txt
+win: true
+./levels/random-orig-lvls/lvl-237.txt
+win: true
+./levels/random-orig-lvls/lvl-238.txt
+win: true
+./levels/random-orig-lvls/lvl-239.txt
+win: false
+./levels/random-orig-lvls/lvl-240.txt
+win: true
+./levels/random-orig-lvls/lvl-241.txt
+win: true
+./levels/random-orig-lvls/lvl-242.txt
+win: true
+./levels/random-orig-lvls/lvl-243.txt
+win: false
+./levels/random-orig-lvls/lvl-244.txt
+win: false
+./levels/random-orig-lvls/lvl-245.txt
+win: true
+./levels/random-orig-lvls/lvl-246.txt
+win: true
+./levels/random-orig-lvls/lvl-247.txt
+win: true
+./levels/random-orig-lvls/lvl-248.txt
+win: false
+./levels/random-orig-lvls/lvl-249.txt
+win: true
+./levels/random-orig-lvls/lvl-250.txt
+win: true
+./levels/random-orig-lvls/lvl-251.txt
+win: true
+./levels/random-orig-lvls/lvl-252.txt
+win: true
+./levels/random-orig-lvls/lvl-253.txt
+win: true
+./levels/random-orig-lvls/lvl-254.txt
+win: true
+./levels/random-orig-lvls/lvl-255.txt
+win: true
+./levels/random-orig-lvls/lvl-256.txt
+win: false
+./levels/random-orig-lvls/lvl-257.txt
+win: true
+./levels/random-orig-lvls/lvl-258.txt
+win: true
+./levels/random-orig-lvls/lvl-259.txt
+win: false
+./levels/random-orig-lvls/lvl-260.txt
+win: true
+./levels/random-orig-lvls/lvl-261.txt
+win: true
+./levels/random-orig-lvls/lvl-262.txt
+win: true
+./levels/random-orig-lvls/lvl-263.txt
+win: true
+./levels/random-orig-lvls/lvl-264.txt
+win: true
+./levels/random-orig-lvls/lvl-265.txt
+win: false
+./levels/random-orig-lvls/lvl-266.txt
+win: true
+./levels/random-orig-lvls/lvl-267.txt
+win: false
+./levels/random-orig-lvls/lvl-268.txt
+win: true
+./levels/random-orig-lvls/lvl-269.txt
+win: false
+./levels/random-orig-lvls/lvl-270.txt
+win: false
+./levels/random-orig-lvls/lvl-271.txt
+win: true
+./levels/random-orig-lvls/lvl-272.txt
+win: false
+./levels/random-orig-lvls/lvl-273.txt
+win: true
+./levels/random-orig-lvls/lvl-274.txt
+win: false
+./levels/random-orig-lvls/lvl-275.txt
+win: false
+./levels/random-orig-lvls/lvl-276.txt
+win: false
+./levels/random-orig-lvls/lvl-277.txt
+win: true
+./levels/random-orig-lvls/lvl-278.txt
+win: true
+./levels/random-orig-lvls/lvl-279.txt
+win: true
+./levels/random-orig-lvls/lvl-280.txt
+win: false
+./levels/random-orig-lvls/lvl-281.txt
+win: true
+./levels/random-orig-lvls/lvl-282.txt
+win: true
+./levels/random-orig-lvls/lvl-283.txt
+win: true
+./levels/random-orig-lvls/lvl-284.txt
+win: false
+./levels/random-orig-lvls/lvl-285.txt
+win: true
+./levels/random-orig-lvls/lvl-286.txt
+win: true
+./levels/random-orig-lvls/lvl-287.txt
+win: true
+./levels/random-orig-lvls/lvl-288.txt
+win: true
+./levels/random-orig-lvls/lvl-289.txt
+win: true
+./levels/random-orig-lvls/lvl-290.txt
+win: true
+./levels/random-orig-lvls/lvl-291.txt
+win: false
+./levels/random-orig-lvls/lvl-292.txt
+win: true
+./levels/random-orig-lvls/lvl-293.txt
+win: true
+./levels/random-orig-lvls/lvl-294.txt
+win: true
+./levels/random-orig-lvls/lvl-295.txt
+win: true
+./levels/random-orig-lvls/lvl-296.txt
+win: true
+./levels/random-orig-lvls/lvl-297.txt
+win: true
+./levels/random-orig-lvls/lvl-298.txt
+win: true
+./levels/random-orig-lvls/lvl-299.txt
+win: true
+./levels/random-orig-lvls/lvl-300.txt
+win: true
+./levels/random-orig-lvls/lvl-301.txt
+win: true
+./levels/random-orig-lvls/lvl-302.txt
+win: false
+./levels/random-orig-lvls/lvl-303.txt
+win: true
+./levels/random-orig-lvls/lvl-304.txt
+win: false
+./levels/random-orig-lvls/lvl-305.txt
+win: true
+./levels/random-orig-lvls/lvl-306.txt
+win: true
+./levels/random-orig-lvls/lvl-307.txt
+win: true
+./levels/random-orig-lvls/lvl-308.txt
+win: true
+./levels/random-orig-lvls/lvl-309.txt
+win: false
+./levels/random-orig-lvls/lvl-310.txt
+win: true
+./levels/random-orig-lvls/lvl-311.txt
+win: true
+./levels/random-orig-lvls/lvl-312.txt
+win: true
+./levels/random-orig-lvls/lvl-313.txt
+win: true
+./levels/random-orig-lvls/lvl-314.txt
+win: false
+./levels/random-orig-lvls/lvl-315.txt
+win: true
+./levels/random-orig-lvls/lvl-316.txt
+win: true
+./levels/random-orig-lvls/lvl-317.txt
+win: true
+./levels/random-orig-lvls/lvl-318.txt
+win: true
+./levels/random-orig-lvls/lvl-319.txt
+win: true
+./levels/random-orig-lvls/lvl-320.txt
+win: false
+./levels/random-orig-lvls/lvl-321.txt
+win: true
+./levels/random-orig-lvls/lvl-322.txt
+win: true
+./levels/random-orig-lvls/lvl-323.txt
+win: true
+./levels/random-orig-lvls/lvl-324.txt
+win: true
+./levels/random-orig-lvls/lvl-325.txt
+win: false
+./levels/random-orig-lvls/lvl-326.txt
+win: false
+./levels/random-orig-lvls/lvl-327.txt
+win: true
+./levels/random-orig-lvls/lvl-328.txt
+win: true
+./levels/random-orig-lvls/lvl-329.txt
+win: true
+./levels/random-orig-lvls/lvl-330.txt
+win: false
+./levels/random-orig-lvls/lvl-331.txt
+win: true
+./levels/random-orig-lvls/lvl-332.txt
+win: false
+./levels/random-orig-lvls/lvl-333.txt
+win: true
+./levels/random-orig-lvls/lvl-334.txt
+win: false
+./levels/random-orig-lvls/lvl-335.txt
+win: true
+./levels/random-orig-lvls/lvl-336.txt
+win: false
+./levels/random-orig-lvls/lvl-337.txt
+win: false
+./levels/random-orig-lvls/lvl-338.txt
+win: true
+./levels/random-orig-lvls/lvl-339.txt
+win: true
+./levels/random-orig-lvls/lvl-340.txt
+win: true
+./levels/random-orig-lvls/lvl-341.txt
+win: true
+./levels/random-orig-lvls/lvl-342.txt
+win: true
+./levels/random-orig-lvls/lvl-343.txt
+win: false
+./levels/random-orig-lvls/lvl-344.txt
+win: true
+./levels/random-orig-lvls/lvl-345.txt
+win: true
+./levels/random-orig-lvls/lvl-346.txt
+win: true
+./levels/random-orig-lvls/lvl-347.txt
+win: true
+./levels/random-orig-lvls/lvl-348.txt
+win: true
+./levels/random-orig-lvls/lvl-349.txt
+win: true
+./levels/random-orig-lvls/lvl-350.txt
+win: false
+./levels/random-orig-lvls/lvl-351.txt
+win: false
+./levels/random-orig-lvls/lvl-352.txt
+win: false
+./levels/random-orig-lvls/lvl-353.txt
+win: true
+./levels/random-orig-lvls/lvl-354.txt
+win: true
+./levels/random-orig-lvls/lvl-355.txt
+win: false
+./levels/random-orig-lvls/lvl-356.txt
+win: true
+./levels/random-orig-lvls/lvl-357.txt
+win: true
+./levels/random-orig-lvls/lvl-358.txt
+win: true
+./levels/random-orig-lvls/lvl-359.txt
+win: true
+./levels/random-orig-lvls/lvl-360.txt
+win: false
+./levels/random-orig-lvls/lvl-361.txt
+win: false
+./levels/random-orig-lvls/lvl-362.txt
+win: true
+./levels/random-orig-lvls/lvl-363.txt
+win: false
+./levels/random-orig-lvls/lvl-364.txt
+win: false
+./levels/random-orig-lvls/lvl-365.txt
+win: true
+./levels/random-orig-lvls/lvl-366.txt
+win: false
+./levels/random-orig-lvls/lvl-367.txt
+win: true
+./levels/random-orig-lvls/lvl-368.txt
+win: true
+./levels/random-orig-lvls/lvl-369.txt
+win: true
+./levels/random-orig-lvls/lvl-370.txt
+win: true
+./levels/random-orig-lvls/lvl-371.txt
+win: true
+./levels/random-orig-lvls/lvl-372.txt
+win: true
+./levels/random-orig-lvls/lvl-373.txt
+win: false
+./levels/random-orig-lvls/lvl-374.txt
+win: true
+./levels/random-orig-lvls/lvl-375.txt
+win: false
+./levels/random-orig-lvls/lvl-376.txt
+win: true
+./levels/random-orig-lvls/lvl-377.txt
+win: false
+./levels/random-orig-lvls/lvl-378.txt
+win: false
+./levels/random-orig-lvls/lvl-379.txt
+win: true
+./levels/random-orig-lvls/lvl-380.txt
+win: false
+./levels/random-orig-lvls/lvl-381.txt
+win: false
+./levels/random-orig-lvls/lvl-382.txt
+win: true
+./levels/random-orig-lvls/lvl-383.txt
+win: false
+./levels/random-orig-lvls/lvl-384.txt
+win: true
+./levels/random-orig-lvls/lvl-385.txt
+win: false
+./levels/random-orig-lvls/lvl-386.txt
+win: true
+./levels/random-orig-lvls/lvl-387.txt
+win: true
+./levels/random-orig-lvls/lvl-388.txt
+win: true
+./levels/random-orig-lvls/lvl-389.txt
+win: true
+./levels/random-orig-lvls/lvl-390.txt
+win: false
+./levels/random-orig-lvls/lvl-391.txt
+win: true
+./levels/random-orig-lvls/lvl-392.txt
+win: true
+./levels/random-orig-lvls/lvl-393.txt
+win: true
+./levels/random-orig-lvls/lvl-394.txt
+win: true
+./levels/random-orig-lvls/lvl-395.txt
+win: true
+./levels/random-orig-lvls/lvl-396.txt
+win: false
+./levels/random-orig-lvls/lvl-397.txt
+win: true
+./levels/random-orig-lvls/lvl-398.txt
+win: true
+./levels/random-orig-lvls/lvl-399.txt
+win: false
+./levels/random-orig-lvls/lvl-400.txt
+win: true
+./levels/random-orig-lvls/lvl-401.txt
+win: true
+./levels/random-orig-lvls/lvl-402.txt
+win: false
+./levels/random-orig-lvls/lvl-403.txt
+win: true
+./levels/random-orig-lvls/lvl-404.txt
+win: true
+./levels/random-orig-lvls/lvl-405.txt
+win: true
+./levels/random-orig-lvls/lvl-406.txt
+win: true
+./levels/random-orig-lvls/lvl-407.txt
+win: true
+./levels/random-orig-lvls/lvl-408.txt
+win: true
+./levels/random-orig-lvls/lvl-409.txt
+win: true
+./levels/random-orig-lvls/lvl-410.txt
+win: true
+./levels/random-orig-lvls/lvl-411.txt
+win: false
+./levels/random-orig-lvls/lvl-412.txt
+win: true
+./levels/random-orig-lvls/lvl-413.txt
+win: true
+./levels/random-orig-lvls/lvl-414.txt
+win: true
+./levels/random-orig-lvls/lvl-415.txt
+win: true
+./levels/random-orig-lvls/lvl-416.txt
+win: true
+./levels/random-orig-lvls/lvl-417.txt
+win: false
+./levels/random-orig-lvls/lvl-418.txt
+win: false
+./levels/random-orig-lvls/lvl-419.txt
+win: true
+./levels/random-orig-lvls/lvl-420.txt
+win: true
+./levels/random-orig-lvls/lvl-421.txt
+win: true
+./levels/random-orig-lvls/lvl-422.txt
+win: false
+./levels/random-orig-lvls/lvl-423.txt
+win: true
+./levels/random-orig-lvls/lvl-424.txt
+win: false
+./levels/random-orig-lvls/lvl-425.txt
+win: true
+./levels/random-orig-lvls/lvl-426.txt
+win: true
+./levels/random-orig-lvls/lvl-427.txt
+win: false
+./levels/random-orig-lvls/lvl-428.txt
+win: true
+./levels/random-orig-lvls/lvl-429.txt
+win: true
+./levels/random-orig-lvls/lvl-430.txt
+win: false
+./levels/random-orig-lvls/lvl-431.txt
+win: true
+./levels/random-orig-lvls/lvl-432.txt
+win: true
+./levels/random-orig-lvls/lvl-433.txt
+win: false
+./levels/random-orig-lvls/lvl-434.txt
+win: true
+./levels/random-orig-lvls/lvl-435.txt
+win: true
+./levels/random-orig-lvls/lvl-436.txt
+win: true
+./levels/random-orig-lvls/lvl-437.txt
+win: false
+./levels/random-orig-lvls/lvl-438.txt
+win: true
+./levels/random-orig-lvls/lvl-439.txt
+win: true
+./levels/random-orig-lvls/lvl-440.txt
+win: true
+./levels/random-orig-lvls/lvl-441.txt
+win: false
+./levels/random-orig-lvls/lvl-442.txt
+win: true
+./levels/random-orig-lvls/lvl-443.txt
+win: true
+./levels/random-orig-lvls/lvl-444.txt
+win: false
+./levels/random-orig-lvls/lvl-445.txt
+win: true
+./levels/random-orig-lvls/lvl-446.txt
+win: true
+./levels/random-orig-lvls/lvl-447.txt
+win: true
+./levels/random-orig-lvls/lvl-448.txt
+win: true
+./levels/random-orig-lvls/lvl-449.txt
+win: true
+./levels/random-orig-lvls/lvl-450.txt
+win: true
+./levels/random-orig-lvls/lvl-451.txt
+win: false
+./levels/random-orig-lvls/lvl-452.txt
+win: false
+./levels/random-orig-lvls/lvl-453.txt
+win: true
+./levels/random-orig-lvls/lvl-454.txt
+win: true
+./levels/random-orig-lvls/lvl-455.txt
+win: true
+./levels/random-orig-lvls/lvl-456.txt
+win: true
+./levels/random-orig-lvls/lvl-457.txt
+win: true
+./levels/random-orig-lvls/lvl-458.txt
+win: true
+./levels/random-orig-lvls/lvl-459.txt
+win: true
+./levels/random-orig-lvls/lvl-460.txt
+win: true
+./levels/random-orig-lvls/lvl-461.txt
+win: true
+./levels/random-orig-lvls/lvl-462.txt
+win: true
+./levels/random-orig-lvls/lvl-463.txt
+win: true
+./levels/random-orig-lvls/lvl-464.txt
+win: true
+./levels/random-orig-lvls/lvl-465.txt
+win: false
+./levels/random-orig-lvls/lvl-466.txt
+win: true
+./levels/random-orig-lvls/lvl-467.txt
+win: true
+./levels/random-orig-lvls/lvl-468.txt
+win: false
+./levels/random-orig-lvls/lvl-469.txt
+win: true
+./levels/random-orig-lvls/lvl-470.txt
+win: true
+./levels/random-orig-lvls/lvl-471.txt
+win: true
+./levels/random-orig-lvls/lvl-472.txt
+win: true
+./levels/random-orig-lvls/lvl-473.txt
+win: true
+./levels/random-orig-lvls/lvl-474.txt
+win: true
+./levels/random-orig-lvls/lvl-475.txt
+win: false
+./levels/random-orig-lvls/lvl-476.txt
+win: false
+./levels/random-orig-lvls/lvl-477.txt
+win: false
+./levels/random-orig-lvls/lvl-478.txt
+win: true
+./levels/random-orig-lvls/lvl-479.txt
+win: true
+./levels/random-orig-lvls/lvl-480.txt
+win: true
+./levels/random-orig-lvls/lvl-481.txt
+win: true
+./levels/random-orig-lvls/lvl-482.txt
+win: true
+./levels/random-orig-lvls/lvl-483.txt
+win: true
+./levels/random-orig-lvls/lvl-484.txt
+win: true
+./levels/random-orig-lvls/lvl-485.txt
+win: true
+./levels/random-orig-lvls/lvl-486.txt
+win: true
+./levels/random-orig-lvls/lvl-487.txt
+win: true
+./levels/random-orig-lvls/lvl-488.txt
+win: false
+./levels/random-orig-lvls/lvl-489.txt
+win: true
+./levels/random-orig-lvls/lvl-490.txt
+win: false
+./levels/random-orig-lvls/lvl-491.txt
+win: false
+./levels/random-orig-lvls/lvl-492.txt
+win: true
+./levels/random-orig-lvls/lvl-493.txt
+win: true
+./levels/random-orig-lvls/lvl-494.txt
+win: false
+./levels/random-orig-lvls/lvl-495.txt
+win: false
+./levels/random-orig-lvls/lvl-496.txt
+win: true
+./levels/random-orig-lvls/lvl-497.txt
+win: true
+./levels/random-orig-lvls/lvl-498.txt
+win: true
+./levels/random-orig-lvls/lvl-499.txt
+win: true
+./levels/random-orig-lvls/lvl-500.txt
+win: true
+./levels/random-orig-lvls/lvl-501.txt
+win: true
+./levels/random-orig-lvls/lvl-502.txt
+win: false
+./levels/random-orig-lvls/lvl-503.txt
+win: true
+./levels/random-orig-lvls/lvl-504.txt
+win: true
+./levels/random-orig-lvls/lvl-505.txt
+win: true
+./levels/random-orig-lvls/lvl-506.txt
+win: true
+./levels/random-orig-lvls/lvl-507.txt
+win: false
+./levels/random-orig-lvls/lvl-508.txt
+win: false
+./levels/random-orig-lvls/lvl-509.txt
+win: true
+./levels/random-orig-lvls/lvl-510.txt
+win: true
+./levels/random-orig-lvls/lvl-511.txt
+win: true
+./levels/random-orig-lvls/lvl-512.txt
+win: false
+./levels/random-orig-lvls/lvl-513.txt
+win: true
+./levels/random-orig-lvls/lvl-514.txt
+win: false
+./levels/random-orig-lvls/lvl-515.txt
+win: false
+./levels/random-orig-lvls/lvl-516.txt
+win: true
+./levels/random-orig-lvls/lvl-517.txt
+win: true
+./levels/random-orig-lvls/lvl-518.txt
+win: true
+./levels/random-orig-lvls/lvl-519.txt
+win: true
+./levels/random-orig-lvls/lvl-520.txt
+win: true
+./levels/random-orig-lvls/lvl-521.txt
+win: true
+./levels/random-orig-lvls/lvl-522.txt
+win: true
+./levels/random-orig-lvls/lvl-523.txt
+win: true
+./levels/random-orig-lvls/lvl-524.txt
+win: true
+./levels/random-orig-lvls/lvl-525.txt
+win: true
+./levels/random-orig-lvls/lvl-526.txt
+win: true
+./levels/random-orig-lvls/lvl-527.txt
+win: true
+./levels/random-orig-lvls/lvl-528.txt
+win: true
+./levels/random-orig-lvls/lvl-529.txt
+win: true
+./levels/random-orig-lvls/lvl-530.txt
+win: false
+./levels/random-orig-lvls/lvl-531.txt
+win: true
+./levels/random-orig-lvls/lvl-532.txt
+win: false
+./levels/random-orig-lvls/lvl-533.txt
+win: true
+./levels/random-orig-lvls/lvl-534.txt
+win: true
+./levels/random-orig-lvls/lvl-535.txt
+win: true
+./levels/random-orig-lvls/lvl-536.txt
+win: true
+./levels/random-orig-lvls/lvl-537.txt
+win: true
+./levels/random-orig-lvls/lvl-538.txt
+win: true
+./levels/random-orig-lvls/lvl-539.txt
+win: true
+./levels/random-orig-lvls/lvl-540.txt
+win: true
+./levels/random-orig-lvls/lvl-541.txt
+win: true
+./levels/random-orig-lvls/lvl-542.txt
+win: true
+./levels/random-orig-lvls/lvl-543.txt
+win: false
+./levels/random-orig-lvls/lvl-544.txt
+win: true
+./levels/random-orig-lvls/lvl-545.txt
+win: true
+./levels/random-orig-lvls/lvl-546.txt
+win: true
+./levels/random-orig-lvls/lvl-547.txt
+win: true
+./levels/random-orig-lvls/lvl-548.txt
+win: true
+./levels/random-orig-lvls/lvl-549.txt
+win: true
+./levels/random-orig-lvls/lvl-550.txt
+win: true
+./levels/random-orig-lvls/lvl-551.txt
+win: false
+./levels/random-orig-lvls/lvl-552.txt
+win: false
+./levels/random-orig-lvls/lvl-553.txt
+win: true
+./levels/random-orig-lvls/lvl-554.txt
+win: true
+./levels/random-orig-lvls/lvl-555.txt
+win: false
+./levels/random-orig-lvls/lvl-556.txt
+win: true
+./levels/random-orig-lvls/lvl-557.txt
+win: false
+./levels/random-orig-lvls/lvl-558.txt
+win: false
+./levels/random-orig-lvls/lvl-559.txt
+win: true
+./levels/random-orig-lvls/lvl-560.txt
+win: true
+./levels/random-orig-lvls/lvl-561.txt
+win: true
+./levels/random-orig-lvls/lvl-562.txt
+win: true
+./levels/random-orig-lvls/lvl-563.txt
+win: true
+./levels/random-orig-lvls/lvl-564.txt
+win: false
+./levels/random-orig-lvls/lvl-565.txt
+win: false
+./levels/random-orig-lvls/lvl-566.txt
+win: true
+./levels/random-orig-lvls/lvl-567.txt
+win: true
+./levels/random-orig-lvls/lvl-568.txt
+win: true
+./levels/random-orig-lvls/lvl-569.txt
+win: false
+./levels/random-orig-lvls/lvl-570.txt
+win: true
+./levels/random-orig-lvls/lvl-571.txt
+win: true
+./levels/random-orig-lvls/lvl-572.txt
+win: true
+./levels/random-orig-lvls/lvl-573.txt
+win: false
+./levels/random-orig-lvls/lvl-574.txt
+win: true
+./levels/random-orig-lvls/lvl-575.txt
+win: true
+./levels/random-orig-lvls/lvl-576.txt
+win: true
+./levels/random-orig-lvls/lvl-577.txt
+win: true
+./levels/random-orig-lvls/lvl-578.txt
+win: true
+./levels/random-orig-lvls/lvl-579.txt
+win: true
+./levels/random-orig-lvls/lvl-580.txt
+win: true
+./levels/random-orig-lvls/lvl-581.txt
+win: true
+./levels/random-orig-lvls/lvl-582.txt
+win: true
+./levels/random-orig-lvls/lvl-583.txt
+win: false
+./levels/random-orig-lvls/lvl-584.txt
+win: false
+./levels/random-orig-lvls/lvl-585.txt
+win: true
+./levels/random-orig-lvls/lvl-586.txt
+win: true
+./levels/random-orig-lvls/lvl-587.txt
+win: true
+./levels/random-orig-lvls/lvl-588.txt
+win: false
+./levels/random-orig-lvls/lvl-589.txt
+win: false
+./levels/random-orig-lvls/lvl-590.txt
+win: false
+./levels/random-orig-lvls/lvl-591.txt
+win: true
+./levels/random-orig-lvls/lvl-592.txt
+win: true
+./levels/random-orig-lvls/lvl-593.txt
+win: true
+./levels/random-orig-lvls/lvl-594.txt
+win: true
+./levels/random-orig-lvls/lvl-595.txt
+win: true
+./levels/random-orig-lvls/lvl-596.txt
+win: true
+./levels/random-orig-lvls/lvl-597.txt
+win: true
+./levels/random-orig-lvls/lvl-598.txt
+win: true
+./levels/random-orig-lvls/lvl-599.txt
+win: true
+./levels/random-orig-lvls/lvl-600.txt
+win: true
+./levels/random-orig-lvls/lvl-601.txt
+win: true
+./levels/random-orig-lvls/lvl-602.txt
+win: true
+./levels/random-orig-lvls/lvl-603.txt
+win: true
+./levels/random-orig-lvls/lvl-604.txt
+win: true
+./levels/random-orig-lvls/lvl-605.txt
+win: true
+./levels/random-orig-lvls/lvl-606.txt
+win: true
+./levels/random-orig-lvls/lvl-607.txt
+win: true
+./levels/random-orig-lvls/lvl-608.txt
+win: false
+./levels/random-orig-lvls/lvl-609.txt
+win: true
+./levels/random-orig-lvls/lvl-610.txt
+win: true
+./levels/random-orig-lvls/lvl-611.txt
+win: true
+./levels/random-orig-lvls/lvl-612.txt
+win: true
+./levels/random-orig-lvls/lvl-613.txt
+win: true
+./levels/random-orig-lvls/lvl-614.txt
+win: true
+./levels/random-orig-lvls/lvl-615.txt
+win: false
+./levels/random-orig-lvls/lvl-616.txt
+win: true
+./levels/random-orig-lvls/lvl-617.txt
+win: true
+./levels/random-orig-lvls/lvl-618.txt
+win: true
+./levels/random-orig-lvls/lvl-619.txt
+win: true
+./levels/random-orig-lvls/lvl-620.txt
+win: true
+./levels/random-orig-lvls/lvl-621.txt
+win: true
+./levels/random-orig-lvls/lvl-622.txt
+win: true
+./levels/random-orig-lvls/lvl-623.txt
+win: true
+./levels/random-orig-lvls/lvl-624.txt
+win: false
+./levels/random-orig-lvls/lvl-625.txt
+win: true
+./levels/random-orig-lvls/lvl-626.txt
+win: true
+./levels/random-orig-lvls/lvl-627.txt
+win: true
+./levels/random-orig-lvls/lvl-628.txt
+win: true
+./levels/random-orig-lvls/lvl-629.txt
+win: true
+./levels/random-orig-lvls/lvl-630.txt
+win: false
+./levels/random-orig-lvls/lvl-631.txt
+win: false
+./levels/random-orig-lvls/lvl-632.txt
+win: false
+./levels/random-orig-lvls/lvl-633.txt
+win: false
+./levels/random-orig-lvls/lvl-634.txt
+win: true
+./levels/random-orig-lvls/lvl-635.txt
+win: true
+./levels/random-orig-lvls/lvl-636.txt
+win: true
+./levels/random-orig-lvls/lvl-637.txt
+win: true
+./levels/random-orig-lvls/lvl-638.txt
+win: true
+./levels/random-orig-lvls/lvl-639.txt
+win: true
+./levels/random-orig-lvls/lvl-640.txt
+win: true
+./levels/random-orig-lvls/lvl-641.txt
+win: true
+./levels/random-orig-lvls/lvl-642.txt
+win: false
+./levels/random-orig-lvls/lvl-643.txt
+win: false
+./levels/random-orig-lvls/lvl-644.txt
+win: true
+./levels/random-orig-lvls/lvl-645.txt
+win: false
+./levels/random-orig-lvls/lvl-646.txt
+win: true
+./levels/random-orig-lvls/lvl-647.txt
+win: true
+./levels/random-orig-lvls/lvl-648.txt
+win: false
+./levels/random-orig-lvls/lvl-649.txt
+win: false
+./levels/random-orig-lvls/lvl-650.txt
+win: true
+./levels/random-orig-lvls/lvl-651.txt
+win: true
+./levels/random-orig-lvls/lvl-652.txt
+win: true
+./levels/random-orig-lvls/lvl-653.txt
+win: true
+./levels/random-orig-lvls/lvl-654.txt
+win: true
+./levels/random-orig-lvls/lvl-655.txt
+win: true
+./levels/random-orig-lvls/lvl-656.txt
+win: true
+./levels/random-orig-lvls/lvl-657.txt
+win: false
+./levels/random-orig-lvls/lvl-658.txt
+win: false
+./levels/random-orig-lvls/lvl-659.txt
+win: true
+./levels/random-orig-lvls/lvl-660.txt
+win: true
+./levels/random-orig-lvls/lvl-661.txt
+win: true
+./levels/random-orig-lvls/lvl-662.txt
+win: false
+./levels/random-orig-lvls/lvl-663.txt
+win: true
+./levels/random-orig-lvls/lvl-664.txt
+win: true
+./levels/random-orig-lvls/lvl-665.txt
+win: true
+./levels/random-orig-lvls/lvl-666.txt
+win: true
+./levels/random-orig-lvls/lvl-667.txt
+win: true
+./levels/random-orig-lvls/lvl-668.txt
+win: true
+./levels/random-orig-lvls/lvl-669.txt
+win: true
+./levels/random-orig-lvls/lvl-670.txt
+win: true
+./levels/random-orig-lvls/lvl-671.txt
+win: true
+./levels/random-orig-lvls/lvl-672.txt
+win: true
+./levels/random-orig-lvls/lvl-673.txt
+win: true
+./levels/random-orig-lvls/lvl-674.txt
+win: false
+./levels/random-orig-lvls/lvl-675.txt
+win: false
+./levels/random-orig-lvls/lvl-676.txt
+win: false
+./levels/random-orig-lvls/lvl-677.txt
+win: true
+./levels/random-orig-lvls/lvl-678.txt
+win: true
+./levels/random-orig-lvls/lvl-679.txt
+win: false
+./levels/random-orig-lvls/lvl-680.txt
+win: true
+./levels/random-orig-lvls/lvl-681.txt
+win: true
+./levels/random-orig-lvls/lvl-682.txt
+win: true
+./levels/random-orig-lvls/lvl-683.txt
+win: false
+./levels/random-orig-lvls/lvl-684.txt
+win: true
+./levels/random-orig-lvls/lvl-685.txt
+win: false
+./levels/random-orig-lvls/lvl-686.txt
+win: true
+./levels/random-orig-lvls/lvl-687.txt
+win: false
+./levels/random-orig-lvls/lvl-688.txt
+win: true
+./levels/random-orig-lvls/lvl-689.txt
+win: true
+./levels/random-orig-lvls/lvl-690.txt
+win: true
+./levels/random-orig-lvls/lvl-691.txt
+win: false
+./levels/random-orig-lvls/lvl-692.txt
+win: false
+./levels/random-orig-lvls/lvl-693.txt
+win: true
+./levels/random-orig-lvls/lvl-694.txt
+win: false
+./levels/random-orig-lvls/lvl-695.txt
+win: false
+./levels/random-orig-lvls/lvl-696.txt
+win: true
+./levels/random-orig-lvls/lvl-697.txt
+win: true
+./levels/random-orig-lvls/lvl-698.txt
+win: true
+./levels/random-orig-lvls/lvl-699.txt
+win: true
+./levels/random-orig-lvls/lvl-700.txt
+win: false
+./levels/random-orig-lvls/lvl-701.txt
+win: false
+./levels/random-orig-lvls/lvl-702.txt
+win: false
+./levels/random-orig-lvls/lvl-703.txt
+win: true
+./levels/random-orig-lvls/lvl-704.txt
+win: true
+./levels/random-orig-lvls/lvl-705.txt
+win: true
+./levels/random-orig-lvls/lvl-706.txt
+win: true
+./levels/random-orig-lvls/lvl-707.txt
+win: true
+./levels/random-orig-lvls/lvl-708.txt
+win: false
+./levels/random-orig-lvls/lvl-709.txt
+win: true
+./levels/random-orig-lvls/lvl-710.txt
+win: true
+./levels/random-orig-lvls/lvl-711.txt
+win: false
+./levels/random-orig-lvls/lvl-712.txt
+win: true
+./levels/random-orig-lvls/lvl-713.txt
+win: true
+./levels/random-orig-lvls/lvl-714.txt
+win: true
+./levels/random-orig-lvls/lvl-715.txt
+win: false
+./levels/random-orig-lvls/lvl-716.txt
+win: false
+./levels/random-orig-lvls/lvl-717.txt
+win: true
+./levels/random-orig-lvls/lvl-718.txt
+win: false
+./levels/random-orig-lvls/lvl-719.txt
+win: true
+./levels/random-orig-lvls/lvl-720.txt
+win: false
+./levels/random-orig-lvls/lvl-721.txt
+win: true
+./levels/random-orig-lvls/lvl-722.txt
+win: true
+./levels/random-orig-lvls/lvl-723.txt
+win: true
+./levels/random-orig-lvls/lvl-724.txt
+win: false
+./levels/random-orig-lvls/lvl-725.txt
+win: true
+./levels/random-orig-lvls/lvl-726.txt
+win: true
+./levels/random-orig-lvls/lvl-727.txt
+win: true
+./levels/random-orig-lvls/lvl-728.txt
+win: true
+./levels/random-orig-lvls/lvl-729.txt
+win: true
+./levels/random-orig-lvls/lvl-730.txt
+win: true
+./levels/random-orig-lvls/lvl-731.txt
+win: true
+./levels/random-orig-lvls/lvl-732.txt
+win: true
+./levels/random-orig-lvls/lvl-733.txt
+win: true
+./levels/random-orig-lvls/lvl-734.txt
+win: true
+./levels/random-orig-lvls/lvl-735.txt
+win: false
+./levels/random-orig-lvls/lvl-736.txt
+win: true
+./levels/random-orig-lvls/lvl-737.txt
+win: false
+./levels/random-orig-lvls/lvl-738.txt
+win: true
+./levels/random-orig-lvls/lvl-739.txt
+win: false
+./levels/random-orig-lvls/lvl-740.txt
+win: false
+./levels/random-orig-lvls/lvl-741.txt
+win: true
+./levels/random-orig-lvls/lvl-742.txt
+win: true
+./levels/random-orig-lvls/lvl-743.txt
+win: true
+./levels/random-orig-lvls/lvl-744.txt
+win: false
+./levels/random-orig-lvls/lvl-745.txt
+win: true
+./levels/random-orig-lvls/lvl-746.txt
+win: true
+./levels/random-orig-lvls/lvl-747.txt
+win: true
+./levels/random-orig-lvls/lvl-748.txt
+win: true
+./levels/random-orig-lvls/lvl-749.txt
+win: true
+./levels/random-orig-lvls/lvl-750.txt
+win: true
+./levels/random-orig-lvls/lvl-751.txt
+win: true
+./levels/random-orig-lvls/lvl-752.txt
+win: true
+./levels/random-orig-lvls/lvl-753.txt
+win: false
+./levels/random-orig-lvls/lvl-754.txt
+win: true
+./levels/random-orig-lvls/lvl-755.txt
+win: true
+./levels/random-orig-lvls/lvl-756.txt
+win: false
+./levels/random-orig-lvls/lvl-757.txt
+win: false
+./levels/random-orig-lvls/lvl-758.txt
+win: true
+./levels/random-orig-lvls/lvl-759.txt
+win: true
+./levels/random-orig-lvls/lvl-760.txt
+win: false
+./levels/random-orig-lvls/lvl-761.txt
+win: true
+./levels/random-orig-lvls/lvl-762.txt
+win: true
+./levels/random-orig-lvls/lvl-763.txt
+win: true
+./levels/random-orig-lvls/lvl-764.txt
+win: true
+./levels/random-orig-lvls/lvl-765.txt
+win: true
+./levels/random-orig-lvls/lvl-766.txt
+win: true
+./levels/random-orig-lvls/lvl-767.txt
+win: true
+./levels/random-orig-lvls/lvl-768.txt
+win: false
+./levels/random-orig-lvls/lvl-769.txt
+win: false
+./levels/random-orig-lvls/lvl-770.txt
+win: true
+./levels/random-orig-lvls/lvl-771.txt
+win: true
+./levels/random-orig-lvls/lvl-772.txt
+win: true
+./levels/random-orig-lvls/lvl-773.txt
+win: true
+./levels/random-orig-lvls/lvl-774.txt
+win: true
+./levels/random-orig-lvls/lvl-775.txt
+win: false
+./levels/random-orig-lvls/lvl-776.txt
+win: false
+./levels/random-orig-lvls/lvl-777.txt
+win: false
+./levels/random-orig-lvls/lvl-778.txt
+win: false
+./levels/random-orig-lvls/lvl-779.txt
+win: true
+./levels/random-orig-lvls/lvl-780.txt
+win: true
+./levels/random-orig-lvls/lvl-781.txt
+win: true
+./levels/random-orig-lvls/lvl-782.txt
+win: false
+./levels/random-orig-lvls/lvl-783.txt
+win: false
+./levels/random-orig-lvls/lvl-784.txt
+win: true
+./levels/random-orig-lvls/lvl-785.txt
+win: true
+./levels/random-orig-lvls/lvl-786.txt
+win: true
+./levels/random-orig-lvls/lvl-787.txt
+win: true
+./levels/random-orig-lvls/lvl-788.txt
+win: true
+./levels/random-orig-lvls/lvl-789.txt
+win: true
+./levels/random-orig-lvls/lvl-790.txt
+win: true
+./levels/random-orig-lvls/lvl-791.txt
+win: false
+./levels/random-orig-lvls/lvl-792.txt
+win: true
+./levels/random-orig-lvls/lvl-793.txt
+win: true
+./levels/random-orig-lvls/lvl-794.txt
+win: false
+./levels/random-orig-lvls/lvl-795.txt
+win: true
+./levels/random-orig-lvls/lvl-796.txt
+win: true
+./levels/random-orig-lvls/lvl-797.txt
+win: true
+./levels/random-orig-lvls/lvl-798.txt
+win: true
+./levels/random-orig-lvls/lvl-799.txt
+win: true
+./levels/random-orig-lvls/lvl-800.txt
+win: true
+./levels/random-orig-lvls/lvl-801.txt
+win: true
+./levels/random-orig-lvls/lvl-802.txt
+win: true
+./levels/random-orig-lvls/lvl-803.txt
+win: true
+./levels/random-orig-lvls/lvl-804.txt
+win: true
+./levels/random-orig-lvls/lvl-805.txt
+win: false
+./levels/random-orig-lvls/lvl-806.txt
+win: true
+./levels/random-orig-lvls/lvl-807.txt
+win: false
+./levels/random-orig-lvls/lvl-808.txt
+win: true
+./levels/random-orig-lvls/lvl-809.txt
+win: true
+./levels/random-orig-lvls/lvl-810.txt
+win: true
+./levels/random-orig-lvls/lvl-811.txt
+win: false
+./levels/random-orig-lvls/lvl-812.txt
+win: true
+./levels/random-orig-lvls/lvl-813.txt
+win: true
+./levels/random-orig-lvls/lvl-814.txt
+win: true
+./levels/random-orig-lvls/lvl-815.txt
+win: true
+./levels/random-orig-lvls/lvl-816.txt
+win: true
+./levels/random-orig-lvls/lvl-817.txt
+win: false
+./levels/random-orig-lvls/lvl-818.txt
+win: true
+./levels/random-orig-lvls/lvl-819.txt
+win: true
+./levels/random-orig-lvls/lvl-820.txt
+win: true
+./levels/random-orig-lvls/lvl-821.txt
+win: false
+./levels/random-orig-lvls/lvl-822.txt
+win: true
+./levels/random-orig-lvls/lvl-823.txt
+win: true
+./levels/random-orig-lvls/lvl-824.txt
+win: true
+./levels/random-orig-lvls/lvl-825.txt
+win: true
+./levels/random-orig-lvls/lvl-826.txt
+win: false
+./levels/random-orig-lvls/lvl-827.txt
+win: false
+./levels/random-orig-lvls/lvl-828.txt
+win: true
+./levels/random-orig-lvls/lvl-829.txt
+win: true
+./levels/random-orig-lvls/lvl-830.txt
+win: true
+./levels/random-orig-lvls/lvl-831.txt
+win: true
+./levels/random-orig-lvls/lvl-832.txt
+win: true
+./levels/random-orig-lvls/lvl-833.txt
+win: true
+./levels/random-orig-lvls/lvl-834.txt
+win: true
+./levels/random-orig-lvls/lvl-835.txt
+win: true
+./levels/random-orig-lvls/lvl-836.txt
+win: false
+./levels/random-orig-lvls/lvl-837.txt
+win: true
+./levels/random-orig-lvls/lvl-838.txt
+win: true
+./levels/random-orig-lvls/lvl-839.txt
+win: true
+./levels/random-orig-lvls/lvl-840.txt
+win: true
+./levels/random-orig-lvls/lvl-841.txt
+win: false
+./levels/random-orig-lvls/lvl-842.txt
+win: true
+./levels/random-orig-lvls/lvl-843.txt
+win: true
+./levels/random-orig-lvls/lvl-844.txt
+win: false
+./levels/random-orig-lvls/lvl-845.txt
+win: true
+./levels/random-orig-lvls/lvl-846.txt
+win: true
+./levels/random-orig-lvls/lvl-847.txt
+win: true
+./levels/random-orig-lvls/lvl-848.txt
+win: true
+./levels/random-orig-lvls/lvl-849.txt
+win: true
+./levels/random-orig-lvls/lvl-850.txt
+win: true
+./levels/random-orig-lvls/lvl-851.txt
+win: true
+./levels/random-orig-lvls/lvl-852.txt
+win: true
+./levels/random-orig-lvls/lvl-853.txt
+win: true
+./levels/random-orig-lvls/lvl-854.txt
+win: false
+./levels/random-orig-lvls/lvl-855.txt
+win: true
+./levels/random-orig-lvls/lvl-856.txt
+win: true
+./levels/random-orig-lvls/lvl-857.txt
+win: true
+./levels/random-orig-lvls/lvl-858.txt
+win: false
+./levels/random-orig-lvls/lvl-859.txt
+win: false
+./levels/random-orig-lvls/lvl-860.txt
+win: true
+./levels/random-orig-lvls/lvl-861.txt
+win: true
+./levels/random-orig-lvls/lvl-862.txt
+win: true
+./levels/random-orig-lvls/lvl-863.txt
+win: true
+./levels/random-orig-lvls/lvl-864.txt
+win: true
+./levels/random-orig-lvls/lvl-865.txt
+win: false
+./levels/random-orig-lvls/lvl-866.txt
+win: false
+./levels/random-orig-lvls/lvl-867.txt
+win: true
+./levels/random-orig-lvls/lvl-868.txt
+win: true
+./levels/random-orig-lvls/lvl-869.txt
+win: true
+./levels/random-orig-lvls/lvl-870.txt
+win: true
+./levels/random-orig-lvls/lvl-871.txt
+win: false
+./levels/random-orig-lvls/lvl-872.txt
+win: true
+./levels/random-orig-lvls/lvl-873.txt
+win: true
+./levels/random-orig-lvls/lvl-874.txt
+win: true
+./levels/random-orig-lvls/lvl-875.txt
+win: true
+./levels/random-orig-lvls/lvl-876.txt
+win: true
+./levels/random-orig-lvls/lvl-877.txt
+win: true
+./levels/random-orig-lvls/lvl-878.txt
+win: true
+./levels/random-orig-lvls/lvl-879.txt
+win: true
+./levels/random-orig-lvls/lvl-880.txt
+win: true
+./levels/random-orig-lvls/lvl-881.txt
+win: true
+./levels/random-orig-lvls/lvl-882.txt
+win: true
+./levels/random-orig-lvls/lvl-883.txt
+win: true
+./levels/random-orig-lvls/lvl-884.txt
+win: true
+./levels/random-orig-lvls/lvl-885.txt
+win: true
+./levels/random-orig-lvls/lvl-886.txt
+win: true
+./levels/random-orig-lvls/lvl-887.txt
+win: true
+./levels/random-orig-lvls/lvl-888.txt
+win: true
+./levels/random-orig-lvls/lvl-889.txt
+win: true
+./levels/random-orig-lvls/lvl-890.txt
+win: true
+./levels/random-orig-lvls/lvl-891.txt
+win: true
+./levels/random-orig-lvls/lvl-892.txt
+win: true
+./levels/random-orig-lvls/lvl-893.txt
+win: true
+./levels/random-orig-lvls/lvl-894.txt
+win: true
+./levels/random-orig-lvls/lvl-895.txt
+win: true
+./levels/random-orig-lvls/lvl-896.txt
+win: true
+./levels/random-orig-lvls/lvl-897.txt
+win: false
+./levels/random-orig-lvls/lvl-898.txt
+win: true
+./levels/random-orig-lvls/lvl-899.txt
+win: false
+./levels/random-orig-lvls/lvl-900.txt
+win: true
+./levels/random-orig-lvls/lvl-901.txt
+win: true
+./levels/random-orig-lvls/lvl-902.txt
+win: true
+./levels/random-orig-lvls/lvl-903.txt
+win: true
+./levels/random-orig-lvls/lvl-904.txt
+win: true
+./levels/random-orig-lvls/lvl-905.txt
+win: true
+./levels/random-orig-lvls/lvl-906.txt
+win: true
+./levels/random-orig-lvls/lvl-907.txt
+win: true
+./levels/random-orig-lvls/lvl-908.txt
+win: true
+./levels/random-orig-lvls/lvl-909.txt
+win: true
+./levels/random-orig-lvls/lvl-910.txt
+win: true
+./levels/random-orig-lvls/lvl-911.txt
+win: true
+./levels/random-orig-lvls/lvl-912.txt
+win: true
+./levels/random-orig-lvls/lvl-913.txt
+win: false
+./levels/random-orig-lvls/lvl-914.txt
+win: true
+./levels/random-orig-lvls/lvl-915.txt
+win: true
+./levels/random-orig-lvls/lvl-916.txt
+win: true
+./levels/random-orig-lvls/lvl-917.txt
+win: true
+./levels/random-orig-lvls/lvl-918.txt
+win: true
+./levels/random-orig-lvls/lvl-919.txt
+win: true
+./levels/random-orig-lvls/lvl-920.txt
+win: true
+./levels/random-orig-lvls/lvl-921.txt
+win: true
+./levels/random-orig-lvls/lvl-922.txt
+win: false
+./levels/random-orig-lvls/lvl-923.txt
+win: false
+./levels/random-orig-lvls/lvl-924.txt
+win: false
+./levels/random-orig-lvls/lvl-925.txt
+win: true
+./levels/random-orig-lvls/lvl-926.txt
+win: false
+./levels/random-orig-lvls/lvl-927.txt
+win: true
+./levels/random-orig-lvls/lvl-928.txt
+win: true
+./levels/random-orig-lvls/lvl-929.txt
+win: false
+./levels/random-orig-lvls/lvl-930.txt
+win: true
+./levels/random-orig-lvls/lvl-931.txt
+win: true
+./levels/random-orig-lvls/lvl-932.txt
+win: true
+./levels/random-orig-lvls/lvl-933.txt
+win: true
+./levels/random-orig-lvls/lvl-934.txt
+win: true
+./levels/random-orig-lvls/lvl-935.txt
+win: true
+./levels/random-orig-lvls/lvl-936.txt
+win: false
+./levels/random-orig-lvls/lvl-937.txt
+win: true
+./levels/random-orig-lvls/lvl-938.txt
+win: true
+./levels/random-orig-lvls/lvl-939.txt
+win: true
+./levels/random-orig-lvls/lvl-940.txt
+win: false
+./levels/random-orig-lvls/lvl-941.txt
+win: false
+./levels/random-orig-lvls/lvl-942.txt
+win: false
+./levels/random-orig-lvls/lvl-943.txt
+win: true
+./levels/random-orig-lvls/lvl-944.txt
+win: false
+./levels/random-orig-lvls/lvl-945.txt
+win: false
+./levels/random-orig-lvls/lvl-946.txt
+win: true
+./levels/random-orig-lvls/lvl-947.txt
+win: true
+./levels/random-orig-lvls/lvl-948.txt
+win: true
+./levels/random-orig-lvls/lvl-949.txt
+win: true
+./levels/random-orig-lvls/lvl-950.txt
+win: true
+./levels/random-orig-lvls/lvl-951.txt
+win: true
+./levels/random-orig-lvls/lvl-952.txt
+win: true
+./levels/random-orig-lvls/lvl-953.txt
+win: true
+./levels/random-orig-lvls/lvl-954.txt
+win: true
+./levels/random-orig-lvls/lvl-955.txt
+win: true
+./levels/random-orig-lvls/lvl-956.txt
+win: true
+./levels/random-orig-lvls/lvl-957.txt
+win: true
+./levels/random-orig-lvls/lvl-958.txt
+win: true
+./levels/random-orig-lvls/lvl-959.txt
+win: false
+./levels/random-orig-lvls/lvl-960.txt
+win: false
+./levels/random-orig-lvls/lvl-961.txt
+win: true
+./levels/random-orig-lvls/lvl-962.txt
+win: true
+./levels/random-orig-lvls/lvl-963.txt
+win: true
+./levels/random-orig-lvls/lvl-964.txt
+win: true
+./levels/random-orig-lvls/lvl-965.txt
+win: true
+./levels/random-orig-lvls/lvl-966.txt
+win: true
+./levels/random-orig-lvls/lvl-967.txt
+win: false
+./levels/random-orig-lvls/lvl-968.txt
+win: true
+./levels/random-orig-lvls/lvl-969.txt
+win: true
+./levels/random-orig-lvls/lvl-970.txt
+win: true
+./levels/random-orig-lvls/lvl-971.txt
+win: true
+./levels/random-orig-lvls/lvl-972.txt
+win: false
+./levels/random-orig-lvls/lvl-973.txt
+win: true
+./levels/random-orig-lvls/lvl-974.txt
+win: true
+./levels/random-orig-lvls/lvl-975.txt
+win: true
+./levels/random-orig-lvls/lvl-976.txt
+win: false
+./levels/random-orig-lvls/lvl-977.txt
+win: true
+./levels/random-orig-lvls/lvl-978.txt
+win: true
+./levels/random-orig-lvls/lvl-979.txt
+win: true
+./levels/random-orig-lvls/lvl-980.txt
+win: false
+./levels/random-orig-lvls/lvl-981.txt
+win: true
+./levels/random-orig-lvls/lvl-982.txt
+win: false
+./levels/random-orig-lvls/lvl-983.txt
+win: true
+./levels/random-orig-lvls/lvl-984.txt
+win: false
+./levels/random-orig-lvls/lvl-985.txt
+win: true
+./levels/random-orig-lvls/lvl-986.txt
+win: true
+./levels/random-orig-lvls/lvl-987.txt
+win: true
+./levels/random-orig-lvls/lvl-988.txt
+win: true
+./levels/random-orig-lvls/lvl-989.txt
+win: true
+./levels/random-orig-lvls/lvl-990.txt
+win: false
+./levels/random-orig-lvls/lvl-991.txt
+win: true
+./levels/random-orig-lvls/lvl-992.txt
+win: false
+./levels/random-orig-lvls/lvl-993.txt
+win: true
+./levels/random-orig-lvls/lvl-994.txt
+win: true
+./levels/random-orig-lvls/lvl-995.txt
+win: true
+./levels/random-orig-lvls/lvl-996.txt
+win: true
+./levels/random-orig-lvls/lvl-997.txt
+win: true
+./levels/random-orig-lvls/lvl-998.txt
+win: true
+./levels/random-orig-lvls/lvl-999.txt
+win: true
+./levels/random-orig-lvls/lvl-1000.txt
+win: true
+

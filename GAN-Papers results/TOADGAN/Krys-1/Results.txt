@@ -1,0 +1,10 @@
+Mff Astar Grid:
+Total Levels in range 1 to 100: 100
+Wins: 23
+Win Rate: 23.00%
+All levels from 1 to 100 are present.
+
+Baumgarten
+Wins: 10.0
+Time outs: 42.0
+Lose: 48.0
