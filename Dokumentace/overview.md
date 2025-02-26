@@ -30,7 +30,7 @@ Obě tyto studie využívají různé architektury GAN-ů pro generování level
 ### TOAD-GAN
 - [TOAD-GAN](TOAD-GAN.md)  
 - [Instalace a použití](Instalace-TOAD.md)  
-- [Implementované změny](Modifikace-TOAD.md)  
+- [Implementované změny a výsledky](Modifikace-TOAD.md)  
 
 ### DagstuhlGAN
 - [DagstuhlGAN](DagstuhlGAN.md)  
