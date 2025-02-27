@@ -84,14 +84,14 @@ V adresáři `marioobjectives` jsou .java soubory, které vypadají jako fitness
 - Vylepšování přes Grid Search bylo rychlé a efektivní.
 - Poměrně zajímavé levely.
 
-<img src="images/GridSearch_graph.png" alt="grid jump fitness" width="500">
+<img src="images/gridSearch_graph.png" alt="grid jump fitness" width="500">
 
 ### Krys generátor – Jump test:
 - 55 generací vylepšování pomocí Baumgartena trvala přes 40 hodin.
 - MFF AStarGrid měl lehce lepší výsledky. 
   - (U Baumgartena možná generátor preferoval vytvářet levely, kde se zasekával a opakovaně skákal).
 
-<img src="images/krysJumpTest_graph.png" alt="grid jump fitness" width="500">
+<img src="images/krysJumpTest_graph.png" alt="krys jump fitness" width="500">
 
 ### Další poznámky:
 - MFF AStarGrid byl velmi rychlý při CMA-ES evoluci oproti Baumgartenovi, vylepšování přes samotný Grid search byl ještě rychlejší.
