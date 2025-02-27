@@ -66,27 +66,32 @@ V adresáři `marioobjectives` jsou .java soubory, které vypadají jako fitness
 - **MFF-A Grid*** byl rychlejší a dosahoval vyššího fitness skóre než Baumgarten.
 - S opravami skoků (AStarGrid2 a AStarGrid3) se zlepšila schopnost dokončit i těžší levely.
 
-<img src="images/jumpTestParam1_graph.png" alt="jump fitness" width="500">
+<img src="images/jumpTestParam1_graph.png" width="450"> <img src="images/jumpTestParam2_graph.png" width="400">
 
 #### Run-time porovnání:
 - Baumgarten byl nejpomalejší.
 - MFF AStar měl stabilní runtime a byl nejefektivnější.
 
+<img src="images/runTime_graph.png" alt="runtime fitness" width="500">
+
 #### Backtracked nodes:
 - Baumgarten velmi rychle dosáhl vysokého množství backtracked nodes i pro jednoduché levely.
+
+<img src="images/backtrackedNodes_graph.png" alt="backtracked nodes fitness" width="500">
 
 #### Počet skoků bez dynamických prvků:
 - Přímé počítání v kódu nefungovalo dobře, lepší byla analýza textového výstupu.
 - Vylepšování přes Grid Search bylo rychlé a efektivní.
 - Poměrně zajímavé levely.
 
+<img src="images/GridSearch_graph.png" alt="grid jump fitness" width="500">
+
 ### Krys generátor – Jump test:
 - 55 generací vylepšování pomocí Baumgartena trvala přes 40 hodin.
 - MFF AStarGrid měl lehce lepší výsledky. 
   - (U Baumgartena možná generátor preferoval vytvářet levely, kde se zasekával a opakovaně skákal).
-### Testování na levelu krys-1:
-- Ukázalo se, že je vhodné zaměřit se na generování různorodějších levelů, protože originální level 1-1 generoval příliš jednotvárné úrovně.
-  - (Ovšem také to vede k delší době vylepšování levelů).
+
+<img src="images/krysJumpTest_graph.png" alt="grid jump fitness" width="500">
 
 ### Další poznámky:
 - MFF AStarGrid byl velmi rychlý při CMA-ES evoluci oproti Baumgartenovi, vylepšování přes samotný Grid search byl ještě rychlejší.
@@ -94,6 +99,8 @@ V adresáři `marioobjectives` jsou .java soubory, které vypadají jako fitness
     - Při umělém zvýšení výšky levelu došlo ke zlepšení výsledků.
 - Při vylepšování pomocí MFF AStarGrid často záleží na předaných parametrech.
 - Generované levely jsou velmi malé a poměrně špatně se tedy porovnávají.
+- Ukázalo se, že je vhodné zaměřit se na generování různorodějších levelů, protože originální level 1-1 generoval příliš jednotvárné úrovně.
+  - (Ovšem také to vede k delší době vylepšování levelů).
 
 ## Související soubory
 

@@ -4,7 +4,7 @@
 
 ## Implementované změny
 
-- V souboru `GUI.py` (TOAD\_GUI) byla upravena funkce `save_txt.py`, která nyní umožňuje vygenerovat a uložit 100 úrovní naráz.
+- V souboru `GUI.py` (TOAD\_GUI) byla upravena funkce `save_txt`, která nyní umožňuje vygenerovat a uložit 100 úrovní naráz.
 - Do složky `generators/v2` byl přidán natrénovaný model na levelu `krys-1`.
 - Do složky `levels` byly přidány vygenerované levely z modelů vytvořených na levelech `original_1`, `original_3-3` a `krys-1`.
 - Také byl vytvořen soubor `random-orig-levels`, který obsahuje 1000 úrovní vygenerovaných náhodně vybraným modelem založeným na některé z originálních úrovní.

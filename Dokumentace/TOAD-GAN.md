@@ -19,6 +19,8 @@
 ### Jak to funguje
 
 - **Hierarchická trénovací architektura (SinGAN)** – TOAD-GAN se trénuje v několika úrovních downsampling-u a následného upsampling-u, čímž zachovává celkovou strukturu úrovně.
+![Architektura TOAD-GAN](images/ganArchitectureTOADGAN.png)
+
 - **Uchování důležitých tokenů** – Abychom nepřicházeli o detaily částí levelu při zmenšování, používá algoritmus specifickou metodu downsamplingu, která chrání klíčové prvky úrovně.
 - **Level Authoring** – Uživatel může částečně řídit generaci tím, že zadá určité tokeny v prvních fázích generování. (Lze vytvořit základní layout úrovně a TOAD-GAN vytvoří level podle daného návrhu.)
 
