@@ -32,11 +32,9 @@ Zde je podrobný návod, jak jsme tyto problémy vyřešili.
 
 ### 1. Nastavení v IntelliJ
 
-Nejdříve je potřeba projekt naklonovat:
-```
-git clone https://github.com/CIGbalance/DagstuhlGAN
-```
-Otevřete projekt v hlavním souboru projektu.
+Nejdříve je potřeba projekt naklonovat (buď původní repozitář nebo tento).
+
+Následně otevřete projekt v hlavním souboru projektu.
 - V IntelliJ přejděte do **File → Project Structure...**
   - **Language Level**: Nastavte na "SDK default".
   - **Compiler Output**: Přidejte cestu pro výstup kompilátoru (pokud není nenastavena).

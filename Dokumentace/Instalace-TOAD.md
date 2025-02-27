@@ -18,7 +18,7 @@
 ## Instalace
 Pro zprovoznění TOAD-GANu je nutné řídit se instrukcemi v README souboru repozitáře TOAD-GANu. 
 
-Nejprve je potřeba stáhnout repozitář a nainstalovat všechny závislosti pomocí následujícího příkazu:
+Nejprve je potřeba stáhnout [repozitář](https://github.com/Mawiszus/TOAD-GAN) (TOAD-GAN není součástí tohoto repozitáře, pouze TOAD-GUI) a nainstalovat všechny závislosti pomocí následujícího příkazu (platí pro TOAD-GAN i TOAD-GUI):
 
 ```
 pip3 install -r requirements.txt -f "https://download.pytorch.org/whl/torch_stable.html"
@@ -40,6 +40,11 @@ python generate_samples.py --out_path path/to/pretrained/TOAD-GAN --input-dir in
 
 ## TOAD-GUI rozšíření
 Autorka projektu vytvořila rozšíření pro vizualizaci a manipulaci s generovanými úrovněmi, které se nazývá **TOAD-GUI**. Tento framework umožňuje lepší interakci s generovanými úrovněmi a usnadňuje jejich úpravy.
+TOAD-GUI se spouští takto:
+
+```
+python3 main.py
+```
 
 ## Související odkazy
 - [TOAD-GAN](TOAD-GAN.md)
