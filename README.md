@@ -3,7 +3,7 @@ This is my ISP (Individual software project) researching papers focusing on the 
 The following information was forked from here https://gitlab.com/gamedev-cuni-cz/theses/super-mario-astar .
 
 ### Introduction
-This project is based on the framework created by [Ahmed Khalifa](https://scholar.google.com/citations?user=DRcyg5kAAAAJ&hl=en), which can be found [here](https://github.com/amidos2006/Mario-AI-Framework). As a part of my bachelor thesis, David Šosvald created a better forward model for this framework, and to prove its functionality, he built a few intelligent agents on top of it.
+This project is based on the framework created by [Ahmed Khalifa](https://scholar.google.com/citations?user=DRcyg5kAAAAJ&hl=en), which can be found [here](https://github.com/amidos2006/Mario-AI-Framework). As a part of his bachelor thesis, David Šosvald created a better forward model for this framework, and to prove its functionality, he built a few intelligent agents on top of it.
 
 The work on this project was continued as a part of David Šosvald's diploma thesis, where he created even better agents, especially the `astarGrid` agent (also referred to as `MFF A* Grid`) and the `astarWaypoints` (`MFF A* Waypoints`) agent.
 
@@ -21,7 +21,7 @@ The framework works on Windows (tested on Win 10/11), but should also work on Li
   - `levelGenerators`
     -  generators from the framework mostly created during competitions
     - the `krys` and `noiseBased` generators were created by MFF UK students Jan Holan and Mikuláš Hrdlička as a part of the Procedural Content Generation course
-  - `mff` - the source code of my theses
+  - `mff` - the source code of David Šosvald's theses
     - `agents` - all the agents created for the theses + a benchmark environment for them; newly only contains the implementation of grid-level search
     - `forwardmodel` - contains the two new forward models
       - `slim` - which is an improved version of the original forward model
