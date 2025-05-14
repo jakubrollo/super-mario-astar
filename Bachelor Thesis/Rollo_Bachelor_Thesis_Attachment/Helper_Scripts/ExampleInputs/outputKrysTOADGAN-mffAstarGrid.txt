@@ -1,0 +1,3000 @@
+Original level: krys-1
+level: krys_TOADGAN-1.txt
+win: false
+
+level: krys_TOADGAN-2.txt
+win: false
+
+level: krys_TOADGAN-3.txt
+win: false
+
+level: krys_TOADGAN-4.txt
+win: false
+
+level: krys_TOADGAN-5.txt
+win: false
+
+level: krys_TOADGAN-6.txt
+win: true
+
+level: krys_TOADGAN-7.txt
+win: false
+
+level: krys_TOADGAN-8.txt
+win: false
+
+level: krys_TOADGAN-9.txt
+win: false
+
+level: krys_TOADGAN-10.txt
+win: false
+
+level: krys_TOADGAN-11.txt
+win: false
+
+level: krys_TOADGAN-12.txt
+win: false
+
+level: krys_TOADGAN-13.txt
+win: false
+
+level: krys_TOADGAN-14.txt
+win: false
+
+level: krys_TOADGAN-15.txt
+win: false
+
+level: krys_TOADGAN-16.txt
+win: true
+
+level: krys_TOADGAN-17.txt
+win: false
+
+level: krys_TOADGAN-18.txt
+win: false
+
+level: krys_TOADGAN-19.txt
+win: false
+
+level: krys_TOADGAN-20.txt
+win: false
+
+level: krys_TOADGAN-21.txt
+win: false
+
+level: krys_TOADGAN-22.txt
+win: false
+
+level: krys_TOADGAN-23.txt
+win: false
+
+level: krys_TOADGAN-24.txt
+win: true
+
+level: krys_TOADGAN-25.txt
+win: true
+
+level: krys_TOADGAN-26.txt
+win: false
+
+level: krys_TOADGAN-27.txt
+win: true
+
+level: krys_TOADGAN-28.txt
+win: false
+
+level: krys_TOADGAN-29.txt
+win: false
+
+level: krys_TOADGAN-30.txt
+win: false
+
+level: krys_TOADGAN-31.txt
+win: false
+
+level: krys_TOADGAN-32.txt
+win: false
+
+level: krys_TOADGAN-33.txt
+win: false
+
+level: krys_TOADGAN-34.txt
+win: false
+
+level: krys_TOADGAN-35.txt
+win: false
+
+level: krys_TOADGAN-36.txt
+win: false
+
+level: krys_TOADGAN-37.txt
+win: false
+
+level: krys_TOADGAN-38.txt
+win: false
+
+level: krys_TOADGAN-39.txt
+win: false
+
+level: krys_TOADGAN-40.txt
+win: false
+
+level: krys_TOADGAN-41.txt
+win: false
+
+level: krys_TOADGAN-42.txt
+win: true
+
+level: krys_TOADGAN-43.txt
+win: false
+
+level: krys_TOADGAN-44.txt
+win: false
+
+level: krys_TOADGAN-45.txt
+win: false
+
+level: krys_TOADGAN-46.txt
+win: false
+
+level: krys_TOADGAN-47.txt
+win: false
+
+level: krys_TOADGAN-48.txt
+win: false
+
+level: krys_TOADGAN-49.txt
+win: true
+
+level: krys_TOADGAN-50.txt
+win: false
+
+level: krys_TOADGAN-51.txt
+win: false
+
+level: krys_TOADGAN-52.txt
+win: true
+
+level: krys_TOADGAN-53.txt
+win: false
+
+level: krys_TOADGAN-54.txt
+win: false
+
+level: krys_TOADGAN-55.txt
+win: true
+
+level: krys_TOADGAN-56.txt
+win: false
+
+level: krys_TOADGAN-57.txt
+win: false
+
+level: krys_TOADGAN-58.txt
+win: false
+
+level: krys_TOADGAN-59.txt
+win: false
+
+level: krys_TOADGAN-60.txt
+win: false
+
+level: krys_TOADGAN-61.txt
+win: true
+
+level: krys_TOADGAN-62.txt
+win: false
+
+level: krys_TOADGAN-63.txt
+win: false
+
+level: krys_TOADGAN-64.txt
+win: true
+
+level: krys_TOADGAN-65.txt
+win: true
+
+level: krys_TOADGAN-66.txt
+win: false
+
+level: krys_TOADGAN-67.txt
+win: false
+
+level: krys_TOADGAN-68.txt
+win: false
+
+level: krys_TOADGAN-69.txt
+win: false
+
+level: krys_TOADGAN-70.txt
+win: false
+
+level: krys_TOADGAN-71.txt
+win: false
+
+level: krys_TOADGAN-72.txt
+win: true
+
+level: krys_TOADGAN-73.txt
+win: true
+
+level: krys_TOADGAN-74.txt
+win: false
+
+level: krys_TOADGAN-75.txt
+win: false
+
+level: krys_TOADGAN-76.txt
+win: true
+
+level: krys_TOADGAN-77.txt
+win: false
+
+level: krys_TOADGAN-78.txt
+win: false
+
+level: krys_TOADGAN-79.txt
+win: false
+
+level: krys_TOADGAN-80.txt
+win: true
+
+level: krys_TOADGAN-81.txt
+win: true
+
+level: krys_TOADGAN-82.txt
+win: false
+
+level: krys_TOADGAN-83.txt
+win: false
+
+level: krys_TOADGAN-84.txt
+win: false
+
+level: krys_TOADGAN-85.txt
+win: false
+
+level: krys_TOADGAN-86.txt
+win: true
+
+level: krys_TOADGAN-87.txt
+win: false
+
+level: krys_TOADGAN-88.txt
+win: false
+
+level: krys_TOADGAN-89.txt
+win: true
+
+level: krys_TOADGAN-90.txt
+win: true
+
+level: krys_TOADGAN-91.txt
+win: false
+
+level: krys_TOADGAN-92.txt
+win: false
+
+level: krys_TOADGAN-93.txt
+win: false
+
+level: krys_TOADGAN-94.txt
+win: false
+
+level: krys_TOADGAN-95.txt
+win: false
+
+level: krys_TOADGAN-96.txt
+win: true
+
+level: krys_TOADGAN-97.txt
+win: false
+
+level: krys_TOADGAN-98.txt
+win: true
+
+level: krys_TOADGAN-99.txt
+win: true
+
+level: krys_TOADGAN-100.txt
+win: false
+
+level: krys_TOADGAN-101.txt
+win: false
+
+level: krys_TOADGAN-102.txt
+win: true
+
+level: krys_TOADGAN-103.txt
+win: false
+
+level: krys_TOADGAN-104.txt
+win: false
+
+level: krys_TOADGAN-105.txt
+win: false
+
+level: krys_TOADGAN-106.txt
+win: false
+
+level: krys_TOADGAN-107.txt
+win: true
+
+level: krys_TOADGAN-108.txt
+win: false
+
+level: krys_TOADGAN-109.txt
+win: false
+
+level: krys_TOADGAN-110.txt
+win: false
+
+level: krys_TOADGAN-111.txt
+win: false
+
+level: krys_TOADGAN-112.txt
+win: false
+
+level: krys_TOADGAN-113.txt
+win: true
+
+level: krys_TOADGAN-114.txt
+win: false
+
+level: krys_TOADGAN-115.txt
+win: false
+
+level: krys_TOADGAN-116.txt
+win: false
+
+level: krys_TOADGAN-117.txt
+win: false
+
+level: krys_TOADGAN-118.txt
+win: true
+
+level: krys_TOADGAN-119.txt
+win: true
+
+level: krys_TOADGAN-120.txt
+win: true
+
+level: krys_TOADGAN-121.txt
+win: false
+
+level: krys_TOADGAN-122.txt
+win: true
+
+level: krys_TOADGAN-123.txt
+win: false
+
+level: krys_TOADGAN-124.txt
+win: false
+
+level: krys_TOADGAN-125.txt
+win: true
+
+level: krys_TOADGAN-126.txt
+win: true
+
+level: krys_TOADGAN-127.txt
+win: false
+
+level: krys_TOADGAN-128.txt
+win: false
+
+level: krys_TOADGAN-129.txt
+win: false
+
+level: krys_TOADGAN-130.txt
+win: false
+
+level: krys_TOADGAN-131.txt
+win: false
+
+level: krys_TOADGAN-132.txt
+win: false
+
+level: krys_TOADGAN-133.txt
+win: true
+
+level: krys_TOADGAN-134.txt
+win: false
+
+level: krys_TOADGAN-135.txt
+win: false
+
+level: krys_TOADGAN-136.txt
+win: false
+
+level: krys_TOADGAN-137.txt
+win: false
+
+level: krys_TOADGAN-138.txt
+win: false
+
+level: krys_TOADGAN-139.txt
+win: false
+
+level: krys_TOADGAN-140.txt
+win: false
+
+level: krys_TOADGAN-141.txt
+win: true
+
+level: krys_TOADGAN-142.txt
+win: false
+
+level: krys_TOADGAN-143.txt
+win: true
+
+level: krys_TOADGAN-144.txt
+win: false
+
+level: krys_TOADGAN-145.txt
+win: false
+
+level: krys_TOADGAN-146.txt
+win: false
+
+level: krys_TOADGAN-147.txt
+win: false
+
+level: krys_TOADGAN-148.txt
+win: false
+
+level: krys_TOADGAN-149.txt
+win: false
+
+level: krys_TOADGAN-150.txt
+win: false
+
+level: krys_TOADGAN-151.txt
+win: false
+
+level: krys_TOADGAN-152.txt
+win: true
+
+level: krys_TOADGAN-153.txt
+win: false
+
+level: krys_TOADGAN-154.txt
+win: false
+
+level: krys_TOADGAN-155.txt
+win: false
+
+level: krys_TOADGAN-156.txt
+win: false
+
+level: krys_TOADGAN-157.txt
+win: false
+
+level: krys_TOADGAN-158.txt
+win: false
+
+level: krys_TOADGAN-159.txt
+win: false
+
+level: krys_TOADGAN-160.txt
+win: false
+
+level: krys_TOADGAN-161.txt
+win: true
+
+level: krys_TOADGAN-162.txt
+win: true
+
+level: krys_TOADGAN-163.txt
+win: true
+
+level: krys_TOADGAN-164.txt
+win: false
+
+level: krys_TOADGAN-165.txt
+win: false
+
+level: krys_TOADGAN-166.txt
+win: true
+
+level: krys_TOADGAN-167.txt
+win: true
+
+level: krys_TOADGAN-168.txt
+win: true
+
+level: krys_TOADGAN-169.txt
+win: true
+
+level: krys_TOADGAN-170.txt
+win: false
+
+level: krys_TOADGAN-171.txt
+win: false
+
+level: krys_TOADGAN-172.txt
+win: true
+
+level: krys_TOADGAN-173.txt
+win: false
+
+level: krys_TOADGAN-174.txt
+win: true
+
+level: krys_TOADGAN-175.txt
+win: false
+
+level: krys_TOADGAN-176.txt
+win: false
+
+level: krys_TOADGAN-177.txt
+win: true
+
+level: krys_TOADGAN-178.txt
+win: false
+
+level: krys_TOADGAN-179.txt
+win: true
+
+level: krys_TOADGAN-180.txt
+win: false
+
+level: krys_TOADGAN-181.txt
+win: true
+
+level: krys_TOADGAN-182.txt
+win: false
+
+level: krys_TOADGAN-183.txt
+win: false
+
+level: krys_TOADGAN-184.txt
+win: true
+
+level: krys_TOADGAN-185.txt
+win: false
+
+level: krys_TOADGAN-186.txt
+win: false
+
+level: krys_TOADGAN-187.txt
+win: false
+
+level: krys_TOADGAN-188.txt
+win: false
+
+level: krys_TOADGAN-189.txt
+win: false
+
+level: krys_TOADGAN-190.txt
+win: false
+
+level: krys_TOADGAN-191.txt
+win: false
+
+level: krys_TOADGAN-192.txt
+win: false
+
+level: krys_TOADGAN-193.txt
+win: false
+
+level: krys_TOADGAN-194.txt
+win: true
+
+level: krys_TOADGAN-195.txt
+win: false
+
+level: krys_TOADGAN-196.txt
+win: true
+
+level: krys_TOADGAN-197.txt
+win: false
+
+level: krys_TOADGAN-198.txt
+win: false
+
+level: krys_TOADGAN-199.txt
+win: false
+
+level: krys_TOADGAN-200.txt
+win: false
+
+level: krys_TOADGAN-201.txt
+win: false
+
+level: krys_TOADGAN-202.txt
+win: true
+
+level: krys_TOADGAN-203.txt
+win: false
+
+level: krys_TOADGAN-204.txt
+win: false
+
+level: krys_TOADGAN-205.txt
+win: false
+
+level: krys_TOADGAN-206.txt
+win: false
+
+level: krys_TOADGAN-207.txt
+win: true
+
+level: krys_TOADGAN-208.txt
+win: false
+
+level: krys_TOADGAN-209.txt
+win: false
+
+level: krys_TOADGAN-210.txt
+win: true
+
+level: krys_TOADGAN-211.txt
+win: false
+
+level: krys_TOADGAN-212.txt
+win: false
+
+level: krys_TOADGAN-213.txt
+win: false
+
+level: krys_TOADGAN-214.txt
+win: false
+
+level: krys_TOADGAN-215.txt
+win: true
+
+level: krys_TOADGAN-216.txt
+win: true
+
+level: krys_TOADGAN-217.txt
+win: false
+
+level: krys_TOADGAN-218.txt
+win: false
+
+level: krys_TOADGAN-219.txt
+win: false
+
+level: krys_TOADGAN-220.txt
+win: false
+
+level: krys_TOADGAN-221.txt
+win: false
+
+level: krys_TOADGAN-222.txt
+win: false
+
+level: krys_TOADGAN-223.txt
+win: true
+
+level: krys_TOADGAN-224.txt
+win: true
+
+level: krys_TOADGAN-225.txt
+win: false
+
+level: krys_TOADGAN-226.txt
+win: true
+
+level: krys_TOADGAN-227.txt
+win: true
+
+level: krys_TOADGAN-228.txt
+win: true
+
+level: krys_TOADGAN-229.txt
+win: false
+
+level: krys_TOADGAN-230.txt
+win: false
+
+level: krys_TOADGAN-231.txt
+win: false
+
+level: krys_TOADGAN-232.txt
+win: true
+
+level: krys_TOADGAN-233.txt
+win: false
+
+level: krys_TOADGAN-234.txt
+win: false
+
+level: krys_TOADGAN-235.txt
+win: false
+
+level: krys_TOADGAN-236.txt
+win: false
+
+level: krys_TOADGAN-237.txt
+win: true
+
+level: krys_TOADGAN-238.txt
+win: false
+
+level: krys_TOADGAN-239.txt
+win: false
+
+level: krys_TOADGAN-240.txt
+win: true
+
+level: krys_TOADGAN-241.txt
+win: true
+
+level: krys_TOADGAN-242.txt
+win: true
+
+level: krys_TOADGAN-243.txt
+win: false
+
+level: krys_TOADGAN-244.txt
+win: true
+
+level: krys_TOADGAN-245.txt
+win: false
+
+level: krys_TOADGAN-246.txt
+win: true
+
+level: krys_TOADGAN-247.txt
+win: false
+
+level: krys_TOADGAN-248.txt
+win: true
+
+level: krys_TOADGAN-249.txt
+win: false
+
+level: krys_TOADGAN-250.txt
+win: false
+
+level: krys_TOADGAN-251.txt
+win: false
+
+level: krys_TOADGAN-252.txt
+win: false
+
+level: krys_TOADGAN-253.txt
+win: false
+
+level: krys_TOADGAN-254.txt
+win: false
+
+level: krys_TOADGAN-255.txt
+win: false
+
+level: krys_TOADGAN-256.txt
+win: false
+
+level: krys_TOADGAN-257.txt
+win: false
+
+level: krys_TOADGAN-258.txt
+win: false
+
+level: krys_TOADGAN-259.txt
+win: false
+
+level: krys_TOADGAN-260.txt
+win: false
+
+level: krys_TOADGAN-261.txt
+win: false
+
+level: krys_TOADGAN-262.txt
+win: false
+
+level: krys_TOADGAN-263.txt
+win: false
+
+level: krys_TOADGAN-264.txt
+win: false
+
+level: krys_TOADGAN-265.txt
+win: false
+
+level: krys_TOADGAN-266.txt
+win: false
+
+level: krys_TOADGAN-267.txt
+win: false
+
+level: krys_TOADGAN-268.txt
+win: false
+
+level: krys_TOADGAN-269.txt
+win: false
+
+level: krys_TOADGAN-270.txt
+win: false
+
+level: krys_TOADGAN-271.txt
+win: true
+
+level: krys_TOADGAN-272.txt
+win: true
+
+level: krys_TOADGAN-273.txt
+win: false
+
+level: krys_TOADGAN-274.txt
+win: false
+
+level: krys_TOADGAN-275.txt
+win: true
+
+level: krys_TOADGAN-276.txt
+win: true
+
+level: krys_TOADGAN-277.txt
+win: false
+
+level: krys_TOADGAN-278.txt
+win: false
+
+level: krys_TOADGAN-279.txt
+win: false
+
+level: krys_TOADGAN-280.txt
+win: true
+
+level: krys_TOADGAN-281.txt
+win: false
+
+level: krys_TOADGAN-282.txt
+win: false
+
+level: krys_TOADGAN-283.txt
+win: false
+
+level: krys_TOADGAN-284.txt
+win: false
+
+level: krys_TOADGAN-285.txt
+win: true
+
+level: krys_TOADGAN-286.txt
+win: false
+
+level: krys_TOADGAN-287.txt
+win: true
+
+level: krys_TOADGAN-288.txt
+win: false
+
+level: krys_TOADGAN-289.txt
+win: false
+
+level: krys_TOADGAN-290.txt
+win: false
+
+level: krys_TOADGAN-291.txt
+win: false
+
+level: krys_TOADGAN-292.txt
+win: false
+
+level: krys_TOADGAN-293.txt
+win: false
+
+level: krys_TOADGAN-294.txt
+win: true
+
+level: krys_TOADGAN-295.txt
+win: false
+
+level: krys_TOADGAN-296.txt
+win: false
+
+level: krys_TOADGAN-297.txt
+win: true
+
+level: krys_TOADGAN-298.txt
+win: false
+
+level: krys_TOADGAN-299.txt
+win: false
+
+level: krys_TOADGAN-300.txt
+win: false
+
+level: krys_TOADGAN-301.txt
+win: true
+
+level: krys_TOADGAN-302.txt
+win: false
+
+level: krys_TOADGAN-303.txt
+win: false
+
+level: krys_TOADGAN-304.txt
+win: false
+
+level: krys_TOADGAN-305.txt
+win: false
+
+level: krys_TOADGAN-306.txt
+win: true
+
+level: krys_TOADGAN-307.txt
+win: false
+
+level: krys_TOADGAN-308.txt
+win: false
+
+level: krys_TOADGAN-309.txt
+win: false
+
+level: krys_TOADGAN-310.txt
+win: false
+
+level: krys_TOADGAN-311.txt
+win: false
+
+level: krys_TOADGAN-312.txt
+win: false
+
+level: krys_TOADGAN-313.txt
+win: false
+
+level: krys_TOADGAN-314.txt
+win: false
+
+level: krys_TOADGAN-315.txt
+win: true
+
+level: krys_TOADGAN-316.txt
+win: false
+
+level: krys_TOADGAN-317.txt
+win: false
+
+level: krys_TOADGAN-318.txt
+win: false
+
+level: krys_TOADGAN-319.txt
+win: false
+
+level: krys_TOADGAN-320.txt
+win: false
+
+level: krys_TOADGAN-321.txt
+win: false
+
+level: krys_TOADGAN-322.txt
+win: false
+
+level: krys_TOADGAN-323.txt
+win: false
+
+level: krys_TOADGAN-324.txt
+win: false
+
+level: krys_TOADGAN-325.txt
+win: false
+
+level: krys_TOADGAN-326.txt
+win: false
+
+level: krys_TOADGAN-327.txt
+win: false
+
+level: krys_TOADGAN-328.txt
+win: true
+
+level: krys_TOADGAN-329.txt
+win: false
+
+level: krys_TOADGAN-330.txt
+win: false
+
+level: krys_TOADGAN-331.txt
+win: false
+
+level: krys_TOADGAN-332.txt
+win: false
+
+level: krys_TOADGAN-333.txt
+win: false
+
+level: krys_TOADGAN-334.txt
+win: false
+
+level: krys_TOADGAN-335.txt
+win: true
+
+level: krys_TOADGAN-336.txt
+win: false
+
+level: krys_TOADGAN-337.txt
+win: false
+
+level: krys_TOADGAN-338.txt
+win: true
+
+level: krys_TOADGAN-339.txt
+win: true
+
+level: krys_TOADGAN-340.txt
+win: false
+
+level: krys_TOADGAN-341.txt
+win: true
+
+level: krys_TOADGAN-342.txt
+win: false
+
+level: krys_TOADGAN-343.txt
+win: true
+
+level: krys_TOADGAN-344.txt
+win: true
+
+level: krys_TOADGAN-345.txt
+win: false
+
+level: krys_TOADGAN-346.txt
+win: false
+
+level: krys_TOADGAN-347.txt
+win: false
+
+level: krys_TOADGAN-348.txt
+win: true
+
+level: krys_TOADGAN-349.txt
+win: false
+
+level: krys_TOADGAN-350.txt
+win: false
+
+level: krys_TOADGAN-351.txt
+win: false
+
+level: krys_TOADGAN-352.txt
+win: false
+
+level: krys_TOADGAN-353.txt
+win: false
+
+level: krys_TOADGAN-354.txt
+win: false
+
+level: krys_TOADGAN-355.txt
+win: false
+
+level: krys_TOADGAN-356.txt
+win: false
+
+level: krys_TOADGAN-357.txt
+win: false
+
+level: krys_TOADGAN-358.txt
+win: false
+
+level: krys_TOADGAN-359.txt
+win: false
+
+level: krys_TOADGAN-360.txt
+win: false
+
+level: krys_TOADGAN-361.txt
+win: false
+
+level: krys_TOADGAN-362.txt
+win: false
+
+level: krys_TOADGAN-363.txt
+win: false
+
+level: krys_TOADGAN-364.txt
+win: false
+
+level: krys_TOADGAN-365.txt
+win: false
+
+level: krys_TOADGAN-366.txt
+win: false
+
+level: krys_TOADGAN-367.txt
+win: false
+
+level: krys_TOADGAN-368.txt
+win: false
+
+level: krys_TOADGAN-369.txt
+win: false
+
+level: krys_TOADGAN-370.txt
+win: false
+
+level: krys_TOADGAN-371.txt
+win: false
+
+level: krys_TOADGAN-372.txt
+win: false
+
+level: krys_TOADGAN-373.txt
+win: true
+
+level: krys_TOADGAN-374.txt
+win: true
+
+level: krys_TOADGAN-375.txt
+win: true
+
+level: krys_TOADGAN-376.txt
+win: true
+
+level: krys_TOADGAN-377.txt
+win: true
+
+level: krys_TOADGAN-378.txt
+win: true
+
+level: krys_TOADGAN-379.txt
+win: false
+
+level: krys_TOADGAN-380.txt
+win: false
+
+level: krys_TOADGAN-381.txt
+win: false
+
+level: krys_TOADGAN-382.txt
+win: false
+
+level: krys_TOADGAN-383.txt
+win: true
+
+level: krys_TOADGAN-384.txt
+win: false
+
+level: krys_TOADGAN-385.txt
+win: false
+
+level: krys_TOADGAN-386.txt
+win: false
+
+level: krys_TOADGAN-387.txt
+win: false
+
+level: krys_TOADGAN-388.txt
+win: false
+
+level: krys_TOADGAN-389.txt
+win: false
+
+level: krys_TOADGAN-390.txt
+win: false
+
+level: krys_TOADGAN-391.txt
+win: true
+
+level: krys_TOADGAN-392.txt
+win: false
+
+level: krys_TOADGAN-393.txt
+win: false
+
+level: krys_TOADGAN-394.txt
+win: false
+
+level: krys_TOADGAN-395.txt
+win: false
+
+level: krys_TOADGAN-396.txt
+win: true
+
+level: krys_TOADGAN-397.txt
+win: false
+
+level: krys_TOADGAN-398.txt
+win: false
+
+level: krys_TOADGAN-399.txt
+win: false
+
+level: krys_TOADGAN-400.txt
+win: false
+
+level: krys_TOADGAN-401.txt
+win: false
+
+level: krys_TOADGAN-402.txt
+win: false
+
+level: krys_TOADGAN-403.txt
+win: true
+
+level: krys_TOADGAN-404.txt
+win: false
+
+level: krys_TOADGAN-405.txt
+win: false
+
+level: krys_TOADGAN-406.txt
+win: true
+
+level: krys_TOADGAN-407.txt
+win: false
+
+level: krys_TOADGAN-408.txt
+win: false
+
+level: krys_TOADGAN-409.txt
+win: false
+
+level: krys_TOADGAN-410.txt
+win: true
+
+level: krys_TOADGAN-411.txt
+win: false
+
+level: krys_TOADGAN-412.txt
+win: true
+
+level: krys_TOADGAN-413.txt
+win: false
+
+level: krys_TOADGAN-414.txt
+win: false
+
+level: krys_TOADGAN-415.txt
+win: false
+
+level: krys_TOADGAN-416.txt
+win: false
+
+level: krys_TOADGAN-417.txt
+win: true
+
+level: krys_TOADGAN-418.txt
+win: false
+
+level: krys_TOADGAN-419.txt
+win: false
+
+level: krys_TOADGAN-420.txt
+win: false
+
+level: krys_TOADGAN-421.txt
+win: false
+
+level: krys_TOADGAN-422.txt
+win: false
+
+level: krys_TOADGAN-423.txt
+win: false
+
+level: krys_TOADGAN-424.txt
+win: true
+
+level: krys_TOADGAN-425.txt
+win: false
+
+level: krys_TOADGAN-426.txt
+win: true
+
+level: krys_TOADGAN-427.txt
+win: false
+
+level: krys_TOADGAN-428.txt
+win: false
+
+level: krys_TOADGAN-429.txt
+win: true
+
+level: krys_TOADGAN-430.txt
+win: false
+
+level: krys_TOADGAN-431.txt
+win: true
+
+level: krys_TOADGAN-432.txt
+win: false
+
+level: krys_TOADGAN-433.txt
+win: false
+
+level: krys_TOADGAN-434.txt
+win: true
+
+level: krys_TOADGAN-435.txt
+win: false
+
+level: krys_TOADGAN-436.txt
+win: false
+
+level: krys_TOADGAN-437.txt
+win: false
+
+level: krys_TOADGAN-438.txt
+win: false
+
+level: krys_TOADGAN-439.txt
+win: true
+
+level: krys_TOADGAN-440.txt
+win: false
+
+level: krys_TOADGAN-441.txt
+win: false
+
+level: krys_TOADGAN-442.txt
+win: true
+
+level: krys_TOADGAN-443.txt
+win: false
+
+level: krys_TOADGAN-444.txt
+win: true
+
+level: krys_TOADGAN-445.txt
+win: false
+
+level: krys_TOADGAN-446.txt
+win: false
+
+level: krys_TOADGAN-447.txt
+win: false
+
+level: krys_TOADGAN-448.txt
+win: true
+
+level: krys_TOADGAN-449.txt
+win: true
+
+level: krys_TOADGAN-450.txt
+win: false
+
+level: krys_TOADGAN-451.txt
+win: false
+
+level: krys_TOADGAN-452.txt
+win: false
+
+level: krys_TOADGAN-453.txt
+win: true
+
+level: krys_TOADGAN-454.txt
+win: false
+
+level: krys_TOADGAN-455.txt
+win: false
+
+level: krys_TOADGAN-456.txt
+win: false
+
+level: krys_TOADGAN-457.txt
+win: false
+
+level: krys_TOADGAN-458.txt
+win: false
+
+level: krys_TOADGAN-459.txt
+win: true
+
+level: krys_TOADGAN-460.txt
+win: false
+
+level: krys_TOADGAN-461.txt
+win: false
+
+level: krys_TOADGAN-462.txt
+win: true
+
+level: krys_TOADGAN-463.txt
+win: true
+
+level: krys_TOADGAN-464.txt
+win: true
+
+level: krys_TOADGAN-465.txt
+win: true
+
+level: krys_TOADGAN-466.txt
+win: false
+
+level: krys_TOADGAN-467.txt
+win: false
+
+level: krys_TOADGAN-468.txt
+win: true
+
+level: krys_TOADGAN-469.txt
+win: false
+
+level: krys_TOADGAN-470.txt
+win: false
+
+level: krys_TOADGAN-471.txt
+win: false
+
+level: krys_TOADGAN-472.txt
+win: false
+
+level: krys_TOADGAN-473.txt
+win: true
+
+level: krys_TOADGAN-474.txt
+win: false
+
+level: krys_TOADGAN-475.txt
+win: true
+
+level: krys_TOADGAN-476.txt
+win: false
+
+level: krys_TOADGAN-477.txt
+win: false
+
+level: krys_TOADGAN-478.txt
+win: false
+
+level: krys_TOADGAN-479.txt
+win: false
+
+level: krys_TOADGAN-480.txt
+win: false
+
+level: krys_TOADGAN-481.txt
+win: false
+
+level: krys_TOADGAN-482.txt
+win: false
+
+level: krys_TOADGAN-483.txt
+win: false
+
+level: krys_TOADGAN-484.txt
+win: false
+
+level: krys_TOADGAN-485.txt
+win: false
+
+level: krys_TOADGAN-486.txt
+win: false
+
+level: krys_TOADGAN-487.txt
+win: false
+
+level: krys_TOADGAN-488.txt
+win: true
+
+level: krys_TOADGAN-489.txt
+win: true
+
+level: krys_TOADGAN-490.txt
+win: false
+
+level: krys_TOADGAN-491.txt
+win: false
+
+level: krys_TOADGAN-492.txt
+win: false
+
+level: krys_TOADGAN-493.txt
+win: true
+
+level: krys_TOADGAN-494.txt
+win: false
+
+level: krys_TOADGAN-495.txt
+win: false
+
+level: krys_TOADGAN-496.txt
+win: false
+
+level: krys_TOADGAN-497.txt
+win: false
+
+level: krys_TOADGAN-498.txt
+win: false
+
+level: krys_TOADGAN-499.txt
+win: false
+
+level: krys_TOADGAN-500.txt
+win: true
+
+level: krys_TOADGAN-501.txt
+win: true
+
+level: krys_TOADGAN-502.txt
+win: false
+
+level: krys_TOADGAN-503.txt
+win: false
+
+level: krys_TOADGAN-504.txt
+win: false
+
+level: krys_TOADGAN-505.txt
+win: false
+
+level: krys_TOADGAN-506.txt
+win: false
+
+level: krys_TOADGAN-507.txt
+win: false
+
+level: krys_TOADGAN-508.txt
+win: false
+
+level: krys_TOADGAN-509.txt
+win: false
+
+level: krys_TOADGAN-510.txt
+win: true
+
+level: krys_TOADGAN-511.txt
+win: false
+
+level: krys_TOADGAN-512.txt
+win: false
+
+level: krys_TOADGAN-513.txt
+win: false
+
+level: krys_TOADGAN-514.txt
+win: false
+
+level: krys_TOADGAN-515.txt
+win: false
+
+level: krys_TOADGAN-516.txt
+win: true
+
+level: krys_TOADGAN-517.txt
+win: false
+
+level: krys_TOADGAN-518.txt
+win: false
+
+level: krys_TOADGAN-519.txt
+win: false
+
+level: krys_TOADGAN-520.txt
+win: false
+
+level: krys_TOADGAN-521.txt
+win: true
+
+level: krys_TOADGAN-522.txt
+win: true
+
+level: krys_TOADGAN-523.txt
+win: false
+
+level: krys_TOADGAN-524.txt
+win: false
+
+level: krys_TOADGAN-525.txt
+win: true
+
+level: krys_TOADGAN-526.txt
+win: false
+
+level: krys_TOADGAN-527.txt
+win: true
+
+level: krys_TOADGAN-528.txt
+win: false
+
+level: krys_TOADGAN-529.txt
+win: false
+
+level: krys_TOADGAN-530.txt
+win: true
+
+level: krys_TOADGAN-531.txt
+win: false
+
+level: krys_TOADGAN-532.txt
+win: false
+
+level: krys_TOADGAN-533.txt
+win: false
+
+level: krys_TOADGAN-534.txt
+win: false
+
+level: krys_TOADGAN-535.txt
+win: false
+
+level: krys_TOADGAN-536.txt
+win: false
+
+level: krys_TOADGAN-537.txt
+win: true
+
+level: krys_TOADGAN-538.txt
+win: false
+
+level: krys_TOADGAN-539.txt
+win: false
+
+level: krys_TOADGAN-540.txt
+win: true
+
+level: krys_TOADGAN-541.txt
+win: false
+
+level: krys_TOADGAN-542.txt
+win: false
+
+level: krys_TOADGAN-543.txt
+win: false
+
+level: krys_TOADGAN-544.txt
+win: true
+
+level: krys_TOADGAN-545.txt
+win: false
+
+level: krys_TOADGAN-546.txt
+win: false
+
+level: krys_TOADGAN-547.txt
+win: false
+
+level: krys_TOADGAN-548.txt
+win: false
+
+level: krys_TOADGAN-549.txt
+win: true
+
+level: krys_TOADGAN-550.txt
+win: false
+
+level: krys_TOADGAN-551.txt
+win: false
+
+level: krys_TOADGAN-552.txt
+win: false
+
+level: krys_TOADGAN-553.txt
+win: false
+
+level: krys_TOADGAN-554.txt
+win: false
+
+level: krys_TOADGAN-555.txt
+win: true
+
+level: krys_TOADGAN-556.txt
+win: false
+
+level: krys_TOADGAN-557.txt
+win: false
+
+level: krys_TOADGAN-558.txt
+win: false
+
+level: krys_TOADGAN-559.txt
+win: true
+
+level: krys_TOADGAN-560.txt
+win: true
+
+level: krys_TOADGAN-561.txt
+win: true
+
+level: krys_TOADGAN-562.txt
+win: true
+
+level: krys_TOADGAN-563.txt
+win: false
+
+level: krys_TOADGAN-564.txt
+win: false
+
+level: krys_TOADGAN-565.txt
+win: true
+
+level: krys_TOADGAN-566.txt
+win: true
+
+level: krys_TOADGAN-567.txt
+win: false
+
+level: krys_TOADGAN-568.txt
+win: false
+
+level: krys_TOADGAN-569.txt
+win: true
+
+level: krys_TOADGAN-570.txt
+win: true
+
+level: krys_TOADGAN-571.txt
+win: false
+
+level: krys_TOADGAN-572.txt
+win: false
+
+level: krys_TOADGAN-573.txt
+win: false
+
+level: krys_TOADGAN-574.txt
+win: false
+
+level: krys_TOADGAN-575.txt
+win: false
+
+level: krys_TOADGAN-576.txt
+win: false
+
+level: krys_TOADGAN-577.txt
+win: false
+
+level: krys_TOADGAN-578.txt
+win: false
+
+level: krys_TOADGAN-579.txt
+win: false
+
+level: krys_TOADGAN-580.txt
+win: false
+
+level: krys_TOADGAN-581.txt
+win: false
+
+level: krys_TOADGAN-582.txt
+win: true
+
+level: krys_TOADGAN-583.txt
+win: false
+
+level: krys_TOADGAN-584.txt
+win: false
+
+level: krys_TOADGAN-585.txt
+win: false
+
+level: krys_TOADGAN-586.txt
+win: false
+
+level: krys_TOADGAN-587.txt
+win: true
+
+level: krys_TOADGAN-588.txt
+win: true
+
+level: krys_TOADGAN-589.txt
+win: true
+
+level: krys_TOADGAN-590.txt
+win: true
+
+level: krys_TOADGAN-591.txt
+win: true
+
+level: krys_TOADGAN-592.txt
+win: false
+
+level: krys_TOADGAN-593.txt
+win: true
+
+level: krys_TOADGAN-594.txt
+win: false
+
+level: krys_TOADGAN-595.txt
+win: false
+
+level: krys_TOADGAN-596.txt
+win: false
+
+level: krys_TOADGAN-597.txt
+win: false
+
+level: krys_TOADGAN-598.txt
+win: true
+
+level: krys_TOADGAN-599.txt
+win: false
+
+level: krys_TOADGAN-600.txt
+win: false
+
+level: krys_TOADGAN-601.txt
+win: false
+
+level: krys_TOADGAN-602.txt
+win: false
+
+level: krys_TOADGAN-603.txt
+win: false
+
+level: krys_TOADGAN-604.txt
+win: true
+
+level: krys_TOADGAN-605.txt
+win: false
+
+level: krys_TOADGAN-606.txt
+win: false
+
+level: krys_TOADGAN-607.txt
+win: true
+
+level: krys_TOADGAN-608.txt
+win: true
+
+level: krys_TOADGAN-609.txt
+win: false
+
+level: krys_TOADGAN-610.txt
+win: false
+
+level: krys_TOADGAN-611.txt
+win: false
+
+level: krys_TOADGAN-612.txt
+win: false
+
+level: krys_TOADGAN-613.txt
+win: false
+
+level: krys_TOADGAN-614.txt
+win: true
+
+level: krys_TOADGAN-615.txt
+win: false
+
+level: krys_TOADGAN-616.txt
+win: true
+
+level: krys_TOADGAN-617.txt
+win: true
+
+level: krys_TOADGAN-618.txt
+win: true
+
+level: krys_TOADGAN-619.txt
+win: false
+
+level: krys_TOADGAN-620.txt
+win: false
+
+level: krys_TOADGAN-621.txt
+win: false
+
+level: krys_TOADGAN-622.txt
+win: false
+
+level: krys_TOADGAN-623.txt
+win: false
+
+level: krys_TOADGAN-624.txt
+win: false
+
+level: krys_TOADGAN-625.txt
+win: false
+
+level: krys_TOADGAN-626.txt
+win: false
+
+level: krys_TOADGAN-627.txt
+win: false
+
+level: krys_TOADGAN-628.txt
+win: true
+
+level: krys_TOADGAN-629.txt
+win: false
+
+level: krys_TOADGAN-630.txt
+win: true
+
+level: krys_TOADGAN-631.txt
+win: false
+
+level: krys_TOADGAN-632.txt
+win: false
+
+level: krys_TOADGAN-633.txt
+win: false
+
+level: krys_TOADGAN-634.txt
+win: false
+
+level: krys_TOADGAN-635.txt
+win: false
+
+level: krys_TOADGAN-636.txt
+win: false
+
+level: krys_TOADGAN-637.txt
+win: false
+
+level: krys_TOADGAN-638.txt
+win: false
+
+level: krys_TOADGAN-639.txt
+win: true
+
+level: krys_TOADGAN-640.txt
+win: false
+
+level: krys_TOADGAN-641.txt
+win: false
+
+level: krys_TOADGAN-642.txt
+win: false
+
+level: krys_TOADGAN-643.txt
+win: false
+
+level: krys_TOADGAN-644.txt
+win: false
+
+level: krys_TOADGAN-645.txt
+win: false
+
+level: krys_TOADGAN-646.txt
+win: false
+
+level: krys_TOADGAN-647.txt
+win: false
+
+level: krys_TOADGAN-648.txt
+win: false
+
+level: krys_TOADGAN-649.txt
+win: false
+
+level: krys_TOADGAN-650.txt
+win: true
+
+level: krys_TOADGAN-651.txt
+win: false
+
+level: krys_TOADGAN-652.txt
+win: false
+
+level: krys_TOADGAN-653.txt
+win: false
+
+level: krys_TOADGAN-654.txt
+win: true
+
+level: krys_TOADGAN-655.txt
+win: true
+
+level: krys_TOADGAN-656.txt
+win: false
+
+level: krys_TOADGAN-657.txt
+win: false
+
+level: krys_TOADGAN-658.txt
+win: false
+
+level: krys_TOADGAN-659.txt
+win: false
+
+level: krys_TOADGAN-660.txt
+win: true
+
+level: krys_TOADGAN-661.txt
+win: false
+
+level: krys_TOADGAN-662.txt
+win: false
+
+level: krys_TOADGAN-663.txt
+win: false
+
+level: krys_TOADGAN-664.txt
+win: false
+
+level: krys_TOADGAN-665.txt
+win: true
+
+level: krys_TOADGAN-666.txt
+win: false
+
+level: krys_TOADGAN-667.txt
+win: true
+
+level: krys_TOADGAN-668.txt
+win: false
+
+level: krys_TOADGAN-669.txt
+win: false
+
+level: krys_TOADGAN-670.txt
+win: false
+
+level: krys_TOADGAN-671.txt
+win: true
+
+level: krys_TOADGAN-672.txt
+win: false
+
+level: krys_TOADGAN-673.txt
+win: false
+
+level: krys_TOADGAN-674.txt
+win: false
+
+level: krys_TOADGAN-675.txt
+win: false
+
+level: krys_TOADGAN-676.txt
+win: false
+
+level: krys_TOADGAN-677.txt
+win: false
+
+level: krys_TOADGAN-678.txt
+win: false
+
+level: krys_TOADGAN-679.txt
+win: true
+
+level: krys_TOADGAN-680.txt
+win: false
+
+level: krys_TOADGAN-681.txt
+win: false
+
+level: krys_TOADGAN-682.txt
+win: false
+
+level: krys_TOADGAN-683.txt
+win: false
+
+level: krys_TOADGAN-684.txt
+win: true
+
+level: krys_TOADGAN-685.txt
+win: true
+
+level: krys_TOADGAN-686.txt
+win: false
+
+level: krys_TOADGAN-687.txt
+win: false
+
+level: krys_TOADGAN-688.txt
+win: false
+
+level: krys_TOADGAN-689.txt
+win: false
+
+level: krys_TOADGAN-690.txt
+win: false
+
+level: krys_TOADGAN-691.txt
+win: false
+
+level: krys_TOADGAN-692.txt
+win: false
+
+level: krys_TOADGAN-693.txt
+win: false
+
+level: krys_TOADGAN-694.txt
+win: false
+
+level: krys_TOADGAN-695.txt
+win: false
+
+level: krys_TOADGAN-696.txt
+win: false
+
+level: krys_TOADGAN-697.txt
+win: false
+
+level: krys_TOADGAN-698.txt
+win: false
+
+level: krys_TOADGAN-699.txt
+win: false
+
+level: krys_TOADGAN-700.txt
+win: true
+
+level: krys_TOADGAN-701.txt
+win: false
+
+level: krys_TOADGAN-702.txt
+win: false
+
+level: krys_TOADGAN-703.txt
+win: false
+
+level: krys_TOADGAN-704.txt
+win: true
+
+level: krys_TOADGAN-705.txt
+win: false
+
+level: krys_TOADGAN-706.txt
+win: false
+
+level: krys_TOADGAN-707.txt
+win: false
+
+level: krys_TOADGAN-708.txt
+win: true
+
+level: krys_TOADGAN-709.txt
+win: false
+
+level: krys_TOADGAN-710.txt
+win: true
+
+level: krys_TOADGAN-711.txt
+win: false
+
+level: krys_TOADGAN-712.txt
+win: true
+
+level: krys_TOADGAN-713.txt
+win: false
+
+level: krys_TOADGAN-714.txt
+win: true
+
+level: krys_TOADGAN-715.txt
+win: false
+
+level: krys_TOADGAN-716.txt
+win: true
+
+level: krys_TOADGAN-717.txt
+win: false
+
+level: krys_TOADGAN-718.txt
+win: false
+
+level: krys_TOADGAN-719.txt
+win: true
+
+level: krys_TOADGAN-720.txt
+win: false
+
+level: krys_TOADGAN-721.txt
+win: false
+
+level: krys_TOADGAN-722.txt
+win: false
+
+level: krys_TOADGAN-723.txt
+win: false
+
+level: krys_TOADGAN-724.txt
+win: false
+
+level: krys_TOADGAN-725.txt
+win: false
+
+level: krys_TOADGAN-726.txt
+win: false
+
+level: krys_TOADGAN-727.txt
+win: false
+
+level: krys_TOADGAN-728.txt
+win: false
+
+level: krys_TOADGAN-729.txt
+win: false
+
+level: krys_TOADGAN-730.txt
+win: false
+
+level: krys_TOADGAN-731.txt
+win: true
+
+level: krys_TOADGAN-732.txt
+win: false
+
+level: krys_TOADGAN-733.txt
+win: false
+
+level: krys_TOADGAN-734.txt
+win: false
+
+level: krys_TOADGAN-735.txt
+win: false
+
+level: krys_TOADGAN-736.txt
+win: false
+
+level: krys_TOADGAN-737.txt
+win: false
+
+level: krys_TOADGAN-738.txt
+win: true
+
+level: krys_TOADGAN-739.txt
+win: true
+
+level: krys_TOADGAN-740.txt
+win: true
+
+level: krys_TOADGAN-741.txt
+win: false
+
+level: krys_TOADGAN-742.txt
+win: false
+
+level: krys_TOADGAN-743.txt
+win: true
+
+level: krys_TOADGAN-744.txt
+win: false
+
+level: krys_TOADGAN-745.txt
+win: false
+
+level: krys_TOADGAN-746.txt
+win: false
+
+level: krys_TOADGAN-747.txt
+win: true
+
+level: krys_TOADGAN-748.txt
+win: false
+
+level: krys_TOADGAN-749.txt
+win: false
+
+level: krys_TOADGAN-750.txt
+win: true
+
+level: krys_TOADGAN-751.txt
+win: false
+
+level: krys_TOADGAN-752.txt
+win: false
+
+level: krys_TOADGAN-753.txt
+win: false
+
+level: krys_TOADGAN-754.txt
+win: false
+
+level: krys_TOADGAN-755.txt
+win: false
+
+level: krys_TOADGAN-756.txt
+win: false
+
+level: krys_TOADGAN-757.txt
+win: false
+
+level: krys_TOADGAN-758.txt
+win: false
+
+level: krys_TOADGAN-759.txt
+win: false
+
+level: krys_TOADGAN-760.txt
+win: true
+
+level: krys_TOADGAN-761.txt
+win: false
+
+level: krys_TOADGAN-762.txt
+win: false
+
+level: krys_TOADGAN-763.txt
+win: false
+
+level: krys_TOADGAN-764.txt
+win: true
+
+level: krys_TOADGAN-765.txt
+win: false
+
+level: krys_TOADGAN-766.txt
+win: false
+
+level: krys_TOADGAN-767.txt
+win: false
+
+level: krys_TOADGAN-768.txt
+win: false
+
+level: krys_TOADGAN-769.txt
+win: false
+
+level: krys_TOADGAN-770.txt
+win: false
+
+level: krys_TOADGAN-771.txt
+win: true
+
+level: krys_TOADGAN-772.txt
+win: false
+
+level: krys_TOADGAN-773.txt
+win: true
+
+level: krys_TOADGAN-774.txt
+win: false
+
+level: krys_TOADGAN-775.txt
+win: false
+
+level: krys_TOADGAN-776.txt
+win: false
+
+level: krys_TOADGAN-777.txt
+win: false
+
+level: krys_TOADGAN-778.txt
+win: false
+
+level: krys_TOADGAN-779.txt
+win: false
+
+level: krys_TOADGAN-780.txt
+win: false
+
+level: krys_TOADGAN-781.txt
+win: false
+
+level: krys_TOADGAN-782.txt
+win: false
+
+level: krys_TOADGAN-783.txt
+win: false
+
+level: krys_TOADGAN-784.txt
+win: false
+
+level: krys_TOADGAN-785.txt
+win: false
+
+level: krys_TOADGAN-786.txt
+win: false
+
+level: krys_TOADGAN-787.txt
+win: false
+
+level: krys_TOADGAN-788.txt
+win: false
+
+level: krys_TOADGAN-789.txt
+win: false
+
+level: krys_TOADGAN-790.txt
+win: false
+
+level: krys_TOADGAN-791.txt
+win: false
+
+level: krys_TOADGAN-792.txt
+win: false
+
+level: krys_TOADGAN-793.txt
+win: true
+
+level: krys_TOADGAN-794.txt
+win: false
+
+level: krys_TOADGAN-795.txt
+win: true
+
+level: krys_TOADGAN-796.txt
+win: false
+
+level: krys_TOADGAN-797.txt
+win: true
+
+level: krys_TOADGAN-798.txt
+win: true
+
+level: krys_TOADGAN-799.txt
+win: false
+
+level: krys_TOADGAN-800.txt
+win: false
+
+level: krys_TOADGAN-801.txt
+win: false
+
+level: krys_TOADGAN-802.txt
+win: false
+
+level: krys_TOADGAN-803.txt
+win: true
+
+level: krys_TOADGAN-804.txt
+win: false
+
+level: krys_TOADGAN-805.txt
+win: false
+
+level: krys_TOADGAN-806.txt
+win: false
+
+level: krys_TOADGAN-807.txt
+win: false
+
+level: krys_TOADGAN-808.txt
+win: true
+
+level: krys_TOADGAN-809.txt
+win: false
+
+level: krys_TOADGAN-810.txt
+win: false
+
+level: krys_TOADGAN-811.txt
+win: true
+
+level: krys_TOADGAN-812.txt
+win: false
+
+level: krys_TOADGAN-813.txt
+win: false
+
+level: krys_TOADGAN-814.txt
+win: false
+
+level: krys_TOADGAN-815.txt
+win: true
+
+level: krys_TOADGAN-816.txt
+win: false
+
+level: krys_TOADGAN-817.txt
+win: false
+
+level: krys_TOADGAN-818.txt
+win: true
+
+level: krys_TOADGAN-819.txt
+win: false
+
+level: krys_TOADGAN-820.txt
+win: false
+
+level: krys_TOADGAN-821.txt
+win: false
+
+level: krys_TOADGAN-822.txt
+win: false
+
+level: krys_TOADGAN-823.txt
+win: false
+
+level: krys_TOADGAN-824.txt
+win: true
+
+level: krys_TOADGAN-825.txt
+win: true
+
+level: krys_TOADGAN-826.txt
+win: false
+
+level: krys_TOADGAN-827.txt
+win: false
+
+level: krys_TOADGAN-828.txt
+win: false
+
+level: krys_TOADGAN-829.txt
+win: false
+
+level: krys_TOADGAN-830.txt
+win: false
+
+level: krys_TOADGAN-831.txt
+win: true
+
+level: krys_TOADGAN-832.txt
+win: true
+
+level: krys_TOADGAN-833.txt
+win: false
+
+level: krys_TOADGAN-834.txt
+win: false
+
+level: krys_TOADGAN-835.txt
+win: false
+
+level: krys_TOADGAN-836.txt
+win: false
+
+level: krys_TOADGAN-837.txt
+win: false
+
+level: krys_TOADGAN-838.txt
+win: false
+
+level: krys_TOADGAN-839.txt
+win: false
+
+level: krys_TOADGAN-840.txt
+win: false
+
+level: krys_TOADGAN-841.txt
+win: true
+
+level: krys_TOADGAN-842.txt
+win: false
+
+level: krys_TOADGAN-843.txt
+win: true
+
+level: krys_TOADGAN-844.txt
+win: true
+
+level: krys_TOADGAN-845.txt
+win: false
+
+level: krys_TOADGAN-846.txt
+win: true
+
+level: krys_TOADGAN-847.txt
+win: false
+
+level: krys_TOADGAN-848.txt
+win: true
+
+level: krys_TOADGAN-849.txt
+win: true
+
+level: krys_TOADGAN-850.txt
+win: true
+
+level: krys_TOADGAN-851.txt
+win: true
+
+level: krys_TOADGAN-852.txt
+win: true
+
+level: krys_TOADGAN-853.txt
+win: false
+
+level: krys_TOADGAN-854.txt
+win: false
+
+level: krys_TOADGAN-855.txt
+win: false
+
+level: krys_TOADGAN-856.txt
+win: true
+
+level: krys_TOADGAN-857.txt
+win: false
+
+level: krys_TOADGAN-858.txt
+win: true
+
+level: krys_TOADGAN-859.txt
+win: false
+
+level: krys_TOADGAN-860.txt
+win: true
+
+level: krys_TOADGAN-861.txt
+win: false
+
+level: krys_TOADGAN-862.txt
+win: false
+
+level: krys_TOADGAN-863.txt
+win: false
+
+level: krys_TOADGAN-864.txt
+win: false
+
+level: krys_TOADGAN-865.txt
+win: false
+
+level: krys_TOADGAN-866.txt
+win: false
+
+level: krys_TOADGAN-867.txt
+win: false
+
+level: krys_TOADGAN-868.txt
+win: false
+
+level: krys_TOADGAN-869.txt
+win: false
+
+level: krys_TOADGAN-870.txt
+win: false
+
+level: krys_TOADGAN-871.txt
+win: false
+
+level: krys_TOADGAN-872.txt
+win: false
+
+level: krys_TOADGAN-873.txt
+win: false
+
+level: krys_TOADGAN-874.txt
+win: false
+
+level: krys_TOADGAN-875.txt
+win: false
+
+level: krys_TOADGAN-876.txt
+win: false
+
+level: krys_TOADGAN-877.txt
+win: false
+
+level: krys_TOADGAN-878.txt
+win: false
+
+level: krys_TOADGAN-879.txt
+win: false
+
+level: krys_TOADGAN-880.txt
+win: true
+
+level: krys_TOADGAN-881.txt
+win: false
+
+level: krys_TOADGAN-882.txt
+win: false
+
+level: krys_TOADGAN-883.txt
+win: false
+
+level: krys_TOADGAN-884.txt
+win: false
+
+level: krys_TOADGAN-885.txt
+win: false
+
+level: krys_TOADGAN-886.txt
+win: false
+
+level: krys_TOADGAN-887.txt
+win: false
+
+level: krys_TOADGAN-888.txt
+win: false
+
+level: krys_TOADGAN-889.txt
+win: false
+
+level: krys_TOADGAN-890.txt
+win: false
+
+level: krys_TOADGAN-891.txt
+win: false
+
+level: krys_TOADGAN-892.txt
+win: true
+
+level: krys_TOADGAN-893.txt
+win: false
+
+level: krys_TOADGAN-894.txt
+win: false
+
+level: krys_TOADGAN-895.txt
+win: false
+
+level: krys_TOADGAN-896.txt
+win: false
+
+level: krys_TOADGAN-897.txt
+win: true
+
+level: krys_TOADGAN-898.txt
+win: true
+
+level: krys_TOADGAN-899.txt
+win: false
+
+level: krys_TOADGAN-900.txt
+win: false
+
+level: krys_TOADGAN-901.txt
+win: false
+
+level: krys_TOADGAN-902.txt
+win: false
+
+level: krys_TOADGAN-903.txt
+win: true
+
+level: krys_TOADGAN-904.txt
+win: false
+
+level: krys_TOADGAN-905.txt
+win: true
+
+level: krys_TOADGAN-906.txt
+win: false
+
+level: krys_TOADGAN-907.txt
+win: false
+
+level: krys_TOADGAN-908.txt
+win: false
+
+level: krys_TOADGAN-909.txt
+win: true
+
+level: krys_TOADGAN-910.txt
+win: false
+
+level: krys_TOADGAN-911.txt
+win: false
+
+level: krys_TOADGAN-912.txt
+win: false
+
+level: krys_TOADGAN-913.txt
+win: false
+
+level: krys_TOADGAN-914.txt
+win: false
+
+level: krys_TOADGAN-915.txt
+win: true
+
+level: krys_TOADGAN-916.txt
+win: false
+
+level: krys_TOADGAN-917.txt
+win: false
+
+level: krys_TOADGAN-918.txt
+win: false
+
+level: krys_TOADGAN-919.txt
+win: false
+
+level: krys_TOADGAN-920.txt
+win: true
+
+level: krys_TOADGAN-921.txt
+win: false
+
+level: krys_TOADGAN-922.txt
+win: false
+
+level: krys_TOADGAN-923.txt
+win: false
+
+level: krys_TOADGAN-924.txt
+win: false
+
+level: krys_TOADGAN-925.txt
+win: false
+
+level: krys_TOADGAN-926.txt
+win: false
+
+level: krys_TOADGAN-927.txt
+win: false
+
+level: krys_TOADGAN-928.txt
+win: false
+
+level: krys_TOADGAN-929.txt
+win: false
+
+level: krys_TOADGAN-930.txt
+win: false
+
+level: krys_TOADGAN-931.txt
+win: true
+
+level: krys_TOADGAN-932.txt
+win: false
+
+level: krys_TOADGAN-933.txt
+win: false
+
+level: krys_TOADGAN-934.txt
+win: true
+
+level: krys_TOADGAN-935.txt
+win: false
+
+level: krys_TOADGAN-936.txt
+win: true
+
+level: krys_TOADGAN-937.txt
+win: false
+
+level: krys_TOADGAN-938.txt
+win: false
+
+level: krys_TOADGAN-939.txt
+win: false
+
+level: krys_TOADGAN-940.txt
+win: true
+
+level: krys_TOADGAN-941.txt
+win: false
+
+level: krys_TOADGAN-942.txt
+win: true
+
+level: krys_TOADGAN-943.txt
+win: false
+
+level: krys_TOADGAN-944.txt
+win: false
+
+level: krys_TOADGAN-945.txt
+win: false
+
+level: krys_TOADGAN-946.txt
+win: false
+
+level: krys_TOADGAN-947.txt
+win: false
+
+level: krys_TOADGAN-948.txt
+win: false
+
+level: krys_TOADGAN-949.txt
+win: false
+
+level: krys_TOADGAN-950.txt
+win: false
+
+level: krys_TOADGAN-951.txt
+win: true
+
+level: krys_TOADGAN-952.txt
+win: false
+
+level: krys_TOADGAN-953.txt
+win: false
+
+level: krys_TOADGAN-954.txt
+win: false
+
+level: krys_TOADGAN-955.txt
+win: true
+
+level: krys_TOADGAN-956.txt
+win: false
+
+level: krys_TOADGAN-957.txt
+win: false
+
+level: krys_TOADGAN-958.txt
+win: false
+
+level: krys_TOADGAN-959.txt
+win: false
+
+level: krys_TOADGAN-960.txt
+win: false
+
+level: krys_TOADGAN-961.txt
+win: false
+
+level: krys_TOADGAN-962.txt
+win: false
+
+level: krys_TOADGAN-963.txt
+win: false
+
+level: krys_TOADGAN-964.txt
+win: false
+
+level: krys_TOADGAN-965.txt
+win: false
+
+level: krys_TOADGAN-966.txt
+win: false
+
+level: krys_TOADGAN-967.txt
+win: false
+
+level: krys_TOADGAN-968.txt
+win: false
+
+level: krys_TOADGAN-969.txt
+win: true
+
+level: krys_TOADGAN-970.txt
+win: true
+
+level: krys_TOADGAN-971.txt
+win: false
+
+level: krys_TOADGAN-972.txt
+win: true
+
+level: krys_TOADGAN-973.txt
+win: false
+
+level: krys_TOADGAN-974.txt
+win: true
+
+level: krys_TOADGAN-975.txt
+win: false
+
+level: krys_TOADGAN-976.txt
+win: false
+
+level: krys_TOADGAN-977.txt
+win: false
+
+level: krys_TOADGAN-978.txt
+win: false
+
+level: krys_TOADGAN-979.txt
+win: false
+
+level: krys_TOADGAN-980.txt
+win: true
+
+level: krys_TOADGAN-981.txt
+win: false
+
+level: krys_TOADGAN-982.txt
+win: false
+
+level: krys_TOADGAN-983.txt
+win: false
+
+level: krys_TOADGAN-984.txt
+win: false
+
+level: krys_TOADGAN-985.txt
+win: false
+
+level: krys_TOADGAN-986.txt
+win: false
+
+level: krys_TOADGAN-987.txt
+win: false
+
+level: krys_TOADGAN-988.txt
+win: true
+
+level: krys_TOADGAN-989.txt
+win: false
+
+level: krys_TOADGAN-990.txt
+win: true
+
+level: krys_TOADGAN-991.txt
+win: true
+
+level: krys_TOADGAN-992.txt
+win: false
+
+level: krys_TOADGAN-993.txt
+win: false
+
+level: krys_TOADGAN-994.txt
+win: false
+
+level: krys_TOADGAN-995.txt
+win: false
+
+level: krys_TOADGAN-996.txt
+win: false
+
+level: krys_TOADGAN-997.txt
+win: false
+
+level: krys_TOADGAN-998.txt
+win: false
+
+level: krys_TOADGAN-999.txt
+win: false
+
+level: krys_TOADGAN-1000.txt
+win: false

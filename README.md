@@ -1,6 +1,6 @@
-This is my ISP (Individual software project) researching papers focusing on the utilization of Generative Adversarial Networks (GANs) in generating Super Mario levels, particularly those employing the A* algorithm by Baumgarten. My aim is to replicate the findings of these papers and subsequently enhance them by implementing an improved pathfinding agent developed by David Šosvald, anticipating the achievement of distinct and potentially superior results in level generation.
+This is my ISP (Individual software project) and Bachelor thesis project researching papers focusing on the utilization of Generative Adversarial Networks (GANs) and Evolutionary Algorithms in generating Super Mario levels, particularly those employing the A* algorithm by Baumgarten. My aim is to replicate the findings of these papers and subsequently enhance them by implementing an improved pathfinding agent developed by David Šosvald, anticipating the achievement of distinct and potentially superior results in level generation.
 
-The following information was forked from here https://gitlab.com/gamedev-cuni-cz/theses/super-mario-astar .
+The following information was forked from here https://gitlab.com/gamedev-cuni-cz/theses/super-mario-astar :
 
 ### Introduction
 This project is based on the framework created by [Ahmed Khalifa](https://scholar.google.com/citations?user=DRcyg5kAAAAJ&hl=en), which can be found [here](https://github.com/amidos2006/Mario-AI-Framework). As a part of his bachelor thesis, David Šosvald created a better forward model for this framework, and to prove its functionality, he built a few intelligent agents on top of it.

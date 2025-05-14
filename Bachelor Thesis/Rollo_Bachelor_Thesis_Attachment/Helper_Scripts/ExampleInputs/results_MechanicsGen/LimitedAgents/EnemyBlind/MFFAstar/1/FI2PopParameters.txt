@@ -1,0 +1,15 @@
+seed = 1023121
+inputFolder = ../input_child/
+outputFolder = ../output_child/
+levelFolder = levels3/
+resultFolder = ../result/
+agentType = enemy
+experimentType = limitedagent
+slicesType = Repeating
+appendingSize = 3
+chromosomeLength = 14
+populationSize = 100
+crossover = 0.7
+mutation = 0.3
+elitism = 1
+fitnessType = entropy
