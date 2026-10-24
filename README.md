@@ -1,3 +1,5 @@
+> **Credits:** This is a fork of [gamedev-cuni-cz/theses/super-mario-astar](https://gitlab.com/gamedev-cuni-cz/theses/super-mario-astar) by David Šosvald, which builds on Ahmed Khalifa's [Mario AI Framework](https://github.com/amidos2006/Mario-AI-Framework). My contribution is the level-generation research described below. Originally hosted on [GitLab](https://gitlab.com/mff_rolloj/super-mario-astar).
+
 This is my ISP (Individual software project) and Bachelor thesis project researching papers focusing on the utilization of Generative Adversarial Networks (GANs) and Evolutionary Algorithms in generating Super Mario levels, particularly those employing the A* algorithm by Baumgarten. My aim is to replicate the findings of these papers and subsequently enhance them by implementing an improved pathfinding agent developed by David Šosvald, anticipating the achievement of distinct and potentially superior results in level generation.
 
 The following information was forked from here https://gitlab.com/gamedev-cuni-cz/theses/super-mario-astar :
